@@ -2,7 +2,7 @@
 
 
 
-![](molworld_testimages/ol_skeleton_keeponlearning_image.jpg)
+![](testimages/ol_skeleton_keeponlearning_image.jpg)
 
 ---
 

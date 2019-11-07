@@ -68,7 +68,7 @@ The products of Reactions 6.6, 6.7 and Figure 39 are called nitroglycerine, pent
 What makes functional groups such as —OH so much more reactive than the carbon-hydrogen skeleton to which they are attached?  Look again at Structure __6.1__ (hexan-1-ol).
 
 
-![](molworld_testimages/s205_2_038i.jpg)
+![](testimages/s205_2_038i.jpg)
 
 
 
@@ -116,7 +116,7 @@ Finally, we remind you of a reservation that we made about functional groups: th
 High explosives generate shock waves moving with a velocity of 7 000-9 000 ms−1. Their commercial production began in 1863 when Immanuel Nobel and his son Alfred began manufacturing nitroglycerine at Helenborg near Stockholm (Figure 40). Nitroglycerine is a yellow oil prone to accidental explosion, and in 1864, the factory blew up, killing Alfred Nobel's brother Emil. Nevertheless, nitroglycerine proved invaluable in nineteenth-century mining engineering projects which required extensive blasting. It was used, for example, to make a way for the Central Pacific railway over the Sierra Nevada, and thus enabled the United States to create the first transcontinental railroad (Figure 41). The availability of so dangerous a material in frontier conditions caused many accidents. There are tales of nitroglycerine being mistakenly used in spirit lamps and as a lubricant, things which, as Nobel's biographer laconically remarks, 'were seldom done more than once by the same person'.
 
 
-![](molworld_testimages/s205_2_039i.jpg)
+![](testimages/s205_2_039i.jpg)
 
 
 
@@ -124,7 +124,7 @@ High explosives generate shock waves moving with a velocity of 7 000-9 000 ms−
 
 Figure 40
 
-![](molworld_testimages/s205_2_040i.jpg)
+![](testimages/s205_2_040i.jpg)
 
 
 
@@ -133,7 +133,7 @@ Figure 40
 Figure 41
 Subsequently, Alfred developed the safer dynamites, first by absorbing nitroglycerine with the clay, kieselguhr (guhr dynamite), and then by mixing it with nitrocellulose to form a gel (gelatin dynamite). A mixture of nitrocellulose and nitroglycerine called cordite was the propellant that launched shells from the guns of Royal Navy battleships in both World Wars.
 
- ![](molworld_testimages/s205_2_i013i.jpg) 
+ ![](testimages/s205_2_i013i.jpg) 
 
 When the hydrocarbons in petrol burn, they acquire the necessary oxygen from the air. High explosives carry their own oxygen, usually in the form of —NO2 groups, which are bound either to oxygen in nitrate esters, or to nitrogen as in RDX (<a xmlns:str="http://exslt.org/strings" href="">Figure 9b</a>), or to carbon as in TNT (Structure __6.2__). In a typical explosion, this oxygen converts the carbon-hydrogen skeleton to steam and oxides of carbon, leaving nitrogen as N2 molecules. The heat liberated raises the temperature of the products to about 4000 °﻿C. Thus, for PETN (Reaction 6.7):
 
@@ -166,7 +166,7 @@ The compound ethene glycol (ethane-1,2-diol), HO—CH2—CH2−OH, is used as an
 
 The ethene glycol molecule contains two alcohol functional groups, —OH. These should both be replaceable by ONO2 groups when ethene glycol is treated with a mixture of concentrated nitric and sulfuric acids. The expected product has the structural formula __Q.26__. These expectations are correct. The product is a colourless liquid, ethene glycol dinitrate (EGDN), and it is indeed a powerful explosive.
 
- ![](molworld_testimages/s205_2_i032i.jpg) 
+ ![](testimages/s205_2_i032i.jpg) 
 
 
 

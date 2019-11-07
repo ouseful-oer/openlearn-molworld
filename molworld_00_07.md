@@ -53,7 +53,7 @@ So far, we have concentrated on the electronic and spatial structures of chemica
 </table>
 
 
-![](molworld_testimages/s205_2_050i.jpg)
+![](testimages/s205_2_050i.jpg)
 
 
 
@@ -229,7 +229,7 @@ If the equilibrium position is very favourable, then the reason why Reaction 8.1
 Let us look at the changes that take place in the internal energy as reactants change progressively into products. Figure 52 shows a simplified version. The internal energies of the reactants (2NO + 2CO) and products (N2 + 2CO2) are marked by two 'platforms'. The platform for the products lies lower than that for the reactants. This shows that the internal energy change during the reaction is negative.
 
 
-![](molworld_testimages/s205_2_051i.jpg)
+![](testimages/s205_2_051i.jpg)
 
 
 
@@ -260,7 +260,7 @@ The solution to the high energy barrier for Reaction 8.1 is to involve a third p
 Obviously, this type of reaction pathway is very different from one that takes place entirely in the gas phase with no catalyst present. Most particularly, because the catalyst surface assists the breaking of the bond in the NO molecule, it has a lower energy barrier (see <a xmlns:str="http://exslt.org/strings" href="">Figure 52</a>) and is much faster. In a *three-way catalytic converter*, some 90 per cent of the nitric oxide in the exhaust stream is converted to nitrogen and carbon dioxide. Figure 53 shows an example. The catalyst actually contains rhodium and platinum. The platinum catalyses the reactions of both carbon monoxide and unburnt hydrocarbons (from the petrol) with oxygen, giving carbon dioxide and steam. The converter is called 'three way' because it thereby removes all three main types of pollutant: nitrogen oxides, carbon monoxide and unburnt hydrocarbons. Figure 54 provides you with further details.
 
 
-![](molworld_testimages/s205_2_052i.jpg)
+![](testimages/s205_2_052i.jpg)
 
 
 
@@ -270,7 +270,7 @@ Figure 53
 
 
 
-![](molworld_testimages/s205_2_053i.jpg)
+![](testimages/s205_2_053i.jpg)
 
 
 Figure 54 The core of a typical three-way catalytic converter 

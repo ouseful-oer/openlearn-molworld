@@ -11,7 +11,7 @@ In <a xmlns:str="http://exslt.org/strings" href="">Section 2</a>, atomic number 
 These explanations require an understanding of the chemical bonding through which the atoms of an element express their valencies. In <a xmlns:str="http://exslt.org/strings" href="">Section 4</a>, we revisited the simplest theories of chemical bonding, which involve the sharing of electron pairs. This sharing, whose nature depends on the electronegativities of the elements, can result in *ionic, covalent or metallic bonding*. Structure from <a xmlns:str="http://exslt.org/strings" href="">Section 1</a>, and bonding from <a xmlns:str="http://exslt.org/strings" href="">Section 4</a>, then combined to provide a classification of chemical substances in general: they are molecular covalent, non-molecular ionic, non-molecular covalent or non-molecular metallic. Many compounds of the typical elements, including nearly all organic compounds, are of the molecular covalent type.
 
 
-![](molworld_testimages/s205_2_054i.jpg)
+![](testimages/s205_2_054i.jpg)
 
 
 

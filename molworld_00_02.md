@@ -10,7 +10,7 @@ The chemistry of the elements is immensely varied. But amidst that variety there
 The discovery of chemical periodicity is particularly associated with the nineteenth-century Russian chemist Dmitri Ivanovich Mendeléev (Figure 16). The periodicity is represented graphically by Periodic Tables. <a xmlns:str="http://exslt.org/strings" href="">Figure 17</a> shows the Periodic Table used in this course. Chemical periodicity is apparent from the appearance of similar elements in the same column. For example, the alkali metals appear in the first column on the left of the Table, and the noble gases in the last column on the right. Horizontal rows are called *Periods*; vertical columns are called *Groups*. The Table can be neatly divided up into blocks of elements (transition elements, lanthanides, actinides and typical elements), each with their own distinctive properties. Above each element is its atomic number. These numbers run from 1-118, 118 being the highest atomic number so far [2001] claimed for any observed atom.
 
 
-![](molworld_testimages/s205_2_016i.jpg)
+![](testimages/s205_2_016i.jpg)
 
 
 
@@ -18,7 +18,7 @@ The discovery of chemical periodicity is particularly associated with the ninete
 
 Figure 16
 
-![](molworld_testimages/s205_2_017i.jpg)
+![](testimages/s205_2_017i.jpg)
 
 
 
@@ -34,7 +34,7 @@ This course is largely concerned with the typical elements. These occur on the e
 In Figure 18, they are numbered in roman numerals from I to VIII. This is the principal Group numbering scheme used in this course, but other ways of numbering the Groups are mentioned in Sections 2.2 and 2.3.
 
 
-![](molworld_testimages/s205_2_018i.jpg)
+![](testimages/s205_2_018i.jpg)
 
 
 
