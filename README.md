@@ -1,10 +1,7 @@
-# oer-md-publish
-Template repo for autobuilding nbsphinx sites
+# The Molecular World
 
-This template repository can be used as a basis for creating documentation sites that are auto-built using CircleCI.
+A reimagining of the OpenLearn Unit [The molecular world](https://www.open.edu/openlearn/science-maths-technology/chemistry/the-molecular-world/content-section-0?active-tab=description-tab).
 
-CircleCI uses Spninx / nbSphinx to produce the a website in `gh-pages` from text and Jupyter notebook documents.
+*Check there for rights information until I sort out boilerplate here...*
 
-Jupytext is installed so that text files (`.py`, `.md`, etc) can be executed as notebooks via Jupytext.
-
-Code execution is disabled by default in the `nbsphinx` configuration file (`conf.py`).
+To view the automatically published pages built from the pages in this repository, go to: https://ouseful-oer.github.io/openlearn-molworld
