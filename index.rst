@@ -1,8 +1,10 @@
 .. You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to your new documentation site!
-=======================================
+The molecular world - OpenLearm Reimagined
+==========================================
+
+Content generated from the OpenLearn Unit [The molecular world](https://www.open.edu/openlearn/science-maths-technology/chemistry/the-molecular-world/content-section-0?active-tab=description-tab).
 
 Contents:
 =========
@@ -14,4 +16,4 @@ SubHeading
     :maxdepth: 2
     :glob:
 
-    content/*
+    molworld_00*
