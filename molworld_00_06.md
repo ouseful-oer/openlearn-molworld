@@ -16,7 +16,7 @@ Let us start with methane, CH4, and bromomethane, CH3Br. In both molecules, the 
 
 						Figure 42 The structures of (a) methane, CH4; (b) bromomethane, CH3Br
 
-Figure 42
+
 We now take bromomethane (Figure 42b) and successively replace each hydrogen atom by a methyl group, CH3, to give the molecules C﻿H﻿3﻿C﻿H﻿2﻿B﻿r, (﻿C﻿H﻿3﻿)﻿2CHBr and (﻿C﻿H﻿3﻿)﻿3﻿CBr. Ball-and-stick representations of each of these molecules are shown at the top of Figure 43. At each carbon atom, there are four bonds directed towards the corners of a tetrahedron, and the complexity of the molecular shape therefore increases from left to right, as the number of carbon atoms increases from one to four.
 
 
@@ -26,13 +26,11 @@ We now take bromomethane (Figure 42b) and successively replace each hydrogen ato
 
 						Figure 43 The molecules (a) bromomethane, CH3Br; (b) bromoethane, CH3CH2Br; (c) 2-bromopropane, (CH3)2CHBr; (d) 2-bromo-2-methylpropane, (CH3)3CBr, shown in both ball-and-stick (top) and space-filling representations (bottom). Also shown are the relative rates of reaction of the four compounds when they are treated with lithium iodide in acetone (propanone) solution
 
-Figure 43
+
 Ball-and-stick representations are a natural three-dimensional development of structural formulae, and they show the disposition of the atoms in space. But by emphasising the bonds, they fail to reveal the subtleties of the molecular shape created by the different sizes of atoms. In this respect, space-filling models are better. These appear at the bottom of Figure 43. In each case, the viewing direction is the same as the ball-and-stick model above. 
 
 Now we shall look at a reaction of these four molecules, all of which contain the same functional group.
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 34</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 34</h1>
 
 #### Question
 
@@ -40,9 +38,7 @@ Now we shall look at a reaction of these four molecules, all of which contain th
 
 
 It is the bromo group, —Br.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
  ![inlinefigure](testimages/s205_2_i014i.jpg) 
 
 So the molecules are of the general type, RBr, where R is the framework to which the functional group is attached. When such bromo compounds are treated with a solution of lithium iodide in 
@@ -58,9 +54,7 @@ What happens in this reaction at the molecular level? As Figure 43 shows, the re
 What is interesting, however, is that in this case, the four bromo compounds respond at very different speeds; <a xmlns:str="http://exslt.org/strings" href="">Figure 43</a> contains their relative rates of reaction with iodide. They decrease from left to right. For example, CH3Br reacts 221 000 times as quickly as (CH3)2CHBr, and the reaction of (CH3 )3CBr is so slow that it appears not to take place at all.
 
 The space-filling molecules explain this. The reaction is one in which an iodide ion must approach and become attached to the carbon atom that is bound to the bromine atom. There is most room for such an approach on the side of the carbon atom that is opposite to the bulky bromine atom - in other words, according to the direction of view depicted in Figure 43. Now look at the space-filling models at the bottom of Figure 43.
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 35</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 35</h1>
 
 #### Question
 
@@ -68,9 +62,7 @@ The space-filling molecules explain this. The reaction is one in which an iodide
 
 
 In CH3Br, the carbon atom is very exposed to the incoming iodide. But if hydrogen atoms are replaced by the more bulky methyl groups, this exposure diminishes, until at (CH3)3CBr the carbon atom attached to bromine lies at the bottom of a small cavity created by the three surrounding methyl groups. The iodide cannot reach this carbon atom, so no reaction occurs.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 The effect that an organic group produces by virtue of its bulk is described as __steric__. Our chosen example is a crude one, but it illustrates an important idea. Whether the reaction occurs or not depends on the ease with which the iodide ion can gain access to the crucial site on the surface of the molecule. Such ideas can be applied to enzymes. Enzymes are protein molecules that facilitate vital biological reactions. They can do this because their molecular surfaces contain *active sites* to which the molecules participating in the reaction (known as *substrates*) can become temporarily bound. The active sites are crevices in the enzyme surface, often of a complicated shape. The substrate has the precise shape required to fit the crevice, but potential competitors that lack this shape are excluded (Figure 44). The need for the substrate to bind to the enzyme surface will often weaken other bonds within the substrate itself, encouraging the changes that the enzyme facilitates. So molecular shape has a fundamental role in the chemistry of life. Let us take a more careful look at it.
 
 
@@ -80,7 +72,7 @@ The effect that an organic group produces by virtue of its bulk is described as 
 
 						Figure 44 A model for enzyme action: only one of the three molecules has the shape required to fit the cavity on the enzyme surface; the other two are excluded
 
-Figure 44
+
 
 ## 6.2 The shapes of some molecules
 
@@ -94,7 +86,7 @@ Here we shall look at the shapes of some simple molecules of the typical element
 
 							Figure 45 A ball-and-stick model of methane, CH4
 
-Figure 45
+
 
 ![Figure 46](testimages/s205_2_045i.jpg)
 
@@ -102,11 +94,9 @@ Figure 45
 
 							Figure 46 A flying-wedge representation of methane
 
-Figure 46
-Having established this convention, we shall now examine the shapes of some simple fluorides. In <a xmlns:str="http://exslt.org/strings" href="">Section 2</a>, we reminded you how to use the Periodic Table to predict the highest fluoride of a typical element.
 
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 36</h1>
+Having established this convention, we shall now examine the shapes of some simple fluorides. In <a xmlns:str="http://exslt.org/strings" href="">Section 2</a>, we reminded you how to use the Periodic Table to predict the highest fluoride of a typical element.
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 36</h1>
 
 #### Question
 
@@ -114,9 +104,7 @@ Having established this convention, we shall now examine the shapes of some simp
 
 
 The Group numbers are: beryllium, II; boron, III; carbon, IV; phosphorus, V; sulfur, VI; iodine, VII. The predicted highest fluorides are therefore BeF2, BF3, CF4, PF5, SF6 and IF7.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 These predictions are correct. All these molecules exist, and their shapes, which have been experimentally determined, are shown in Figure 47.
 
 
@@ -126,7 +114,7 @@ These predictions are correct. All these molecules exist, and their shapes, whic
 
 							Figure 47 The shapes of some fluoride molecules: (a) BeF2; (b) BF3; (c) CF4; (d) PF5; (e) SF6; (f) IF7
 
-Figure 47
+
 Beryllium difluoride is a glassy non-molecular solid at room temperature, but the BeF2 molecule (Figure 47a) is obtained when the solid is vaporized by heating it to 1 200 °C. It is linear; that is, the sequence of atoms F—Be—F lies on a straight line. The spatial arrangement of the neighbouring atoms around a particular atom is said to be the __coordination__ of that atom. In BeF2, therefore, the beryllium is in linear coordination.
 
 At 25 °C, BF3, CF4, PF5, SF6 and IF7 are all gases containing molecules with the shapes shown in Figure 47b-f. In BF3, all four atoms lie in the same plane, the boron atom forming three B—F bonds to three fluorine atoms at the corners of an equilateral triangle (see Maths Help below). This arrangement of fluorines around boron is called __trigonal planar__. In CF4, we have the __tetrahedral coordination__ around carbon that we have already noted in methane (Figures 45 and 46)
@@ -143,13 +131,11 @@ An equilateral triangle (Figure 48) has three equal sides, and three internal an
 
 								Figure 48 An equilateral triangle
 
-Figure 48
+
 
 
 The coordination in PF5, SF6 and IF7 is best described by starting with the horizontal planes containing the central atom of these molecules. In PF5, this plane contains three P—F bonds directed towards the corners of an equilateral triangle as in BF3; in SF6, it contains the sulfur atom with four surrounding fluorines at the corners of a square.
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 37</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 37</h1>
 
 #### Question
 
@@ -157,9 +143,7 @@ The coordination in PF5, SF6 and IF7 is best described by starting with the hori
 
 
 The iodine atom, and five I—F bonds directed towards five fluorine atoms at the corners of a regular pentagon.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 In all three cases, the coordination is then completed by two other bonds to fluorine at 90° to those in the horizontal plane, one pointing up, and the other pointing down. These arrangments in PF5, SF6 and IF7 are called __trigonal bipyramidal, octahedral__ and __pentagonal bipyramidal__, respectively.
 
 In the octahedral molecule SF6, all the fluorine atoms are equivalent. From each of the fluorine atoms, the view of the rest of the molecule looks the same. But in PF5 and IF7, this is not so. There are two kinds of fluorine position: *equatorial positions* in the horizontal plane, and *axial positions* at right-angles to it. In Figure 49, these two kinds of position are labelled for the trigonal-bipyramidal arrangement in PF5.
@@ -171,13 +155,11 @@ In the octahedral molecule SF6, all the fluorine atoms are equivalent. From each
 
 							Figure 49 Axial and equatorial positions in PF5
 
-Figure 7.8
+
 Why are such arrangements adopted? We can imagine that SF6*might* have the shape shown in Structure __7.3__, where the sulfur atom has six S﻿—﻿F bonds directed towards the corners of a regular hexagon, and all seven atoms are in the same plane. But experiment shows the actual shape is the octahedral one shown in <a xmlns:str="http://exslt.org/strings" href="">Figure 47e</a>.
 
  ![inlinefigure](testimages/s205_2_i015i.jpg) 
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 38</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 38</h1>
 
 #### Question
 
@@ -185,15 +167,11 @@ Why are such arrangements adopted? We can imagine that SF6*might* have the shape
 
 
 What we are looking for is the idea that the S—F bonds repel one another, so that they get as far apart in space as possible. In Structure __7.3__, they are confined to a single plane and the angle between them is only 60°. By adopting octahedral coordination, the greatest possible separation of the S—F bonds is achieved, the angle being increased to 90°.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 All the shapes shown in Figure 47 conform to this principle by enforcing a good separation of the bonds in space. The principle looks even more reasonable when we remember that we have identified the bonds with pairs of electrons; the like charges of these electron pairs lead to an expectation that one pair will repel another.
 
 However, two very common molecules will soon dispel the notion that repulsion between bonding pairs of electrons is the *sole* determinant of molecular shape. These are water, H2O, and ammonia, NH3.
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 39</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 39</h1>
 
 #### Question
 
@@ -201,15 +179,11 @@ However, two very common molecules will soon dispel the notion that repulsion be
 
 
 The two O—H bonds of H2O and the three N—H bonds of NH3 would get as far apart as possible: H2O would be linear like BeF2, and NH3 would be trigonal planar like BF3 (see <a xmlns:str="http://exslt.org/strings" href="">Figure 47</a>).
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 The observed shapes are shown in Structures __7.4__ and __7.5__. H2O is V-shaped and NH3 is pyramidal. In both cases the inter-bond angle is much closer to the tetrahedral angle of 109.5° than to our predicted values of 180° and 120°, respectively.
 
  ![inlinefigure](testimages/s205_2_i016i.jpg) 
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 40</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 40</h1>
 
 #### Question
 
@@ -217,9 +191,7 @@ The observed shapes are shown in Structures __7.4__ and __7.5__. H2O is V-shaped
 
 
 In <a xmlns:str="http://exslt.org/strings" href="">Section 4.5.1</a> you saw that the central atoms in these molecules, O and N, carry non-bonded electron pairs. In the molecules of <a xmlns:str="http://exslt.org/strings" href="">Figure 47</a> this is not the case. If these non-bonded pairs, like the bonding pairs, also exert repulsions, this might explain the unexpected shapes of Structures __7.4__ and __7.5__.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 Lewis structure __5.6__ (<a xmlns:str="http://exslt.org/strings" href="">Section 4.5.1 </a>click to reveal the answer to the first question to see the structure) shows that, around the oxygen atom in water, there are two bonding pairs of electrons and two non-bonded pairs. Structure __5.5__ shows that around the nitrogen atom in ammonia, there are three bonding pairs and one non-bonded pair. Thus, both central atoms are surrounded by four pairs of electrons. If these four pairs repel one another, they will be directed towards the corners of a tetrahedron like the four C—F bonds of CF4 in Figure 47c. The resulting arrangements are shown in Figure 50. They predict a V-shaped H2O and a pyramidal NH3 molecule, with inter-bond angles close to the tetrahedral angle. This agrees with the experimental results indicated in Structures __7.4__ and __7.5__. So, if we take account of both bond pairs and non-bonded pairs, can we predict the shapes of molecules of the typical elements?
 
 
@@ -229,7 +201,7 @@ Lewis structure __5.6__ (<a xmlns:str="http://exslt.org/strings" href="">Section
 
 							Figure 50 The shapes of the H2O (left) and NH3 (right) molecules are consistent with the idea that the four pairs of electrons around the central atoms try to get as far apart as possible. The non-bonded pairs as well as the bonding pairs are involved in this repulsion
 
-Figure 50
+
 
 ## 6.3 Valence-shell electron-pair repulsion theory
 
@@ -270,9 +242,7 @@ In some cases, however, a choice between two or more possibilities must be made.
 
 
 The shape can then usually be obtained by choosing that possibility in which the strongest of these different repulsions is minimised. In the case of XeF4, the strongest repulsion is of the non-bonded pair-non-bonded pair type.
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 41</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 41</h1>
 
 #### Question
 
@@ -280,9 +250,7 @@ The shape can then usually be obtained by choosing that possibility in which the
 
 
 In Structure __7.8__, where the angle between the non-bonded pairs is 180°, so they are as far apart as possible.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 This suggests that XeF4 is planar in shape, the xenon atom being surrounded by four fluorines at the corners of a square (hence the shape is referred to as __square planar__). Experimentally this is found to be the case.
 ---
 6.3.1 Refinements and difficulties
@@ -292,9 +260,7 @@ In <a xmlns:str="http://exslt.org/strings" href="">Section 6.2</a>, we said that
 
 
 There is evidence for this in the inter-bond angles in molecules. For example, in water and ammonia (Structures __7.4__ and __7.5__), the bond angles are about 5° and 2° less than the tetrahedral angle of 109.5°.
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 42</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 42</h1>
 
 #### Question
 
@@ -302,9 +268,7 @@ There is evidence for this in the inter-bond angles in molecules. For example, i
 
 
 Yes; non-bonded pair-bond pair repulsions tend to reduce the inter-bond angle; bond pair-bond pair repulsions tend to increase it. The observed reduction shows that non-bonded pair-bond pair repulsions are dominant. The reduction is greater in H2O than NH3 because the water molecule has two non-bonded pairs.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 Similar effects suggest that there are differences in the repulsive effects of single, double and triple bonds. As Lewis theory implies that these consist of one, two and three pairs of electrons, we might expect that their repulsive effects would vary in the order:
 
 > triple bond &gt; double bond &gt; single bond. 
@@ -313,9 +277,7 @@ Similar effects suggest that there are differences in the repulsive effects of s
 The geometry of the ethene molecule can be seen in Structure __7.9__. The four outer electrons on each carbon atom are distributed between three repulsion axes: one double bond to carbon and two single bonds to hydrogen.
 
  ![inlinefigure](testimages/s205_2_i018i.jpg) 
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 43</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 43</h1>
 
 #### Question
 
@@ -323,9 +285,7 @@ The geometry of the ethene molecule can be seen in Structure __7.9__. The four o
 
 
 Yes; the stronger repulsion exerted by the C=C bond forces the two C—H bonds together. The inter-bond angle falls below 120°, the value for regular trigonal-planar coordination.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 Recognition of the different repulsive effects of single and double bonds can therefore be useful in choosing a molecular shape or predicting bond angles.
 
 Nevertheless, when step 5 of the procedure of <a xmlns:str="http://exslt.org/strings" href="">Section 6.2</a> leaves us with two or more structures to choose from, it is sometimes hard to make an informed choice. Minimising the strongest repulsions is usually effective, but not always. A particular problem can arise when there are five repulsion axes - the trigonal-bipyramidal disposition. We can illustrate it with ClF3, a liquid that boils at 12 °C, and reacts with water with a sound like the crack of a whip. The central chlorine atom has seven outer electrons, three of which are used in forming the three Cl\F bonds. The other four electrons become two non-bonded pairs, which, with the three bonds, give us five repulsion axes disposed in the trigonal-bipyramidal arrangement. There are three possibilities (Structures __7.10-7.12__):
@@ -345,9 +305,7 @@ In <a xmlns:str="http://exslt.org/strings" href="">Section 6.2</a>, we said that
 
 
 There is evidence for this in the inter-bond angles in molecules. For example, in water and ammonia (Structures __7.4__ and __7.5__), the bond angles are about 5° and 2° less than the tetrahedral angle of 109.5°.
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 42</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 42</h1>
 
 #### Question
 
@@ -355,9 +313,7 @@ There is evidence for this in the inter-bond angles in molecules. For example, i
 
 
 Yes; non-bonded pair-bond pair repulsions tend to reduce the inter-bond angle; bond pair-bond pair repulsions tend to increase it. The observed reduction shows that non-bonded pair-bond pair repulsions are dominant. The reduction is greater in H2O than NH3 because the water molecule has two non-bonded pairs.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 Similar effects suggest that there are differences in the repulsive effects of single, double and triple bonds. As Lewis theory implies that these consist of one, two and three pairs of electrons, we might expect that their repulsive effects would vary in the order:
 
 > triple bond &gt; double bond &gt; single bond. 
@@ -366,9 +322,7 @@ Similar effects suggest that there are differences in the repulsive effects of s
 The geometry of the ethene molecule can be seen in Structure __7.9__. The four outer electrons on each carbon atom are distributed between three repulsion axes: one double bond to carbon and two single bonds to hydrogen.
 
  ![inlinefigure](testimages/s205_2_i018i.jpg) 
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 43</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 43</h1>
 
 #### Question
 
@@ -376,9 +330,7 @@ The geometry of the ethene molecule can be seen in Structure __7.9__. The four o
 
 
 Yes; the stronger repulsion exerted by the C=C bond forces the two C—H bonds together. The inter-bond angle falls below 120°, the value for regular trigonal-planar coordination.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 Recognition of the different repulsive effects of single and double bonds can therefore be useful in choosing a molecular shape or predicting bond angles.
 
 Nevertheless, when step 5 of the procedure of <a xmlns:str="http://exslt.org/strings" href="">Section 6.2</a> leaves us with two or more structures to choose from, it is sometimes hard to make an informed choice. Minimising the strongest repulsions is usually effective, but not always. A particular problem can arise when there are five repulsion axes - the trigonal-bipyramidal disposition. We can illustrate it with ClF3, a liquid that boils at 12 °C, and reacts with water with a sound like the crack of a whip. The central chlorine atom has seven outer electrons, three of which are used in forming the three Cl\F bonds. The other four electrons become two non-bonded pairs, which, with the three bonds, give us five repulsion axes disposed in the trigonal-bipyramidal arrangement. There are three possibilities (Structures __7.10-7.12__):

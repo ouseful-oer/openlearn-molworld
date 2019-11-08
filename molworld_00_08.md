@@ -17,7 +17,7 @@ These explanations require an understanding of the chemical bonding through whic
 
 						Figure 55 A conceptual diagram showing important ideas  and the relationship between them
 
-Figure 55
+
 Click to view larger version of Figure 55
 
 [View document](https://www.open.edu/openlearn/ocw/mod/resource/view.php?id=26800)

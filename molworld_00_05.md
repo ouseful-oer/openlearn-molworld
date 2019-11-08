@@ -9,9 +9,7 @@ Reactivity is not spread evenly over a molecule; it tends to be concentrated at 
 
 >__CH3—CH2—CH2—CH2—CH2CH2—OH__                               (__6.1__)
 
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 31</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 31</h1>
 
 #### Question
 
@@ -19,9 +17,7 @@ Reactivity is not spread evenly over a molecule; it tends to be concentrated at 
 
 
 It is the fragment —OH, which is known as the *alcohol* functional group.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 Because reactivity is concentrated at the —OH site, we can, through an informed choice of other chemical reactants, change that site (and sometimes the atoms immediately adjacent to it) into something else *while leaving the rest of the molecule unchanged*. For example, the liquid thionyl chloride, SOCl2, will convert hexan-1-ol into 1-chlorohexane:
 
 
@@ -74,9 +70,7 @@ What makes functional groups such as —OH so much more reactive than the carbon
 
 						Figure 39 Cotton is nearly pure cellulose, which is Nature's most common polymer. It is composed of glucose molecules linked through bridging oxygen atoms - a glycosidic linkage (highlighted in red). To the left of the reaction arrow two units are so joined. The six-membered rings are composed of five carbon atoms and one oxygen atom, but here the carbon atom labels have been omitted. Notice the terminal bonds through which the extended chains of the cotton fibre are formed. Replacement of the —OH groups by nitrate groups using a mixture of concentrated nitric and sulfuric acids gives nitrocellulose, a high explosive
 
-Figure 39
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 32</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 32</h1>
 
 #### Question
 
@@ -84,13 +78,9 @@ Figure 39
 
 
 Only one; the oxygen atom of the functional group has two non-bonded electron pairs.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 Chemical reactions often occur in steps; in each step, groups of atoms attach themselves to the molecule, undergo change, and then depart. Attractive points of attachment in a molecule will therefore make a reaction more likely.
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 33</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 33</h1>
 
 #### Question
 
@@ -98,9 +88,7 @@ Chemical reactions often occur in steps; in each step, groups of atoms attach th
 
 
 In <a xmlns:str="http://exslt.org/strings" href="">Section 4.5.3</a>, you saw that they allow formation of dative bonds.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 Such bonds cannot be formed by carbon and hydrogen atoms in hexan-1-ol, because all their outer electrons are used to form strong C—H and C—C bonds. This, then, is one reason why the —OH functional group in __6.1__ is the most probable site for a reaction.
 
 Another arises from the fact that functional groups often introduce electronegativity differences into an organic system. For example, the oxygen atom is very electronegative (<a xmlns:str="http://exslt.org/strings" href="">Figure 30</a>). Thus, in the C—O—H sequence of bonds in any alcohol, the oxygen atom attracts electrons from the adjacent carbon and hydrogen atoms (carbon and hydrogen have similar electronegativities). The oxygen atom of an alcohol therefore carries a fractional negative charge, and the carbon and hydrogen atoms carry fractional positive charges. Any one of the three atoms then becomes a possible point of attachment for the atom of a reagent that carries a fractional charge of opposite sign.
@@ -122,7 +110,7 @@ High explosives generate shock waves moving with a velocity of 7 000-9 000 ms−
 
 							Figure 40 Alfred Nobel (1833-1896) made his fortune through the manufacture of high explosives. In his will, the bulk of his estate was used to fund in perpetuity from 1901 the five Nobel Prizes (for Chemistry, Literature, Peace, Physics, and Physiology or Medicine; a sixth Nobel Prize for Economics was added in 1968), which are awarded annually by Swedish or Norwegian organizations. Nobel appears here at the controls of the equipment that he invented for the manufacture of nitroglycerine. The dangerous nature of the work is revealed by the one-legged stool on which he sits. It protects the operator from the mortal dangers of falling asleep on the job!
 
-Figure 40
+
 
 ![Figure 41](testimages/s205_2_040i.jpg)
 
@@ -130,7 +118,7 @@ Figure 40
 
 							Figure 41 The creation of the first transcontinental railroad: the Central Pacific, working from the West (left), and the Union Pacific from the East (right) meet at Promontory Point, Utah, where, on 10 May 1869, the 'wedding of the rails' was established with a golden spike driven home with a silver sledgehammer. The Central Pacific outbuilt their rivals by using immigrant Chinese labour and nitroglycerine for blasting
 
-Figure 41
+
 Subsequently, Alfred developed the safer dynamites, first by absorbing nitroglycerine with the clay, kieselguhr (guhr dynamite), and then by mixing it with nitrocellulose to form a gel (gelatin dynamite). A mixture of nitrocellulose and nitroglycerine called cordite was the propellant that launched shells from the guns of Royal Navy battleships in both World Wars.
 
  ![inlinefigure](testimages/s205_2_i013i.jpg) 

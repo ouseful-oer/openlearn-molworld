@@ -59,7 +59,7 @@ So far, we have concentrated on the electronic and spatial structures of chemica
 
 						Figure 51 Brown nitrogen dioxide gas being produced, in this case, by the reaction of copper with concentrated nitric acid
 
-Figure 51
+
 Given these dangers, there is a reaction that could be very beneficial:
 
 >2NO(g) + 2CO(g) = N2(g) + 2CO2(g)                                    (8.1)
@@ -92,9 +92,7 @@ are taking place: at the microscopic, molecular level there is ceaseless change 
 An expression for the equilibrium constant of a reaction can be put together from the concentrations of the reactants and products at equilibrium. A concentration of a reactant or product is represented by enclosing its chemical formula in square brackets. Thus, the concentration of NO(g) is written [NO(g)].
 
 To write down the equilibrium constant of a reaction, we start with the concentrations of the products. Each one is raised to the power of the number that precedes it in the reaction equation, and the corresponding terms for each product are then multiplied together.
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 44</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 44</h1>
 
 #### Question
 
@@ -102,11 +100,7 @@ To write down the equilibrium constant of a reaction, we start with the concentr
 
 
 The result is [N2(g)] × [CO2(g)]2, or, taking the multiplication sign as understood, [N2(g)][CO2(g)]2. In Equation 8.2, CO2(g) is preceded by a two, so its concentration is squared.
-
-         ##-- ENDSAQ
-    
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 45</h1>
+<!--ENDSAQ--><!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 45</h1>
 
 #### Question
 
@@ -114,18 +108,14 @@ The result is [N2(g)] × [CO2(g)]2, or, taking the multiplication sign as unders
 
 
 The result is [NO(g)]2[CO(g)]2; in Equation 8.2, both NO(g) and CO(g) are preceded by a two.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 The equilibrium constant, *K*, is obtained by dividing the result for the products by the result for the reactants:
 
 
 ![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e019i.gif)
 
 We have raised the possibility that Reaction 8.1 does not happen because the equilibrium position for equilibrium system 8.2 lies well over to the left. In other words, at equilibrium, the concentrations of NO(g) and CO(g) are very high, and those of N2 (g) and CO2(g) are so small as to be undetectable.
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 46</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 46</h1>
 
 #### Question
 
@@ -133,13 +123,9 @@ We have raised the possibility that Reaction 8.1 does not happen because the equ
 
 
 It will be very small because the large quantities ([NO﻿(g)] and [CO﻿(g)]) occur on the bottom of Equation 8.5, and the small quantities ([N2﻿(g)] and [CO2﻿(g)]) occur on the top.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 The value of *K* can be determined experimentally. A typical temperature in a car exhaust system is 525 °C. At this temperature, *K* turns out to be 1040 mol−1 litre.
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 47</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 47</h1>
 
 #### Question
 
@@ -147,15 +133,11 @@ The value of *K* can be determined experimentally. A typical temperature in a ca
 
 
 No; *K* is immense, so at equilibrium, the concentrations of the products (which appear on top of the fraction in Equation 8.5) must be much greater than those of the reactants (which appear on the bottom). The equilibrium position for Reaction 8.2 at 525 °C therefore lies well over to the right.
-
-         ##-- ENDSAQ
-    7.2.1 The equilibrium constant
+<!--ENDSAQ-->7.2.1 The equilibrium constant
 An expression for the equilibrium constant of a reaction can be put together from the concentrations of the reactants and products at equilibrium. A concentration of a reactant or product is represented by enclosing its chemical formula in square brackets. Thus, the concentration of NO(g) is written [NO(g)].
 
 To write down the equilibrium constant of a reaction, we start with the concentrations of the products. Each one is raised to the power of the number that precedes it in the reaction equation, and the corresponding terms for each product are then multiplied together.
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 44</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 44</h1>
 
 #### Question
 
@@ -163,11 +145,7 @@ To write down the equilibrium constant of a reaction, we start with the concentr
 
 
 The result is [N2(g)] × [CO2(g)]2, or, taking the multiplication sign as understood, [N2(g)][CO2(g)]2. In Equation 8.2, CO2(g) is preceded by a two, so its concentration is squared.
-
-         ##-- ENDSAQ
-    
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 45</h1>
+<!--ENDSAQ--><!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 45</h1>
 
 #### Question
 
@@ -175,18 +153,14 @@ The result is [N2(g)] × [CO2(g)]2, or, taking the multiplication sign as unders
 
 
 The result is [NO(g)]2[CO(g)]2; in Equation 8.2, both NO(g) and CO(g) are preceded by a two.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 The equilibrium constant, *K*, is obtained by dividing the result for the products by the result for the reactants:
 
 
 ![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e019i.gif)
 
 We have raised the possibility that Reaction 8.1 does not happen because the equilibrium position for equilibrium system 8.2 lies well over to the left. In other words, at equilibrium, the concentrations of NO(g) and CO(g) are very high, and those of N2 (g) and CO2(g) are so small as to be undetectable.
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 46</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 46</h1>
 
 #### Question
 
@@ -194,13 +168,9 @@ We have raised the possibility that Reaction 8.1 does not happen because the equ
 
 
 It will be very small because the large quantities ([NO﻿(g)] and [CO﻿(g)]) occur on the bottom of Equation 8.5, and the small quantities ([N2﻿(g)] and [CO2﻿(g)]) occur on the top.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 The value of *K* can be determined experimentally. A typical temperature in a car exhaust system is 525 °C. At this temperature, *K* turns out to be 1040 mol−1 litre.
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 47</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 47</h1>
 
 #### Question
 
@@ -208,9 +178,7 @@ The value of *K* can be determined experimentally. A typical temperature in a ca
 
 
 No; *K* is immense, so at equilibrium, the concentrations of the products (which appear on top of the fraction in Equation 8.5) must be much greater than those of the reactants (which appear on the bottom). The equilibrium position for Reaction 8.2 at 525 °C therefore lies well over to the right.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 
 ## 7.3 Is the rate of reaction very slow?
 
@@ -226,11 +194,9 @@ Let us look at the changes that take place in the internal energy as reactants c
 
 							Figure 52 A simplified version of the change that takes place in the internal energy of the molecules as nitric oxide and carbon monoxide change into nitrogen and carbon dioxide. The upper (red) curve shows the change in the absence of a catalyst; the lower (blue) curve, the change when a catalyst is present
 
-Figure 52
-Between the reactants and products, the internal energy does not decrease gradually as the reaction progresses; instead, it rises initially, reaches a maximum, and then declines. The upper curve shows the situation in the absence of a catalyst. The internal energy of the reacting molecules must first increase by an amount marked 'energy barrier' in Figure.
 
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 48</h1>
+Between the reactants and products, the internal energy does not decrease gradually as the reaction progresses; instead, it rises initially, reaches a maximum, and then declines. The upper curve shows the situation in the absence of a catalyst. The internal energy of the reacting molecules must first increase by an amount marked 'energy barrier' in Figure.
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 48</h1>
 
 #### Question
 
@@ -238,9 +204,7 @@ Between the reactants and products, the internal energy does not decrease gradua
 
 
 One possible source is the kinetic energy of other molecules. Lucky collisions may provide some NO and CO molecules with unusually high energies. If these high-energy molecules then chance to collide with each other, they might be able to surmount the energy barrier and react with each other.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 This also explains why an increase in temperature increases the rate of a reaction: a temperature rise increases the speed of the molecules, and the required increase in internal energy following collisions then becomes more probable. But as we have seen, in this case the rate is not great even at 525 °C. The energy barrier must be high. The main reason is a property of nitric oxide. In Reaction 8.1, the nitrogen and oxygen atoms in NO must be separated at some point, but the bond that holds them together is very strong. A large input of energy is therefore needed to bring the separation about, so the energy barrier is high and the reaction is slow.
 
 
@@ -257,7 +221,7 @@ Obviously, this type of reaction pathway is very different from one that takes p
 
 								Figure 53 A three-way catalytic converter; the metal shell has been partially cut away, exposing a gauze lining, inside which is the cylindrical grid of exhaust channels. A separate grid of this type is shown above and to the left. It is black because the platinum-rhodium catalyst has been dispersed over its surfaces. Before the catalyst is spread over it, the ceramic grid is white, as shown above and to the right.
 
-Figure 53
+
 
 
 
@@ -267,7 +231,7 @@ Figure 53
 Figure 54 The core of a typical three-way catalytic converter 
 							
 
-Figure 54
+
 The core of a typical three-way catalytic converter consists of a cylindrical grid of thin-walled channels of square cross-section, composed of a ceramic material made from oxides of magnesium, aluminium and silicon (Figure 54). The platinum-rhodium catalyst is dispersed over granules of solid aluminium oxide, Al2O3, which have been specially prepared with a high surface area. The catalyst-coated granules are mixed with water to form a slurry, and passed through the grid, which is then heated in a furnace. The process leaves Al2O3, impregnated with catalyst particles, dispersed on the walls of the channels. In passing through the channels, exhaust pollutants traverse pores in the Al2O3 granules, encountering metal catalyst sites where reactions such as that shown in Equation 8.1 occur. Efficient conversion occurs only if the air-fuel ratio on entry to the converter is right. The ratio is controlled mainly by measuring the oxygen with a sensor and then making any necessary adjustments to the air and fuel supply (NO*x* denotes oxides of nitrogen; HC denotes hydrocarbons)
 
 

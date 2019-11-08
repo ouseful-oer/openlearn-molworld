@@ -14,9 +14,7 @@ Section 2 used some simple examples to illustrate chemical periodicity. But how 
 The quantum theory of the atom tells us that we cannot say exactly where an electron in an atom will be at any particular moment; we can speak only of the *probability* of finding an electron at a particular point. So the precise orbits shown in the Rutherford model of <a xmlns:str="http://exslt.org/strings" href="">Figure 1</a> misrepresent the arrangement of electrons about the nucleus. We say instead that the electrons in atoms are arranged around the nucleus in shells. The shells are regions where the probability of finding an electron is relatively high, and where, over an extended period, the electrons spend most of their time. Shells are numbered 1, 2, 3, etc., starting from 1 nearest the nucleus. This number is called the *principal quantum number*, and is given the symbol *n*.
 
 Now these shells of electrons can be divided into sub-shells, and each sub-shell is specified by a second quantum number *l*.
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 11</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 11</h1>
 
 #### Question
 
@@ -24,15 +22,11 @@ Now these shells of electrons can be divided into sub-shells, and each sub-shell
 
 
 There are four. For a shell of principal quantum number *n, l* can take values from zero up to (*n*−1). Thus, in the shell for which *n* = 4, there are four sub-shells with the values *l = 0, 1, 2* and 3.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 An alternative way of specifying sub-shells uses letters in place of the quantum number *l*. The following letters are used in this notation: s for sub-shells with *l* = 0, p for sub-shells with *l* = 1, d for sub-shells with *l* = 2, f for sub-shells with *l* = 3. Thus, the four sub-shells in the shell for which *n* = 4 are written 4s, 4p, 4d and 4f.
 
 There is an *upper limit* on the number of electrons that each kind of sub-shell can hold. This limit is 2(2*l* + 1), where *l* is the second quantum number of the sub-shell.
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 12</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 12</h1>
 
 #### Question
 
@@ -40,9 +34,7 @@ There is an *upper limit* on the number of electrons that each kind of sub-shell
 
 
 The values are: 2﻿[﻿(2 × 0) + 1] = 2; 2﻿[﻿(﻿2 × 1﻿) + 1] = 6; 2﻿[﻿(﻿2 × 2) + 1﻿] = 10; and 2﻿[﻿(﻿2 × 3) + 1] = 14, respectively.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 So in s, p, d and f sub-shells, there can be no more than 2, 6, 10 and 14 electrons, respectively. These limits, and other quantum rules from this Section are summarised in Figure 20.
 
 
@@ -52,7 +44,7 @@ So in s, p, d and f sub-shells, there can be no more than 2, 6, 10 and 14 electr
 
 							Figure 20 The sub-shells in the shells of principal quantum numbers 1-4, and the maximum number of electrons that each type of sub-shell can hold
 
-Figure 20
+
 
 
 To assign electronic configurations to atoms, you need only one more piece of information. This is an energy-level diagram displaying the order in which the sub-shells are filled. Surprisingly, electronic configurations can be correctly assigned to *nearly all* atoms using just one such diagram, Figure 21.
@@ -64,11 +56,9 @@ To assign electronic configurations to atoms, you need only one more piece of in
 
 							Figure 21 A pathway showing the order in which the sub-shells should be filled when writing out the electronic configurations of atoms
 
-Figure 21
 
 
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 13</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 13</h1>
 
 #### Question
 
@@ -76,9 +66,7 @@ Figure 21
 
 
 1s22s22p63s23p2.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 This is established as follows. Assign the fourteen electrons in the silicon atom to the sub-shells in Figure 21. The 1s and 2s levels on the left can each take two electrons. The next highest level is 2p and this sub-shell is filled by the next six electrons. The 3s sub-shell then takes another two electrons and the thirteenth and fourteenth electrons go into the sub-shell of next highest energy, which is 3p.
 
 Notice that the value of *n* for the outermost shell of the electronic configuration of the silicon atom is three. This outer shell contains four electrons, two of which are in an s sub-shell, and two in a p sub-shell. We say, therefore, that the outer electronic configuration of the silicon atom is of the type s2p2.
@@ -95,7 +83,7 @@ Notice that the value of *n* for the outermost shell of the electronic configura
 
 Figure 22 The winding pathway shows how the order of sub-shell filling (Figure 21) generates the full Periodic Table. Elements in the same column *usually* have similar outer electronic configurations. Hydrogen has been juxtaposed with helium to indicate the filling of the 1s sub-shell
 
-Figure 22
+
 Click to view larger version of Figure 22
 
 [View document](https://www.open.edu/openlearn/ocw/mod/resource/view.php?id=26799)
@@ -104,9 +92,7 @@ Click to view larger version of Figure 22
 In Section 3.2, we described <a xmlns:str="http://exslt.org/strings" href="">Figure 21</a> as an *energy-level* diagram, which represented the build-up of electronic configurations as electrons were inserted into sub-shells of progressively increasing energy. However, Figure 21 has been designed for just one purpose: to generate the correct electronic configurations in our thought experiment in which, to quote Niels Bohr, 'the neutral atom is built up by the capture and binding of electrons to the nucleus, one by one'. What Figure 21 tells us, at any stage of the thought experiment, is which of the *still unfilled* sub-shells has the lowest energy. That sub-shell then receives the next electron.
 
 <a xmlns:str="http://exslt.org/strings" href="">Figure 21</a> is therefore designed to give the order of energies only for those sub-shells that, at any stage of the thought experiment, are candidates for the reception of the next electron. It does not necessarily give the correct order of energies for *all* of the sub-shells in any *one particular atom*. Consider lead, atomic number 82.
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 14</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 14</h1>
 
 #### Question
 
@@ -114,13 +100,9 @@ In Section 3.2, we described <a xmlns:str="http://exslt.org/strings" href="">Fig
 
 
 1s22s22p63s23p64s23d104p65s24d105p66s24f145d106p2.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 In the lead atom, the occupied sub-shells of highest energy are 6s2 and 6p2. The four electrons in these sub-shells are the ones that most influence the chemistry of lead. They are the outermost electrons, and the most easily removed, being furthest from the nucleus. But the sub-shell sequence from Figure 21 does not give this impression. Although 6p2 appears at the end, suggesting that these are outermost electrons, 6s2 does not. A more correct order of energies *in any particular atom* is obtained by grouping the sub-shells first in order of increasing value of *n*, and then, within each *n* value, in the order s, p, d and f.
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 15</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 15</h1>
 
 #### Question
 
@@ -128,17 +110,13 @@ In the lead atom, the occupied sub-shells of highest energy are 6s2 and 6p2. The
 
 
 1s2|2s22p6|3s23p63d10|4s24p64d104f14|5s25p65d10|6s26p2. For clarification, the individual shells have been separated by vertical lines.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 The electronic configurations of the atoms within this course have been written in this style. One of its merits is that the outer electrons with the highest principal quantum numbers appear at the right-hand end. In this case, they show that the outer electronic configuration of lead is of the type s2p2. This is less apparent in the earlier configuration that was derived directly from <a xmlns:str="http://exslt.org/strings" href="">Figure 21</a>.
 3.3.1 Writing out electronic configurations
 In Section 3.2, we described <a xmlns:str="http://exslt.org/strings" href="">Figure 21</a> as an *energy-level* diagram, which represented the build-up of electronic configurations as electrons were inserted into sub-shells of progressively increasing energy. However, Figure 21 has been designed for just one purpose: to generate the correct electronic configurations in our thought experiment in which, to quote Niels Bohr, 'the neutral atom is built up by the capture and binding of electrons to the nucleus, one by one'. What Figure 21 tells us, at any stage of the thought experiment, is which of the *still unfilled* sub-shells has the lowest energy. That sub-shell then receives the next electron.
 
 <a xmlns:str="http://exslt.org/strings" href="">Figure 21</a> is therefore designed to give the order of energies only for those sub-shells that, at any stage of the thought experiment, are candidates for the reception of the next electron. It does not necessarily give the correct order of energies for *all* of the sub-shells in any *one particular atom*. Consider lead, atomic number 82.
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 14</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 14</h1>
 
 #### Question
 
@@ -146,13 +124,9 @@ In Section 3.2, we described <a xmlns:str="http://exslt.org/strings" href="">Fig
 
 
 1s22s22p63s23p64s23d104p65s24d105p66s24f145d106p2.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 In the lead atom, the occupied sub-shells of highest energy are 6s2 and 6p2. The four electrons in these sub-shells are the ones that most influence the chemistry of lead. They are the outermost electrons, and the most easily removed, being furthest from the nucleus. But the sub-shell sequence from Figure 21 does not give this impression. Although 6p2 appears at the end, suggesting that these are outermost electrons, 6s2 does not. A more correct order of energies *in any particular atom* is obtained by grouping the sub-shells first in order of increasing value of *n*, and then, within each *n* value, in the order s, p, d and f.
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 15</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 15</h1>
 
 #### Question
 
@@ -160,9 +134,7 @@ In the lead atom, the occupied sub-shells of highest energy are 6s2 and 6p2. The
 
 
 1s2|2s22p6|3s23p63d10|4s24p64d104f14|5s25p65d10|6s26p2. For clarification, the individual shells have been separated by vertical lines.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 The electronic configurations of the atoms within this course have been written in this style. One of its merits is that the outer electrons with the highest principal quantum numbers appear at the right-hand end. In this case, they show that the outer electronic configuration of lead is of the type s2p2. This is less apparent in the earlier configuration that was derived directly from <a xmlns:str="http://exslt.org/strings" href="">Figure 21</a>.
 
 
@@ -178,11 +150,9 @@ The essential message of <a xmlns:str="http://exslt.org/strings" href="">Figure 
 
 							Figure 23 A mini-Periodic Table for the typical elements up to radium. Along the top are the Group numbers in roman numerals, and the outer electronic configurations of the elements of each Group. As in Figure 18, hydrogen has been omitted
 
-Figure 23
 
 
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 16</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 16</h1>
 
 #### Question
 
@@ -190,13 +160,9 @@ Figure 23
 
 
 Three and six, respectively: silicon appears in Period 3 and lead in Period 6.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 According to Figure 23 therefore, silicon and lead have outer electronic configurations of the type ns2np2, with *n* = 3 for silicon and *n* = 6 for lead. This is just what you got when you worked out the full electronic configuration of the silicon and lead atoms in <a xmlns:str="http://exslt.org/strings" href="">Sections 3.2</a> and <a xmlns:str="http://exslt.org/strings" href="">3.3.1</a>, respectively.
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 17</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 17</h1>
 
 #### Question
 
@@ -204,9 +170,7 @@ According to Figure 23 therefore, silicon and lead have outer electronic configu
 
 
 In both cases, the Group number is four and there are four outer electrons: two s electrons and two p electrons.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 Here is confirmation of the explanation of chemical periodicity mentioned at the beginning of <a xmlns:str="http://exslt.org/strings" href="">Section 3</a>. Elements in the same Group of the Periodic Table behave similarly because they usually have similar outer electronic configurations. It also demonstrates that, for the typical elements, the total number of outer electrons is equal to the Group number. It is to preserve this generalisation that, in this course, we take the Group number of the noble gases to be VIII rather than zero. Apart from helium (1s2), they have eight outer electrons (s2p6).
 
 Finally, notice that Figures 17 and 22 imply that the atoms of highest known atomic number (113-118) at the outer limit of the Periodic Table are expected to be typical elements. This is only one of the reasons that makes them of special interest (see Box 2 *The island of stability*).
@@ -241,7 +205,7 @@ In the most recent piece of research [2007], collaboration between Californian a
 
 								Figure 24 As the number of neutrons in known isotopes of each of the elements 112-118 increases above 165, the half-lives increase (even-numbered elements only shown). This indicates the emergence of an island of stability whose summit is predicted to be at 114 protons and 184 neutrons. (1 μs = 10−6 s; 1 min = 1 minute)
 
-Figure 24
+
 
 ## 3.5 Electron states and box diagrams
 
@@ -249,9 +213,7 @@ Figure 24
 So far, we have represented the electronic state of an atom as a collection of sub-shells. Now we turn to the states of the electrons within those sub-shells. Just as shells can be broken down into sub-shells, so sub-shells can be broken down into __atomic orbitals__. Each atomic orbital describes an allowed spatial distribution about the nucleus for an electron in the sub-shell. Here we shall only be concerned with their number.
 
 Consider the formula for the sub-shell electron capacities, which is 2(2*l* + 1), *l* being the second quantum number. The factor (2*l* + 1) tells us the number of atomic orbitals in the sub-shell.
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 18</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 18</h1>
 
 #### Question
 
@@ -259,9 +221,7 @@ Consider the formula for the sub-shell electron capacities, which is 2(2*l* + 1)
 
 
 One and three, respectively; for s and p sub-shells, *l* = 0 and 1, so (2*l* + 1) = 1 and 3, respectively.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 It turns out that each orbital in a sub-shell can contain up to two electrons. This is connected to a property of the electron called __spin__. This spin occurs in one of two senses, which are physically pictured as clockwise and anticlockwise (Figure 25).
 
 
@@ -271,7 +231,7 @@ It turns out that each orbital in a sub-shell can contain up to two electrons. T
 
 							Figure 25 The two senses of electron spin.
 
-Figure 25
+
 When an atomic orbital contains its maximum complement of two electrons, those two electrons must always have spins of opposite sense. This phenomenon of electron spin accounts for the '2' that precedes the bracket in the formula for sub-shell capacities, 2(2*l* + 1). For example, as we have seen, the factor (*l* + 1) tells us that there are three atomic orbitals in a p sub-shell. Each of the three orbitals can accommodate up to two electrons with opposed spins. So a p sub-shell can contain a maximum of 2 × 3 or 6 electrons.
 
 A full atomic orbital, therefore, contains two electrons with spins of opposite sense. This is represented by writing one electron as an upward-pointing half-headed arrow, and the other as a downward-pointing half-headed arrow. For example, the helium atom has the electronic configuration 1s2. The 1s sub-shell contains just one orbital, which can be represented by a single box containing the two electrons of opposite spin:
@@ -281,9 +241,7 @@ A full atomic orbital, therefore, contains two electrons with spins of opposite 
 Two such electrons with opposed spins are said to be *paired* and the diagram that puts these electrons into boxes is referred to as a __box diagram__. Now consider the case of nitrogen, whose atom has the configuration 1﻿s﻿2﻿2﻿s﻿2﻿2﻿p﻿3. The 1s and 2s sub-shells contain one orbital each, and the 2p sub-shell contains three. The box diagram that must be filled therefore takes the form:
 
  ![inlinefigure](testimages/s205_2_i002i.jpg) 
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 19</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 19</h1>
 
 #### Question
 
@@ -291,9 +249,7 @@ Two such electrons with opposed spins are said to be *paired* and the diagram th
 
 
 The 1s and 2s boxes should now both look like the 1s box for the helium atom above: they should each contain two electrons with opposed spins.
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 The final step is the assignment of the three 2p electrons to the three 2p boxes. There are several possibilities, but the one we want is the __ground-state__ arrangement, the state of lowest energy. There is a simple rule, called __Hund's rule__, that tells us what this is:
 
 >Within any sub-shell, there will be the maximum number of electrons with spins of the same sense.
@@ -302,9 +258,7 @@ The final step is the assignment of the three 2p electrons to the three 2p boxes
 Because electrons in the same box must have opposed spins, we must put the electrons, as far as possible, in different boxes with spins of the same sense, or, as it is usually termed, with __parallel spins__. In this case there are three 2p electrons and three boxes, so each box can take one electron with the same spin, and this is the preferred arrangement according to Hund's rule. The final result for the nitrogen atom is therefore:
 
  ![inlinefigure](testimages/s205_2_i003i.jpg) 
-
-         ##-- SAQ
-        <h1 xmlns:str="http://exslt.org/strings">Question 19a</h1>
+<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 19a</h1>
 
 #### Question
 
@@ -313,9 +267,7 @@ The oxygen atom, with the configuration 1s22s22p4, has one more electron than th
 As there are four 2p electrons and only three 2p boxes, the fourth 2p electron cannot have a spin parallel to the other three. It must go into a box that is already occupied by one electron with opposite spin:
 
  ![inlinefigure](testimages/s205_2_i004i.jpg) 
-
-         ##-- ENDSAQ
-    
+<!--ENDSAQ-->
 
 ## 3.6 Summary of Section 3
 
