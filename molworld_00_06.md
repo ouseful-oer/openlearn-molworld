@@ -16,9 +16,10 @@ Let us start with methane, $\ce{CH4}$, and bromomethane, $\ce{CH3Br}$. In both m
 ```python
 import py3Dmol
 import pubchempy as pcp
-
 bromomethane=pcp.get_compounds('bromomethane', 'name')[0]
-#bromomethane.canonical_smiles
+x=py3Dmol.view(query='cid:{}'.format(bromomethane.cid), width=300,height=300).setStyle({'stick': {'radius': .1}, 'sphere': {'scale': 0.25}})
+x
+```
 
 						Figure 42 The structures of (a) methane, CH<sub xmlns:str="http://exslt.org/strings">4</sub>; (b) bromomethane, CH<sub xmlns:str="http://exslt.org/strings">3</sub>Br
 
