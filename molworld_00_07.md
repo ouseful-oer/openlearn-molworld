@@ -118,7 +118,7 @@ The result is [NO(g)]2[CO(g)]2; in Equation 8.2, both NO(g) and CO(g) are preced
 The equilibrium constant, *K*, is obtained by dividing the result for the products by the result for the reactants:
 
 
-![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e019i.gif)
+![figure](testimages/s205_2_e019i.gif)
 
 We have raised the possibility that Reaction 8.1 does not happen because the equilibrium position for equilibrium system 8.2 lies well over to the left. In other words, at equilibrium, the concentrations of NO(g) and CO(g) are very high, and those of N2 (g) and CO2(g) are so small as to be undetectable.
 <!--SAQ id=saq046-->
@@ -175,7 +175,7 @@ The result is [NO(g)]2[CO(g)]2; in Equation 8.2, both NO(g) and CO(g) are preced
 The equilibrium constant, *K*, is obtained by dividing the result for the products by the result for the reactants:
 
 
-![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e019i.gif)
+![figure](testimages/s205_2_e019i.gif)
 
 We have raised the possibility that Reaction 8.1 does not happen because the equilibrium position for equilibrium system 8.2 lies well over to the left. In other words, at equilibrium, the concentrations of NO(g) and CO(g) are very high, and those of N2 (g) and CO2(g) are so small as to be undetectable.
 <!--SAQ id=saq046-->
@@ -294,19 +294,19 @@ The catalyst causes a change in the reaction mechanism which leads to a lowering
 The combination of sulfur dioxide with oxygen, and the decomposition of steam into hydrogen and oxygen are both reactions of great potential practical value. These reactions, and their equilibrium constants at 427 °C (700 K) are as follows:
 
 
-![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ue003i.gif)
+![figure](testimages/s205_2_ue003i.gif)
 
 Write down expressions for the equilibrium constants of the two reactions. When the two reactions are attempted at 700 K, neither seems to occur. Which of the two might be persuaded to occur at this temperature, and what form might your 'persuasion' take?
 
 The equilibrium constant of the first reaction, *K*1, is given by
 
 
-![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ue004i.gif)
+![figure](testimages/s205_2_ue004i.gif)
 
 That of the second,
 
 
-![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ue005i.gif)
+![figure](testimages/s205_2_ue005i.gif)
 
 The data show that *K*2 is tiny: at equilibrium, the concentrations of the hydrogen and oxygen in the numerator (the top line of the fraction) are minute in comparison with the concentration of steam in the denominator (the bottom line of the fraction). So in a closed system at 700 K, significant amounts of hydrogen and oxygen will never be formed from steam.
 

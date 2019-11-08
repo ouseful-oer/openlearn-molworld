@@ -212,7 +212,7 @@ In 1999, scientists at Dubna in Russia made the first atoms of element 114, to w
  ![inlinefigure](testimages/s205_2_ie005i.gif)  were accelerated to 30 000 km h−1, and directed on to a target containing the plutonium isotope  ![inlinefigure](testimages/s205_2_ie009i.gif) . Two nuclei fused, three neutrons were ejected, and an atom of the 289 isotope of element 114 was produced:
 
 
-![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ue001i.gif)
+![figure](testimages/s205_2_ue001i.gif)
 
 The half-life of  ![inlinefigure](testimages/s205_2_ie007i.gif)  proved to be 30 seconds. It underwent α-decay to the 285 isotope of element 112, whose half-life is 15.4 minutes. These half-lives may seem short, but you must go back to element 103 to find known isotopes which are as long lived.
 

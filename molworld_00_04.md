@@ -339,7 +339,7 @@ How are we to understand Reaction 5.1? In Section 4.5.1, we saw that the Lewis s
 A bond in which the electron pair is provided by just one of the bonded atoms is called a __dative bond__. We need to differentiate such bonds from the more familiar bonds in which *each* bound atom contributes an electron to the electron pair. To do this, we write the dative bonds as arrows running from the 'donor' atom (in this case nitrogen) to the 'receptor' atom (in this case boron). Then Equation 5.1 becomes:
 
 
-![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e002i.jpg)
+![figure](testimages/s205_2_e002i.jpg)
 
 Another puzzle solved by the use of dative bonds is the electronic structure of carbon monoxide, CO. If we write the compound C=O, then we get Lewis structure __5.15__, in which oxygen, with two non-bonded pairs, has an octet, but carbon is two electrons short of this noble gas state. Suppose, however, that, in addition, a dative bond is formed by allowing one of the oxygen non-bonded pairs to become shared between oxygen and carbon.
 
@@ -397,7 +397,7 @@ How are we to understand Reaction 5.1? In Section 4.5.1, we saw that the Lewis s
 A bond in which the electron pair is provided by just one of the bonded atoms is called a __dative bond__. We need to differentiate such bonds from the more familiar bonds in which *each* bound atom contributes an electron to the electron pair. To do this, we write the dative bonds as arrows running from the 'donor' atom (in this case nitrogen) to the 'receptor' atom (in this case boron). Then Equation 5.1 becomes:
 
 
-![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e002i.jpg)
+![figure](testimages/s205_2_e002i.jpg)
 
 Another puzzle solved by the use of dative bonds is the electronic structure of carbon monoxide, CO. If we write the compound C=O, then we get Lewis structure __5.15__, in which oxygen, with two non-bonded pairs, has an octet, but carbon is two electrons short of this noble gas state. Suppose, however, that, in addition, a dative bond is formed by allowing one of the oxygen non-bonded pairs to become shared between oxygen and carbon.
 
