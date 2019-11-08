@@ -218,33 +218,15 @@ The elements of highest atomic number are made through the collision of atoms an
 
 In 1999, scientists at Dubna in Russia made the first atoms of element 114, to which we shall give the provisional name auditorium (Ad)! Ions of the isotope
 
-
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie005i.gif)
- were accelerated to 30 000 km h−1, and directed on to a target containing the plutonium isotope 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie009i.gif)
-. Two nuclei fused, three neutrons were ejected, and an atom of the 289 isotope of element 114 was produced:
+ ![](testimages/s205_2_ie005i.gif)  were accelerated to 30 000 km h−1, and directed on to a target containing the plutonium isotope  ![](testimages/s205_2_ie009i.gif) . Two nuclei fused, three neutrons were ejected, and an atom of the 289 isotope of element 114 was produced:
 
 
 ![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ue001i.gif)
 
-The half-life of 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie007i.gif)
- proved to be 30 seconds. It underwent α-decay to the 285 isotope of element 112, whose half-life is 15.4 minutes. These half-lives may seem short, but you must go back to element 103 to find known isotopes which are as long lived.
+The half-life of  ![](testimages/s205_2_ie007i.gif)  proved to be 30 seconds. It underwent α-decay to the 285 isotope of element 112, whose half-life is 15.4 minutes. These half-lives may seem short, but you must go back to element 103 to find known isotopes which are as long lived.
 
 
-							Figure 24 shows the half-lives of the known isotopes of elements 112-118. 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie007i.gif)
- and the two other isotopes of element 114 support the emergence of an island of stability, but we are still a long way (9 neutrons) from the predicted summit at 184 neutrons. There is a reason for this. The proportion of neutrons in the most stable isotope of an element increases with atomic number. So the lighter isotopes such as 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie005i.gif)
- and 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie009i.gif)
-, from which the new heavy elements are made, lack the neutrons needed to produce the *most stable* isotope of the heavier element that they create.
+							Figure 24 shows the half-lives of the known isotopes of elements 112-118.  ![](testimages/s205_2_ie007i.gif)  and the two other isotopes of element 114 support the emergence of an island of stability, but we are still a long way (9 neutrons) from the predicted summit at 184 neutrons. There is a reason for this. The proportion of neutrons in the most stable isotope of an element increases with atomic number. So the lighter isotopes such as  ![](testimages/s205_2_ie005i.gif)  and  ![](testimages/s205_2_ie009i.gif) , from which the new heavy elements are made, lack the neutrons needed to produce the *most stable* isotope of the heavier element that they create.
 
 This is simultaneously encouraging and discouraging. It means that the expected summit of the island of stability will be hard to reach. But if we do get there, we may find very stable elements. It may even be possible to study their chemistry. 
 

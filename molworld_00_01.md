@@ -113,21 +113,9 @@ The two different kinds of atom are called *isotopes* of copper. The neutron has
 
          ##-- ENDSAQ
     
-The two isotopes are written, 
+The two isotopes are written,  ![](testimages/s205_2_ie001i.gif)  and  ![](testimages/s205_2_ie002i.gif)  where the mass number and atomic number precede the chemical symbol as a superscript and subscript, respectively (<a xmlns:str="http://exslt.org/strings" href="">Figure 5</a>).
 
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie001i.gif)
- and 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie002i.gif)
- where the mass number and atomic number precede the chemical symbol as a superscript and subscript, respectively (<a xmlns:str="http://exslt.org/strings" href="">Figure 5</a>).
-
-The mass number of any isotope is equal to the relative atomic mass of its atom, rounded to the nearest whole number. The atoms of natural copper are about 70% 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie001i.gif)
- and 30% 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie002i.gif)
-. Thus, the relative atomic mass of natural copper (63.5) lies between 63 and 65, but closer to 63 because that is the relative atomic mass of the more abundant isotope. But although copper contains two different isotopes, each isotope has the same atomic number, and therefore a virtually identical chemistry.
+The mass number of any isotope is equal to the relative atomic mass of its atom, rounded to the nearest whole number. The atoms of natural copper are about 70%  ![](testimages/s205_2_ie001i.gif)  and 30%  ![](testimages/s205_2_ie002i.gif) . Thus, the relative atomic mass of natural copper (63.5) lies between 63 and 65, but closer to 63 because that is the relative atomic mass of the more abundant isotope. But although copper contains two different isotopes, each isotope has the same atomic number, and therefore a virtually identical chemistry.
 
 
 ![](testimages/s205_2_005i.jpg)
@@ -161,21 +149,9 @@ The two different kinds of atom are called *isotopes* of copper. The neutron has
 
          ##-- ENDSAQ
     
-The two isotopes are written, 
+The two isotopes are written,  ![](testimages/s205_2_ie001i.gif)  and  ![](testimages/s205_2_ie002i.gif)  where the mass number and atomic number precede the chemical symbol as a superscript and subscript, respectively (<a xmlns:str="http://exslt.org/strings" href="">Figure 5</a>).
 
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie001i.gif)
- and 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie002i.gif)
- where the mass number and atomic number precede the chemical symbol as a superscript and subscript, respectively (<a xmlns:str="http://exslt.org/strings" href="">Figure 5</a>).
-
-The mass number of any isotope is equal to the relative atomic mass of its atom, rounded to the nearest whole number. The atoms of natural copper are about 70% 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie001i.gif)
- and 30% 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie002i.gif)
-. Thus, the relative atomic mass of natural copper (63.5) lies between 63 and 65, but closer to 63 because that is the relative atomic mass of the more abundant isotope. But although copper contains two different isotopes, each isotope has the same atomic number, and therefore a virtually identical chemistry.
+The mass number of any isotope is equal to the relative atomic mass of its atom, rounded to the nearest whole number. The atoms of natural copper are about 70%  ![](testimages/s205_2_ie001i.gif)  and 30%  ![](testimages/s205_2_ie002i.gif) . Thus, the relative atomic mass of natural copper (63.5) lies between 63 and 65, but closer to 63 because that is the relative atomic mass of the more abundant isotope. But although copper contains two different isotopes, each isotope has the same atomic number, and therefore a virtually identical chemistry.
 
 
 ![](testimages/s205_2_005i.jpg)
@@ -451,13 +427,7 @@ The element aluminium (symbol Al; atomic number 13) has a relative atomic mass o
 
 (d) 14;
 
-(e) 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie017i.gif)
-. Because the atomic number of aluminium is 13, there are 13 protons in the nucleus, 13 orbiting electrons in the atom, and the total charge on the nucleus is + 13*e*. As the relative atomic mass is 27.0, and there is just one isotope, the mass number is 27. Therefore, the number of neutrons is (27 − 13) = 14. The mass number is the preceding superscript, and the atomic number is the preceding subscript in the symbol 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie017i.gif)
-.
+(e)  ![](testimages/s205_2_ie017i.gif) . Because the atomic number of aluminium is 13, there are 13 protons in the nucleus, 13 orbiting electrons in the atom, and the total charge on the nucleus is + 13*e*. As the relative atomic mass is 27.0, and there is just one isotope, the mass number is 27. Therefore, the number of neutrons is (27 − 13) = 14. The mass number is the preceding superscript, and the atomic number is the preceding subscript in the symbol  ![](testimages/s205_2_ie017i.gif) .
 
 
 

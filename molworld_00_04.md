@@ -99,10 +99,7 @@ Figure 30
 						Figure 30 shows that the most electronegative elements lie towards the top right-hand corner of the Periodic Table. Electronegativities refer to an attraction for outer electrons when an element is forming compounds. The noble gases have been omitted from Figure 30 because at normal temperatures helium, neon and argon form no compounds; hence electronegativities are not assigned to them. Consequently, fluorine is the most electronegative element, followed by oxygen and chlorine.
 
 
-						Figure 30 confirms that chlorine is much more electronegative than sodium. Because of this large difference in electronegativity, the electron pair 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie010i.jpg)
- of <a xmlns:str="http://exslt.org/strings" href="">Figure 28b</a> spends all its time on chlorine, the charges on sodium and chlorine are +1 and −1, respectively, and NaCl is ionic. So the electronegativity trends in Figure 30 explain why ionic compounds arise when a metallic element of low electronegativity from the left of the Periodic Table combines with a non-metallic element of high electronegativity from the right. In Cl2, by contrast, the electronegativity difference between the bound elements is zero; the shared electrons spend equal times on each chlorine atom, both chlorines are uncharged, the substance is molecular, and is held together by covalent bonding. Covalently bound molecular substances such as Cl2, I2 and CO2 (<a xmlns:str="http://exslt.org/strings" href="">Section 1.4</a>) are combinations from the right of Figure 30, because, although for these elements the individual electronegativities are large, the electronegativity *differences* between them are small.
+						Figure 30 confirms that chlorine is much more electronegative than sodium. Because of this large difference in electronegativity, the electron pair  ![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie010i.jpg)  of <a xmlns:str="http://exslt.org/strings" href="">Figure 28b</a> spends all its time on chlorine, the charges on sodium and chlorine are +1 and −1, respectively, and NaCl is ionic. So the electronegativity trends in Figure 30 explain why ionic compounds arise when a metallic element of low electronegativity from the left of the Periodic Table combines with a non-metallic element of high electronegativity from the right. In Cl2, by contrast, the electronegativity difference between the bound elements is zero; the shared electrons spend equal times on each chlorine atom, both chlorines are uncharged, the substance is molecular, and is held together by covalent bonding. Covalently bound molecular substances such as Cl2, I2 and CO2 (<a xmlns:str="http://exslt.org/strings" href="">Section 1.4</a>) are combinations from the right of Figure 30, because, although for these elements the individual electronegativities are large, the electronegativity *differences* between them are small.
 
 These two cases deal with combinations of elements with very different electronegativities from the left and right of Figure 30 (ionic bonding), and with combinations of elements of high but similar electronegativity from the right (covalent bonding). But what is the result of combining elements of low but similar electronegativity from the left? The reasoning that we have pursued until now suggests that, in this case, electronegativity differences between atoms will be small, so again we would expect shared electron-pair bonds and covalent substances, possibly of the molecular type typified by Cl2.
 
@@ -370,27 +367,9 @@ Before leaving dative bonds, we shall introduce an alternative way of writing th
 >A __:__ + B = A __:__ B                    (5.3)
 
 
-So far, we have written the dative bond as A→B. But consider atom A before the bond is formed. If we remove one of its lone pair electrons, and put that electron on atom B, we end up with the separate ions [A•] +  and [B•]−. Suppose we now form a conventional shared electron-pair bond from the odd electrons on the two ions. The electrons are shared between the A and B sites in just the way that they are on the right-hand side of Equation 5.3, but the bond would now be written as 
+So far, we have written the dative bond as A→B. But consider atom A before the bond is formed. If we remove one of its lone pair electrons, and put that electron on atom B, we end up with the separate ions [A•] +  and [B•]−. Suppose we now form a conventional shared electron-pair bond from the odd electrons on the two ions. The electrons are shared between the A and B sites in just the way that they are on the right-hand side of Equation 5.3, but the bond would now be written as  ![](testimages/s205_2_ie011i.gif) .
 
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie011i.gif)
-.
-
-Thus, A→B and 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie011i.gif)
- are equivalent ways of writing the dative bond between A and B, and both are equally valid. The structures H3N→BF3 and C
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie013i.jpg)
-O can therefore also be written as H3
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/plus_over_n.gif)
-−
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/_over_b.gif)
-F3 and 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie015i.gif)
-.
+Thus, A→B and  ![](testimages/s205_2_ie011i.gif)  are equivalent ways of writing the dative bond between A and B, and both are equally valid. The structures H3N→BF3 and C ![](testimages/s205_2_ie013i.jpg) O can therefore also be written as H3 ![](testimages/plus_over_n.gif) − ![](testimages/_over_b.gif) F3 and  ![](testimages/s205_2_ie015i.gif) .
 
          ##-- SAQ
         <h1 xmlns:str="http://exslt.org/strings">Question 28</h1>
@@ -400,13 +379,7 @@ F3 and
 >Transform Structure __5.19__ for the carbonate ion into this new dative bond representation.
 
 
-See Structure __5.20__; each C→O bond is replaced by 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/plus_over_c.gif)
-−
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/minusover_o.gif)
-, and as the carbon atom forms two dative bonds, a charge of +2 must be added to the double negative charge on carbon in Structure __5.19__. This gives zero charge on carbon in the new version, but as there is now a single negative charge on each of the two singly bonded oxygens, the total charge on the ion is −2 as before.
+See Structure __5.20__; each C→O bond is replaced by  ![](testimages/plus_over_c.gif) − ![](testimages/minusover_o.gif) , and as the carbon atom forms two dative bonds, a charge of +2 must be added to the double negative charge on carbon in Structure __5.19__. This gives zero charge on carbon in the new version, but as there is now a single negative charge on each of the two singly bonded oxygens, the total charge on the ion is −2 as before.
 
  ![](testimages/s205_2_structure20.jpg) 
 
@@ -453,27 +426,9 @@ Before leaving dative bonds, we shall introduce an alternative way of writing th
 >A __:__ + B = A __:__ B                    (5.3)
 
 
-So far, we have written the dative bond as A→B. But consider atom A before the bond is formed. If we remove one of its lone pair electrons, and put that electron on atom B, we end up with the separate ions [A•] +  and [B•]−. Suppose we now form a conventional shared electron-pair bond from the odd electrons on the two ions. The electrons are shared between the A and B sites in just the way that they are on the right-hand side of Equation 5.3, but the bond would now be written as 
+So far, we have written the dative bond as A→B. But consider atom A before the bond is formed. If we remove one of its lone pair electrons, and put that electron on atom B, we end up with the separate ions [A•] +  and [B•]−. Suppose we now form a conventional shared electron-pair bond from the odd electrons on the two ions. The electrons are shared between the A and B sites in just the way that they are on the right-hand side of Equation 5.3, but the bond would now be written as  ![](testimages/s205_2_ie011i.gif) .
 
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie011i.gif)
-.
-
-Thus, A→B and 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie011i.gif)
- are equivalent ways of writing the dative bond between A and B, and both are equally valid. The structures H3N→BF3 and C
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie013i.jpg)
-O can therefore also be written as H3
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/plus_over_n.gif)
-−
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/_over_b.gif)
-F3 and 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie015i.gif)
-.
+Thus, A→B and  ![](testimages/s205_2_ie011i.gif)  are equivalent ways of writing the dative bond between A and B, and both are equally valid. The structures H3N→BF3 and C ![](testimages/s205_2_ie013i.jpg) O can therefore also be written as H3 ![](testimages/plus_over_n.gif) − ![](testimages/_over_b.gif) F3 and  ![](testimages/s205_2_ie015i.gif) .
 
          ##-- SAQ
         <h1 xmlns:str="http://exslt.org/strings">Question 28</h1>
@@ -483,13 +438,7 @@ F3 and
 >Transform Structure __5.19__ for the carbonate ion into this new dative bond representation.
 
 
-See Structure __5.20__; each C→O bond is replaced by 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/plus_over_c.gif)
-−
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/minusover_o.gif)
-, and as the carbon atom forms two dative bonds, a charge of +2 must be added to the double negative charge on carbon in Structure __5.19__. This gives zero charge on carbon in the new version, but as there is now a single negative charge on each of the two singly bonded oxygens, the total charge on the ion is −2 as before.
+See Structure __5.20__; each C→O bond is replaced by  ![](testimages/plus_over_c.gif) − ![](testimages/minusover_o.gif) , and as the carbon atom forms two dative bonds, a charge of +2 must be added to the double negative charge on carbon in Structure __5.19__. This gives zero charge on carbon in the new version, but as there is now a single negative charge on each of the two singly bonded oxygens, the total charge on the ion is −2 as before.
 
  ![](testimages/s205_2_structure20.jpg) 
 

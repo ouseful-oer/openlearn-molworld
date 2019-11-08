@@ -73,26 +73,17 @@ If NO and CO reacted like this, then the nitric oxide in the exhaust would disap
 
 The first possibility is that the reaction system has been able to reach chemical equilibrium, but the equilibrium position is not favourable. How does this come about? If equilibrium has been reached, then the forward (left to right) and backward (right to left) reactions are occurring at equal rates. In such a case, we can emphasise the fact by writing the reaction with two opposed, half-headed arrows: 
 
->2NO(g) + 2CO(g) 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/harpoon.gif)
- N2(g) + 2CO2(g)                              (8.2)
+>2NO(g) + 2CO(g)  ![](testimages/harpoon.gif)  N2(g) + 2CO2(g)                              (8.2)
 
 
 This indicates that both the forward reaction:
 
->2NO(g) + 2CO(g) 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/arrow_right.gif)
- N2(g) + 2CO2(g)                              (8.3)
+>2NO(g) + 2CO(g)  ![](testimages/arrow_right.gif)  N2(g) + 2CO2(g)                              (8.3)
 
 
 and the backward reaction:
 
->N2(g) + 2CO2(g) 
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/arrow_right.gif)
- 2NO(g) + 2CO(g)                              (8.4)
+>N2(g) + 2CO2(g)  ![](testimages/arrow_right.gif)  2NO(g) + 2CO(g)                              (8.4)
 
 
 are taking place: at the microscopic, molecular level there is ceaseless change in both directions. However, at equilibrium, *the overall rates of the forward and backward reactions are equal*. The reaction system then *seems* static because, at the macroscopic level where we measure things, there is no apparent change in the amounts or concentrations of any of the four gases involved. Suppose that Reaction 8.1 appears not to occur because, although it has reached equilibrium, the equilibrium position is unfavourable. Then it must be that the rates of the forward and backward reactions become equal when the concentrations of the reactants (NO and CO) are very high, and those of the products (N2 and CO2) are very small, so small as to be undetectable. This possibility can be tested by examining the *equilibrium constant, K*, for the reaction.
