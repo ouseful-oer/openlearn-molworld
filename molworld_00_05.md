@@ -6,13 +6,16 @@
 
 
 Reactivity is not spread evenly over a molecule; it tends to be concentrated at particular sites. The consequences of this idea are apparent in the chemistry of many elements. However, in organic chemistry, the idea has proved so valuable that it receives specific recognition through the concept of the __functional group__. Structure __6.1__ shows the abbreviated structural formula of hexan-1-ol, an alcohol.
-
+<!--Quote id=ueqn000_001-->
 >__CH3—CH2—CH2—CH2—CH2CH2—OH__                               (__6.1__)
 
-<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 31</h1>
+<!--SAQ id=saq031-->
+
+### Question 31
+
 
 #### Question
-
+<!--Quote id=quo033-->
 >Identify the functional group in this molecule.
 
 
@@ -70,20 +73,26 @@ What makes functional groups such as —OH so much more reactive than the carbon
 
 						Figure 39 Cotton is nearly pure cellulose, which is Nature's most common polymer. It is composed of glucose molecules linked through bridging oxygen atoms - a glycosidic linkage (highlighted in red). To the left of the reaction arrow two units are so joined. The six-membered rings are composed of five carbon atoms and one oxygen atom, but here the carbon atom labels have been omitted. Notice the terminal bonds through which the extended chains of the cotton fibre are formed. Replacement of the —OH groups by nitrate groups using a mixture of concentrated nitric and sulfuric acids gives nitrocellulose, a high explosive
 
-<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 32</h1>
+<!--SAQ id=saq032-->
+
+### Question 32
+
 
 #### Question
-
+<!--Quote id=quo034-->
 >Which of the 21 atoms in the molecule have non-bonded electron pairs?
 
 
 Only one; the oxygen atom of the functional group has two non-bonded electron pairs.
 <!--ENDSAQ-->
 Chemical reactions often occur in steps; in each step, groups of atoms attach themselves to the molecule, undergo change, and then depart. Attractive points of attachment in a molecule will therefore make a reaction more likely.
-<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 33</h1>
+<!--SAQ id=saq033-->
+
+### Question 33
+
 
 #### Question
-
+<!--Quote id=quo035-->
 >Why are non-bonded electron pairs possible points of attachment?
 
 
@@ -124,7 +133,7 @@ Subsequently, Alfred developed the safer dynamites, first by absorbing nitroglyc
  ![inlinefigure](testimages/s205_2_i013i.jpg) 
 
 When the hydrocarbons in petrol burn, they acquire the necessary oxygen from the air. High explosives carry their own oxygen, usually in the form of —NO2 groups, which are bound either to oxygen in nitrate esters, or to nitrogen as in RDX (<a xmlns:str="http://exslt.org/strings" href="">Figure 9b</a>), or to carbon as in TNT (Structure __6.2__). In a typical explosion, this oxygen converts the carbon-hydrogen skeleton to steam and oxides of carbon, leaving nitrogen as N2 molecules. The heat liberated raises the temperature of the products to about 4000 °﻿C. Thus, for PETN (Reaction 6.7):
-
+<!--Quote id=eqn006_009-->
 >C(CH2ONO2)4(s) = 2CO(g) + 3CO2(g) + 4H2O(g) + 2N2﻿(g)                (6.9)
 
 

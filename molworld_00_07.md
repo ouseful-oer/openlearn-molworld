@@ -61,7 +61,7 @@ So far, we have concentrated on the electronic and spatial structures of chemica
 
 
 Given these dangers, there is a reaction that could be very beneficial:
-
+<!--Quote id=eqn008_001-->
 >2NO(g) + 2CO(g) = N2(g) + 2CO2(g)                                    (8.1)
 
 
@@ -72,17 +72,17 @@ If NO and CO reacted like this, then the nitric oxide in the exhaust would disap
 
 
 The first possibility is that the reaction system has been able to reach chemical equilibrium, but the equilibrium position is not favourable. How does this come about? If equilibrium has been reached, then the forward (left to right) and backward (right to left) reactions are occurring at equal rates. In such a case, we can emphasise the fact by writing the reaction with two opposed, half-headed arrows: 
-
+<!--Quote id=eqn008_002-->
 >2NO(g) + 2CO(g)  ![inlinefigure](testimages/harpoon.gif)  N2(g) + 2CO2(g)                              (8.2)
 
 
 This indicates that both the forward reaction:
-
+<!--Quote id=eqn008_003-->
 >2NO(g) + 2CO(g)  ![inlinefigure](testimages/arrow_right.gif)  N2(g) + 2CO2(g)                              (8.3)
 
 
 and the backward reaction:
-
+<!--Quote id=eqn008_004-->
 >N2(g) + 2CO2(g)  ![inlinefigure](testimages/arrow_right.gif)  2NO(g) + 2CO(g)                              (8.4)
 
 
@@ -92,18 +92,24 @@ are taking place: at the microscopic, molecular level there is ceaseless change 
 An expression for the equilibrium constant of a reaction can be put together from the concentrations of the reactants and products at equilibrium. A concentration of a reactant or product is represented by enclosing its chemical formula in square brackets. Thus, the concentration of NO(g) is written [NO(g)].
 
 To write down the equilibrium constant of a reaction, we start with the concentrations of the products. Each one is raised to the power of the number that precedes it in the reaction equation, and the corresponding terms for each product are then multiplied together.
-<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 44</h1>
+<!--SAQ id=saq044-->
+
+### Question 44
+
 
 #### Question
-
+<!--Quote id=quo048-->
 >Do this now for the products of the equilibrium system 8.2.
 
 
 The result is [N2(g)] × [CO2(g)]2, or, taking the multiplication sign as understood, [N2(g)][CO2(g)]2. In Equation 8.2, CO2(g) is preceded by a two, so its concentration is squared.
-<!--ENDSAQ--><!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 45</h1>
+<!--ENDSAQ--><!--SAQ id=saq045-->
+
+### Question 45
+
 
 #### Question
-
+<!--Quote id=quo049-->
 >Now repeat the operation for the reactants in Equation 8.2.
 
 
@@ -115,20 +121,26 @@ The equilibrium constant, *K*, is obtained by dividing the result for the produc
 ![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e019i.gif)
 
 We have raised the possibility that Reaction 8.1 does not happen because the equilibrium position for equilibrium system 8.2 lies well over to the left. In other words, at equilibrium, the concentrations of NO(g) and CO(g) are very high, and those of N2 (g) and CO2(g) are so small as to be undetectable.
-<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 46</h1>
+<!--SAQ id=saq046-->
+
+### Question 46
+
 
 #### Question
-
+<!--Quote id=quo050-->
 >If so, will *K* be large or small?
 
 
 It will be very small because the large quantities ([NO﻿(g)] and [CO﻿(g)]) occur on the bottom of Equation 8.5, and the small quantities ([N2﻿(g)] and [CO2﻿(g)]) occur on the top.
 <!--ENDSAQ-->
 The value of *K* can be determined experimentally. A typical temperature in a car exhaust system is 525 °C. At this temperature, *K* turns out to be 1040 mol−1 litre.
-<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 47</h1>
+<!--SAQ id=saq047-->
+
+### Question 47
+
 
 #### Question
-
+<!--Quote id=quo051-->
 >Given this information, does the equilibrium position lie to the left of Equation 8.2?
 
 
@@ -137,18 +149,24 @@ No; *K* is immense, so at equilibrium, the concentrations of the products (which
 An expression for the equilibrium constant of a reaction can be put together from the concentrations of the reactants and products at equilibrium. A concentration of a reactant or product is represented by enclosing its chemical formula in square brackets. Thus, the concentration of NO(g) is written [NO(g)].
 
 To write down the equilibrium constant of a reaction, we start with the concentrations of the products. Each one is raised to the power of the number that precedes it in the reaction equation, and the corresponding terms for each product are then multiplied together.
-<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 44</h1>
+<!--SAQ id=saq044-->
+
+### Question 44
+
 
 #### Question
-
+<!--Quote id=quo048-->
 >Do this now for the products of the equilibrium system 8.2.
 
 
 The result is [N2(g)] × [CO2(g)]2, or, taking the multiplication sign as understood, [N2(g)][CO2(g)]2. In Equation 8.2, CO2(g) is preceded by a two, so its concentration is squared.
-<!--ENDSAQ--><!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 45</h1>
+<!--ENDSAQ--><!--SAQ id=saq045-->
+
+### Question 45
+
 
 #### Question
-
+<!--Quote id=quo049-->
 >Now repeat the operation for the reactants in Equation 8.2.
 
 
@@ -160,20 +178,26 @@ The equilibrium constant, *K*, is obtained by dividing the result for the produc
 ![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e019i.gif)
 
 We have raised the possibility that Reaction 8.1 does not happen because the equilibrium position for equilibrium system 8.2 lies well over to the left. In other words, at equilibrium, the concentrations of NO(g) and CO(g) are very high, and those of N2 (g) and CO2(g) are so small as to be undetectable.
-<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 46</h1>
+<!--SAQ id=saq046-->
+
+### Question 46
+
 
 #### Question
-
+<!--Quote id=quo050-->
 >If so, will *K* be large or small?
 
 
 It will be very small because the large quantities ([NO﻿(g)] and [CO﻿(g)]) occur on the bottom of Equation 8.5, and the small quantities ([N2﻿(g)] and [CO2﻿(g)]) occur on the top.
 <!--ENDSAQ-->
 The value of *K* can be determined experimentally. A typical temperature in a car exhaust system is 525 °C. At this temperature, *K* turns out to be 1040 mol−1 litre.
-<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 47</h1>
+<!--SAQ id=saq047-->
+
+### Question 47
+
 
 #### Question
-
+<!--Quote id=quo051-->
 >Given this information, does the equilibrium position lie to the left of Equation 8.2?
 
 
@@ -196,10 +220,13 @@ Let us look at the changes that take place in the internal energy as reactants c
 
 
 Between the reactants and products, the internal energy does not decrease gradually as the reaction progresses; instead, it rises initially, reaches a maximum, and then declines. The upper curve shows the situation in the absence of a catalyst. The internal energy of the reacting molecules must first increase by an amount marked 'energy barrier' in Figure.
-<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 48</h1>
+<!--SAQ id=saq048-->
+
+### Question 48
+
 
 #### Question
-
+<!--Quote id=quo052-->
 >How might the reactants, NO and CO, acquire this extra energy?
 
 

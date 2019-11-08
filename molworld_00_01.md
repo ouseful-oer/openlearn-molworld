@@ -14,20 +14,26 @@ The idea that everything that we can see is an assembly of tiny particles called
 
 						Figure 1 The Rutherford model of the atom.
 
-<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 1</h1>
+<!--SAQ id=saq001-->
+
+### Question 1
+
 
 #### Question
-
+<!--Quote id=quo001-->
 >So what is the charge carried by the nucleus of the atom in Figure 1?
 
 
 +6*e*; the atom in Figure 1 contains six electrons whose total charge will be −6*e*. To generate an overall charge of zero, the positive charge on the nucleus must be +6*e*.
 <!--ENDSAQ-->
 In fact, the positive charge on the nucleus of any atom is provided by minute positively charged particles called *protons*, each of which carries a charge of +*e*.
-<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 2</h1>
+<!--SAQ id=saq002-->
+
+### Question 2
+
 
 #### Question
-
+<!--Quote id=quo002-->
 >How many protons are there in the nucleus of the atom in Figure 1?
 
 
@@ -55,7 +61,7 @@ One of the implications of this Section, and of <a xmlns:str="http://exslt.org/s
 ### Box 1: Atoms in view?
 
 The Greek philosophers Democritus (460-370BC) and Epicurus (340-270BC) believed in a world made of tiny hard atoms in endless motion. Their ideas have come down to us through a poem, De Rerum Natura ('The Way Things Are'), written by the Roman poet Lucretius (90-40BC). Lucretius was profoundly hostile to contemporary ideas of an after-life, in which there was punishment by the gods for former sins. This turned the atomic theory into useful propaganda. After death, one's atoms were dispersed into the larger world and assumed new forms. So there could be no question of reassembly for punishment:
-
+<!--Quote id=quo003-->
 >…all our atoms went 
 >Wandering here and there and far away 
 >So we must think of death as being nothing, 
@@ -92,10 +98,13 @@ All atoms of the same element have identical atomic numbers, and are chemically 
 
 
 The two different kinds of atom are called *isotopes* of copper. The neutron has a mass very similar to that of the proton, so the two isotopes differ in mass. The sum of the numbers of neutrons and protons for a particular isotope is called the *mass number*.
-<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 3</h1>
+<!--SAQ id=saq003-->
+
+### Question 3
+
 
 #### Question
-
+<!--Quote id=quo004-->
 >What are the mass numbers of the two copper isotopes in Figure 4?
 
 
@@ -124,10 +133,13 @@ All atoms of the same element have identical atomic numbers, and are chemically 
 
 
 The two different kinds of atom are called *isotopes* of copper. The neutron has a mass very similar to that of the proton, so the two isotopes differ in mass. The sum of the numbers of neutrons and protons for a particular isotope is called the *mass number*.
-<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 3</h1>
+<!--SAQ id=saq003-->
+
+### Question 3
+
 
 #### Question
-
+<!--Quote id=quo004-->
 >What are the mass numbers of the two copper isotopes in Figure 4?
 
 
@@ -152,10 +164,13 @@ The mass number of any isotope is equal to the relative atomic mass of its atom,
 Chemical elements contain atoms of the same atomic number. But most materials consist of *chemical compounds*. These are a combination of the atoms of two or more chemical elements. Such combinations often occur in simple numerical ratios. Thus, when sodium metal (<a xmlns:str="http://exslt.org/strings" href="">Figure 2b</a>) and chlorine gas (<a xmlns:str="http://exslt.org/strings" href="">Figure 2e</a>) are brought into contact, they react vigorously, and white crystals of common salt (sodium chloride) are formed. In these crystals, there are equal numbers of sodium and chlorine atoms; that is, the sodium and chlorine atoms are combined in the simple ratio 1:1. This is expressed by writing sodium chloride as NaCl. In this formula, there is one chlorine atom (Cl) for every sodium atom (Na).
 
 Likewise, aluminium (<a xmlns:str="http://exslt.org/strings" href="">Figure 2a</a>) and liquid bromine (<a xmlns:str="http://exslt.org/strings" href="">Figure 2d</a>) will react violently after a short interval, and yield a white solid called aluminium bromide. In this solid there are three bromine atoms for every aluminium atom.
-<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 4</h1>
+<!--SAQ id=saq004-->
+
+### Question 4
+
 
 #### Question
-
+<!--Quote id=quo005-->
 >Write a chemical formula for aluminium bromide.
 
 
@@ -168,10 +183,13 @@ Formulae such as NaCl and AlBr3 tell us the ratios in which atoms are combined i
 
 
 Chlorine, bromine and iodine belong to a family of elements called the *halogens*. At room temperature, chlorine (<a xmlns:str="http://exslt.org/strings" href="">Figure 2e</a>) is a gas, bromine (<a xmlns:str="http://exslt.org/strings" href="">Figure 2d</a>) is a liquid and iodine is a dark-purple solid. All three substances are chemical elements. One's first thought might be that the tiny particles of which, say, chlorine gas is composed are single atoms.
-<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 5</h1>
+<!--SAQ id=saq005-->
+
+### Question 5
+
 
 #### Question
-
+<!--Quote id=quo006-->
 >Is this the case?
 
 
@@ -206,10 +224,13 @@ The formulae Cl2, Br2, I2 and CO2 that we have identified for the three halogens
 
 							Figure 8 The structure of the Al2Br6 molecule. The two aluminium atoms, and four of the bromine atoms at the ends of the molecule, lie in the same plane (at right-angles to the plane of the paper). The two bromines that bridge the aluminiums lie above and below this plane
 
-<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 6</h1>
+<!--SAQ id=saq006-->
+
+### Question 6
+
 
 #### Question
-
+<!--Quote id=quo007-->
 >Do these molecules have the same empirical formula as the solid in which they are found?
 
 
@@ -230,10 +251,13 @@ Yes; the molecular formula is Al2Br6, but in both the molecules and the solid, t
 
 
 Non-molecular substances defy attempts to pick out discrete molecules from their structures. One example is common salt, NaCl, which is built up from the tiny cubes shown in Figure 10a. Look first at the sodium at the centre of the cube.
-<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 7</h1>
+<!--SAQ id=saq007-->
+
+### Question 7
+
 
 #### Question
-
+<!--Quote id=quo008-->
 >What kind of atom is closest to the sodium, and how many of them are there?
 
 
@@ -278,10 +302,13 @@ In Figures 12a and 12b, the extension occurs in three dimensions, but it may som
 
 							Figure 13 The structure of the graphite form of the element carbon
 
-<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 8</h1>
+<!--SAQ id=saq008-->
+
+### Question 8
+
 
 #### Question
-
+<!--Quote id=quo009-->
 >If one regards a single crystal of graphite as an extended structure, does the extension occur in one, two or three dimensions?
 
 
@@ -298,10 +325,13 @@ Figures 12a and 13 show that the element carbon occurs in different solid forms,
 As we shall see in <a xmlns:str="http://exslt.org/strings" href="">Section 4</a>, elementary bonding theories imply that materials as different as salt, iodine and aluminium are held together by different types of chemical bond. However, all binding forces between atoms are essentially electrical, and arise from a balance of forces acting between positively charged nuclei and negatively charged electrons. As electrical forces are stronger at short distances, in solid iodine (Figure 6b) the short distances between the pairs of atoms (I2 molecules) suggest that the forces holding these atoms together are strong. By contrast, the longer distance between different pairs (molecules) tells us that the forces acting between one I2 molecule and another are much weaker.
 
 Now, iodine melts at only 114 °C and boils at 185 °C.
-<!--SAQ--><h1 xmlns:str="http://exslt.org/strings">Question 9</h1>
+<!--SAQ id=saq009-->
+
+### Question 9
+
 
 #### Question
-
+<!--Quote id=quo010-->
 >Why does iodine have low melting and boiling temperatures?
 
 
