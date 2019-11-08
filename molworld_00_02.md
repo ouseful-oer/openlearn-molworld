@@ -112,7 +112,7 @@ Clear examples of chemical periodicity are revealed by Figure 18. Many involve t
 
 What does Table 1 suggest for the empirical formula of an oxide of tin?
 
-SnO2; we start with the valencies of tin (4) and oxygen (2). Exchanging the numbers against the elements gives us tin (2) and oxygen (4). This tells us the combining ratio: two tin atoms combine with four oxygen atoms. To get the empirical formula, the ratio 2 : 4 is converted to the lowest possible whole numbers; the result is 1 : 2. So the predicted formula of the oxide of tin is SnO2.
+SnO<sub xmlns:str="http://exslt.org/strings">2</sub>; we start with the valencies of tin (4) and oxygen (2). Exchanging the numbers against the elements gives us tin (2) and oxygen (4). This tells us the combining ratio: two tin atoms combine with four oxygen atoms. To get the empirical formula, the ratio 2 : 4 is converted to the lowest possible whole numbers; the result is 1 : 2. So the predicted formula of the oxide of tin is SnO<sub xmlns:str="http://exslt.org/strings">2</sub>.
 
 
 
@@ -123,11 +123,11 @@ We now list three instances of chemical periodicity in <a xmlns:str="http://exsl
 
 
 * 
-(ii) When an element in Figure 18 forms one or more hydrides, then across the eight columns of the Table, the valency of the element in the highest hydride (the hydride that contains most hydrogen) runs in the order 1, 2, 3, 4, 3, 2, 1, 0. Thus, nitrogen occurs in the fifth column, so its hydride is NH3 (ammonia).
+(ii) When an element in Figure 18 forms one or more hydrides, then across the eight columns of the Table, the valency of the element in the highest hydride (the hydride that contains most hydrogen) runs in the order 1, 2, 3, 4, 3, 2, 1, 0. Thus, nitrogen occurs in the fifth column, so its hydride is NH<sub xmlns:str="http://exslt.org/strings">3</sub> (ammonia).
 
 
 * 
-(iii) The empirical formulae of fluorides and normal oxides provide an especially important example of chemical periodicity. Normal oxides are compounds in which *single oxygen atoms* are combined with atoms of other elements. For most of the elements in Figure 18, the highest observed valencies are equal to the Group number of the element. This allows the empirical formulae of the highest fluorides and highest normal oxides of the elements to be predicted. Thus, aluminium occurs in Group III, so the highest fluoride is AlF3, and the highest normal oxide is Al2O3.
+(iii) The empirical formulae of fluorides and normal oxides provide an especially important example of chemical periodicity. Normal oxides are compounds in which *single oxygen atoms* are combined with atoms of other elements. For most of the elements in Figure 18, the highest observed valencies are equal to the Group number of the element. This allows the empirical formulae of the highest fluorides and highest normal oxides of the elements to be predicted. Thus, aluminium occurs in Group III, so the highest fluoride is AlF<sub xmlns:str="http://exslt.org/strings">3</sub>, and the highest normal oxide is Al<sub xmlns:str="http://exslt.org/strings">2</sub>O<sub xmlns:str="http://exslt.org/strings">3</sub>.
 
 
 These generalisations are not perfect. For example, the oxide trend does not work for the elements Po, F, Br, I, He, Ne, Ar, Kr and Rn; the fluoride trend does not work for N, O, Cl, Br, or for any of the noble gases. There is a further comment on this in the next section. Nevertheless, each generalisation is true enough to be very useful.
@@ -136,7 +136,7 @@ These generalisations are not perfect. For example, the oxide trend does not wor
 ## 2.2 The Group number of the noble gases
 
 
-In <a xmlns:str="http://exslt.org/strings" href="">Figure 18</a>, the Period numbers increase steadily from 1 to 7 down the columns. It obviously seems appropriate that the Group numbers should show a similar steady increase from I to VIII across the rows. However, this numbering scheme puts the noble gases in Group VIII. As Section 2.1 makes clear, almost none of these six elements then obeys generalisation (iii). For example, with this Group numbering, generalisation (iii) predicts the formula AO4 for the highest normal oxides of the noble gases, where A represents a noble gas atom. Only for xenon is such a compound known.
+In <a xmlns:str="http://exslt.org/strings" href="">Figure 18</a>, the Period numbers increase steadily from 1 to 7 down the columns. It obviously seems appropriate that the Group numbers should show a similar steady increase from I to VIII across the rows. However, this numbering scheme puts the noble gases in Group VIII. As Section 2.1 makes clear, almost none of these six elements then obeys generalisation (iii). For example, with this Group numbering, generalisation (iii) predicts the formula AO<sub xmlns:str="http://exslt.org/strings">4</sub> for the highest normal oxides of the noble gases, where A represents a noble gas atom. Only for xenon is such a compound known.
 
 The situation is improved if one changes the Group number of the noble gases from VIII to zero. This is because there are no known oxides or binary fluorides of helium, neon or argon. In the case of the noble gases, generalisation (iii) then fails only at xenon when predicting oxide formulae, and at krypton, xenon and radon when predicting fluoride formulae. So in introducing chemical periodicity through generalisations (ii) and (iii), it makes sense to number the first 7 Groups from I to VII as in Figure 18, but to use zero for the noble gases (Group 0). This was also the Group numbering favoured by Mendeléev. In this course, however, we shall use the scheme of Figure 18 in which the noble gases are designated as Group VIII, and the Group numbers increase regularly across each row. The reasons for this change are given in <a xmlns:str="http://exslt.org/strings" href="">Section 3.4</a>.
 
@@ -182,9 +182,9 @@ In their highest fluorides and normal oxides, the valencies of the typical eleme
 
 #### Question
 
-A typical element Z from <a xmlns:str="http://exslt.org/strings" href="">Figure 18</a> is a semi-metal and forms oxides with empirical formulae ZO2 and ZO3, and a single hydride, ZH2. Identify the element, and state the Group and Period of <a xmlns:str="http://exslt.org/strings" href="">Figure 18</a> in which it lies. What is the formula of the highest fluoride of the element?
+A typical element Z from <a xmlns:str="http://exslt.org/strings" href="">Figure 18</a> is a semi-metal and forms oxides with empirical formulae ZO<sub xmlns:str="http://exslt.org/strings">2</sub> and ZO<sub xmlns:str="http://exslt.org/strings">3</sub>, and a single hydride, ZH<sub xmlns:str="http://exslt.org/strings">2</sub>. Identify the element, and state the Group and Period of <a xmlns:str="http://exslt.org/strings" href="">Figure 18</a> in which it lies. What is the formula of the highest fluoride of the element?
 
-Z is tellurium (Te). The *highest* normal oxide ZO3 suggests (point iii of <a xmlns:str="http://exslt.org/strings" href="">Section 2.1</a>) a highest valency of six and, therefore, a Group VI element. Point ii confirms that these elements form a hydride ZH2. The only Group VI element that is a semi-metal is tellurium. It lies in Period 5. Its highest fluoride (point iii again) should have the empirical formula TeF6, and in fact it does.
+Z is tellurium (Te). The *highest* normal oxide ZO<sub xmlns:str="http://exslt.org/strings">3</sub> suggests (point iii of <a xmlns:str="http://exslt.org/strings" href="">Section 2.1</a>) a highest valency of six and, therefore, a Group VI element. Point ii confirms that these elements form a hydride ZH<sub xmlns:str="http://exslt.org/strings">2</sub>. The only Group VI element that is a semi-metal is tellurium. It lies in Period 5. Its highest fluoride (point iii again) should have the empirical formula TeF<sub xmlns:str="http://exslt.org/strings">6</sub>, and in fact it does.
 
 
 

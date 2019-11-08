@@ -174,9 +174,9 @@ Likewise, aluminium (<a xmlns:str="http://exslt.org/strings" href="">Figure 2a</
 >Write a chemical formula for aluminium bromide.
 
 
-AlBr3; the subscript three following the bromine marks the fact that the Al : Br atomic ratio is 1 : 3.
+AlBr<sub xmlns:str="http://exslt.org/strings">3</sub>; the subscript three following the bromine marks the fact that the Al : Br atomic ratio is 1 : 3.
 <!--ENDSAQ-->
-Formulae such as NaCl and AlBr3 tell us the ratios in which atoms are combined in compounds. When they are written down, the ratio is reduced to the lowest possible whole number, and the chemical formulae obtained in this way are then called __empirical formulae__. Most chemical elements are metals, and the formulae quoted for compounds of these metallic elements are usually empirical formulae. But they tell us nothing about the way that the atoms are grouped within the compound. For this, we need formulae of a different type.
+Formulae such as NaCl and AlBr<sub xmlns:str="http://exslt.org/strings">3</sub> tell us the ratios in which atoms are combined in compounds. When they are written down, the ratio is reduced to the lowest possible whole number, and the chemical formulae obtained in this way are then called __empirical formulae__. Most chemical elements are metals, and the formulae quoted for compounds of these metallic elements are usually empirical formulae. But they tell us nothing about the way that the atoms are grouped within the compound. For this, we need formulae of a different type.
 
 
 ## 1.4 Molecular substances
@@ -193,19 +193,19 @@ Chlorine, bromine and iodine belong to a family of elements called the *halogens
 >Is this the case?
 
 
-No; the tiny particles or *molecules* consist of pairs of chlorine atoms, Cl2.
+No; the tiny particles or *molecules* consist of pairs of chlorine atoms, Cl<sub xmlns:str="http://exslt.org/strings">2</sub>.
 <!--ENDSAQ-->
-A gas, like chlorine, occupies much more space than a solid or liquid, so the distance between the molecules is comparatively large. At normal temperatures and pressures, it averages about 3 500 pm (1 pm ≡ 10−12m), compared with a distance of only 198 pm separating the chlorine atoms in gaseous Cl2 molecules (<a xmlns:str="http://exslt.org/strings" href="">Figure 6a</a>). This disparity is less extreme, but still evident in liquid bromine and solid iodine. The positions of atoms in solids can be determined by X-ray crystallography. In solid iodine (<a xmlns:str="http://exslt.org/strings" href="">Figure 6b</a>), each iodine atom has a second iodine atom at a distance of only 271 pm. By contrast, in other directions, the shortest distance to another iodine atom is considerably greater (350 pm). So the iodine atoms can be grouped into pairs; hence we conclude that solid iodine contains I2 molecules.
+A gas, like chlorine, occupies much more space than a solid or liquid, so the distance between the molecules is comparatively large. At normal temperatures and pressures, it averages about 3 500 pm (1 pm ≡ 10<sup xmlns:str="http://exslt.org/strings">−12</sup>m), compared with a distance of only 198 pm separating the chlorine atoms in gaseous Cl<sub xmlns:str="http://exslt.org/strings">2</sub> molecules (<a xmlns:str="http://exslt.org/strings" href="">Figure 6a</a>). This disparity is less extreme, but still evident in liquid bromine and solid iodine. The positions of atoms in solids can be determined by X-ray crystallography. In solid iodine (<a xmlns:str="http://exslt.org/strings" href="">Figure 6b</a>), each iodine atom has a second iodine atom at a distance of only 271 pm. By contrast, in other directions, the shortest distance to another iodine atom is considerably greater (350 pm). So the iodine atoms can be grouped into pairs; hence we conclude that solid iodine contains I<sub xmlns:str="http://exslt.org/strings">2</sub> molecules.
 
 
 ![Figure 6](testimages/s205_2_006i.jpg)
 
 
 
-							Figure 6 (a) The distance between the atoms in Cl2 molecules is small compared with the average distance between the molecules in a jar of chlorine gas. On the scale set by our Cl2 molecule, that average distance puts the next Cl2 molecule on the opposite page. (b) In solid iodine, I2 molecules (e.g. AB) can be identified through their separation by a distance of 271 pm. These molecules are separated by longer distances of at least 350 pm (BC)
+							Figure 6 (a) The distance between the atoms in Cl<sub xmlns:str="http://exslt.org/strings">2</sub> molecules is small compared with the average distance between the molecules in a jar of chlorine gas. On the scale set by our Cl<sub xmlns:str="http://exslt.org/strings">2</sub> molecule, that average distance puts the next Cl<sub xmlns:str="http://exslt.org/strings">2</sub> molecule on the opposite page. (b) In solid iodine, I<sub xmlns:str="http://exslt.org/strings">2</sub> molecules (e.g. AB) can be identified through their separation by a distance of 271 pm. These molecules are separated by longer distances of at least 350 pm (BC)
 
 
-Similar reasoning can be used to identify molecules in compounds. At room temperature, carbon dioxide is a gas containing CO2 molecules. On cooling, it becomes a solid ('dry ice'). In dry ice (Figure 7), each carbon atom, A, has two oxygen atom neighbours, B and C, at a distance of 116 pm. These three atoms are colinear. The next nearest atom is another oxygen, D, at 311 pm. Here is evidence that solid carbon dioxide contains linear CO2 molecules, with the atom sequence O—C—O.
+Similar reasoning can be used to identify molecules in compounds. At room temperature, carbon dioxide is a gas containing CO<sub xmlns:str="http://exslt.org/strings">2</sub> molecules. On cooling, it becomes a solid ('dry ice'). In dry ice (Figure 7), each carbon atom, A, has two oxygen atom neighbours, B and C, at a distance of 116 pm. These three atoms are colinear. The next nearest atom is another oxygen, D, at 311 pm. Here is evidence that solid carbon dioxide contains linear CO<sub xmlns:str="http://exslt.org/strings">2</sub> molecules, with the atom sequence O—C—O.
 
 
 ![Figure 7](testimages/s205_2_007i.jpg)
@@ -215,14 +215,14 @@ Similar reasoning can be used to identify molecules in compounds. At room temper
 							Figure 7 The environment of a carbon atom, labelled A, in solid carbon dioxide, 'dry ice'. Note that molecule BAC is in the plane of the paper; the other four molecules shown are not
 
 
-The formulae Cl2, Br2, I2 and CO2 that we have identified for the three halogens and carbon dioxide are called __molecular formulae__. They tell us how the atoms are grouped together in the molecules from which the substance is built up. Likewise, the four substances are called *molecular substances* because they have structures that allow discrete molecules to be picked out. So far, we have examined just one molecular compound (CO2) and its molecular formula is identical with its empirical formula, but often this is not so. In <a xmlns:str="http://exslt.org/strings" href="">Section 1.2</a>, we discussed solid aluminium bromide with empirical formula AlBr3. Here, the molecular and empirical formulae are not identical: the crystal structure contains Al2Br6 molecules (Figure 8).
+The formulae Cl<sub xmlns:str="http://exslt.org/strings">2</sub>, Br<sub xmlns:str="http://exslt.org/strings">2</sub>, I<sub xmlns:str="http://exslt.org/strings">2</sub> and CO<sub xmlns:str="http://exslt.org/strings">2</sub> that we have identified for the three halogens and carbon dioxide are called __molecular formulae__. They tell us how the atoms are grouped together in the molecules from which the substance is built up. Likewise, the four substances are called *molecular substances* because they have structures that allow discrete molecules to be picked out. So far, we have examined just one molecular compound (CO<sub xmlns:str="http://exslt.org/strings">2</sub>) and its molecular formula is identical with its empirical formula, but often this is not so. In <a xmlns:str="http://exslt.org/strings" href="">Section 1.2</a>, we discussed solid aluminium bromide with empirical formula AlBr<sub xmlns:str="http://exslt.org/strings">3</sub>. Here, the molecular and empirical formulae are not identical: the crystal structure contains Al<sub xmlns:str="http://exslt.org/strings">2</sub>Br<sub xmlns:str="http://exslt.org/strings">6</sub> molecules (Figure 8).
 
 
 ![Figure 8](testimages/s205_2_008i.jpg)
 
 
 
-							Figure 8 The structure of the Al2Br6 molecule. The two aluminium atoms, and four of the bromine atoms at the ends of the molecule, lie in the same plane (at right-angles to the plane of the paper). The two bromines that bridge the aluminiums lie above and below this plane
+							Figure 8 The structure of the Al<sub xmlns:str="http://exslt.org/strings">2</sub>Br<sub xmlns:str="http://exslt.org/strings">6</sub> molecule. The two aluminium atoms, and four of the bromine atoms at the ends of the molecule, lie in the same plane (at right-angles to the plane of the paper). The two bromines that bridge the aluminiums lie above and below this plane
 
 <!--SAQ id=saq006-->
 
@@ -234,7 +234,7 @@ The formulae Cl2, Br2, I2 and CO2 that we have identified for the three halogens
 >Do these molecules have the same empirical formula as the solid in which they are found?
 
 
-Yes; the molecular formula is Al2Br6, but in both the molecules and the solid, the ratio of aluminium atoms to bromine atoms is 1 : 3. In molecular substances that contain just one type of molecule, that molecule has the same empirical formula as the compound.
+Yes; the molecular formula is Al<sub xmlns:str="http://exslt.org/strings">2</sub>Br<sub xmlns:str="http://exslt.org/strings">6</sub>, but in both the molecules and the solid, the ratio of aluminium atoms to bromine atoms is 1 : 3. In molecular substances that contain just one type of molecule, that molecule has the same empirical formula as the compound.
 <!--ENDSAQ-->
  The so-called organic compounds formed by the element carbon are almost entirely molecular. To mark this point, we show, in Figure 9, the grouping of the atoms in the molecules of two important solid organic compounds. Figure 9a shows the structure of aspirin, the best-known painkiller, which is also used in the precautionary treatment of heart conditions. The molecule in Figure 9b is RDX, the most common military high explosive. Here, you need not worry about the names used for organic compounds. In this course, relatively few such compounds are discussed, and we shall be concerned only with differences in the *structure* of their molecules; the names are just labels. 
 
@@ -273,14 +273,14 @@ The sodium is surrounded by six chlorines at the centres of the cube faces.
 
 The six chlorines lie at the corners of a three-dimensional figure called a regular octahedron (a solid figure with eight faces; see Figure 10b). The formula NaCl for sodium chloride is an empirical formula: it merely tells us that in sodium chloride there are equal numbers of sodiums and chlorines. This condition is automatically fulfilled when many cubes of the Figure 10a type are joined through their faces. But Figure 10 provides no evidence that NaCl is the *molecular formula* of sodium chloride. Indeed, quite the opposite, because the six chlorines around the sodium in Figure 10a all lie the *same distance* away. There are no grounds for singling out just one of them and coupling it with the sodium as an NaCl molecule. There is no evidence of discrete NaCl molecules in the solid; NaCl is a *non-molecular* compound, and the concept of a 'molecular formula' is not appropriate in solid NaCl.
 
-Similar considerations apply to silicon dioxide or silica, SiO2. This is the main component of sand, and it has the same type of empirical formula as carbon dioxide. In solid carbon dioxide, two of the oxygen atoms around each carbon were much closer than the others, so we could identify a CO2 molecule. However, in silica (Figure 11), each silicon atom sits at the centre of a tetrahedron of oxygen atoms: the silicon is surrounded by four oxygen atoms, all at the same distance of 162 pm. There is no evidence of discrete SiO2 molecules.
+Similar considerations apply to silicon dioxide or silica, SiO<sub xmlns:str="http://exslt.org/strings">2</sub>. This is the main component of sand, and it has the same type of empirical formula as carbon dioxide. In solid carbon dioxide, two of the oxygen atoms around each carbon were much closer than the others, so we could identify a CO<sub xmlns:str="http://exslt.org/strings">2</sub> molecule. However, in silica (Figure 11), each silicon atom sits at the centre of a tetrahedron of oxygen atoms: the silicon is surrounded by four oxygen atoms, all at the same distance of 162 pm. There is no evidence of discrete SiO<sub xmlns:str="http://exslt.org/strings">2</sub> molecules.
 
 
 ![Figure 11](testimages/s205_2_011i.jpg)
 
 
 
-							Figure 11 The structure of silica, SiO2, in the form of quartz. One SiO4 tetrahedron is highlighted in green.
+							Figure 11 The structure of silica, SiO<sub xmlns:str="http://exslt.org/strings">2</sub>, in the form of quartz. One SiO<sub xmlns:str="http://exslt.org/strings">4</sub> tetrahedron is highlighted in green.
 
 
 Most of the chemical elements are non-molecular substances. Figure 12 shows the environment of each atom in diamond and metallic aluminium. In diamond (Figure 12a), there are four surrounding carbon atoms at the corners of a regular tetrahedron, and the C—C distance is 154 pm. In aluminium (Figure 12b), there are twelve surrounding aluminium atoms, and the Al—Al distance is 286 pm. There is no justification for dividing the structure up into molecules containing two or more atoms. Any such 'molecule' extends throughout a crystal of the substance, and its formula will vary with the crystal size. For this reason, the phrase __extended structure__ is sometimes used to describe non-molecular substances.
@@ -322,7 +322,7 @@ Figures 12a and 13 show that the element carbon occurs in different solid forms,
 ## 1.6 Binding forces in molecular and non-molecular substances - a first look
 
 
-As we shall see in <a xmlns:str="http://exslt.org/strings" href="">Section 4</a>, elementary bonding theories imply that materials as different as salt, iodine and aluminium are held together by different types of chemical bond. However, all binding forces between atoms are essentially electrical, and arise from a balance of forces acting between positively charged nuclei and negatively charged electrons. As electrical forces are stronger at short distances, in solid iodine (Figure 6b) the short distances between the pairs of atoms (I2 molecules) suggest that the forces holding these atoms together are strong. By contrast, the longer distance between different pairs (molecules) tells us that the forces acting between one I2 molecule and another are much weaker.
+As we shall see in <a xmlns:str="http://exslt.org/strings" href="">Section 4</a>, elementary bonding theories imply that materials as different as salt, iodine and aluminium are held together by different types of chemical bond. However, all binding forces between atoms are essentially electrical, and arise from a balance of forces acting between positively charged nuclei and negatively charged electrons. As electrical forces are stronger at short distances, in solid iodine (Figure 6b) the short distances between the pairs of atoms (I<sub xmlns:str="http://exslt.org/strings">2</sub> molecules) suggest that the forces holding these atoms together are strong. By contrast, the longer distance between different pairs (molecules) tells us that the forces acting between one I<sub xmlns:str="http://exslt.org/strings">2</sub> molecule and another are much weaker.
 
 Now, iodine melts at only 114 °C and boils at 185 °C.
 <!--SAQ id=saq009-->
@@ -335,9 +335,9 @@ Now, iodine melts at only 114 °C and boils at 185 °C.
 >Why does iodine have low melting and boiling temperatures?
 
 
-In solid iodine, different I2 molecules are held together by weak forces, so only a little thermal energy is needed to separate them and create first a liquid, and then a gas. Both liquid and gaseous iodine also contain I2 molecules. To melt and then boil iodine it is not necessary to break up the I2 molecules themselves.
+In solid iodine, different I<sub xmlns:str="http://exslt.org/strings">2</sub> molecules are held together by weak forces, so only a little thermal energy is needed to separate them and create first a liquid, and then a gas. Both liquid and gaseous iodine also contain I<sub xmlns:str="http://exslt.org/strings">2</sub> molecules. To melt and then boil iodine it is not necessary to break up the I<sub xmlns:str="http://exslt.org/strings">2</sub> molecules themselves.
 <!--ENDSAQ-->
-This also explains another property of iodine: it dissolves fairly easily in an organic solvent like petrol. The solid crystal falls apart and individual I2 molecules drift off into solution. As organic compounds are molecular, they too, often dissolve in petrol. The organic polymers you meet in everyday life have unusually large molecules, but being molecular they may also be vulnerable (Figure 14).
+This also explains another property of iodine: it dissolves fairly easily in an organic solvent like petrol. The solid crystal falls apart and individual I<sub xmlns:str="http://exslt.org/strings">2</sub> molecules drift off into solution. As organic compounds are molecular, they too, often dissolve in petrol. The organic polymers you meet in everyday life have unusually large molecules, but being molecular they may also be vulnerable (Figure 14).
 
 
 ![Figure 14](testimages/s205_2_014i.jpg)
@@ -427,7 +427,7 @@ The element aluminium (symbol Al; atomic number 13) has a relative atomic mass o
 
 #### Question
 
-The molecular formula of an oxide of phosphorus is P4O10.
+The molecular formula of an oxide of phosphorus is P<sub xmlns:str="http://exslt.org/strings">4</sub>O<sub xmlns:str="http://exslt.org/strings">10</sub>.
 
 * 
 (a) What is the empirical formula of the oxide?
@@ -437,7 +437,7 @@ The molecular formula of an oxide of phosphorus is P4O10.
 (b) Can the empirical formula of a molecular compound consisting of one type of molecule, contain more atoms than its molecular formula? Explain your answer.
 
 
-(a) P2O5.
+(a) P<sub xmlns:str="http://exslt.org/strings">2</sub>O<sub xmlns:str="http://exslt.org/strings">5</sub>.
 
  (b) No. The empirical formula can be obtained from the molecular formula by reducing the ratio between the numbers of atoms to the lowest possible whole numbers. A molecule containing fewer atoms than the empirical formula would therefore consist of fractions of atoms. In chemistry, the term 'fraction of an atom' is meaningless.
 

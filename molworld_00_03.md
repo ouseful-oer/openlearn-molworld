@@ -74,11 +74,11 @@ To assign electronic configurations to atoms, you need only one more piece of in
 >The atomic number of silicon is 14. Write down the electronic configuration of the silicon atom.
 
 
-1s22s22p63s23p2.
+1s<sup xmlns:str="http://exslt.org/strings">2</sup>2s<sup xmlns:str="http://exslt.org/strings">2</sup>2p<sup xmlns:str="http://exslt.org/strings">6</sup>3s<sup xmlns:str="http://exslt.org/strings">2</sup>3p<sup xmlns:str="http://exslt.org/strings">2</sup>.
 <!--ENDSAQ-->
 This is established as follows. Assign the fourteen electrons in the silicon atom to the sub-shells in Figure 21. The 1s and 2s levels on the left can each take two electrons. The next highest level is 2p and this sub-shell is filled by the next six electrons. The 3s sub-shell then takes another two electrons and the thirteenth and fourteenth electrons go into the sub-shell of next highest energy, which is 3p.
 
-Notice that the value of *n* for the outermost shell of the electronic configuration of the silicon atom is three. This outer shell contains four electrons, two of which are in an s sub-shell, and two in a p sub-shell. We say, therefore, that the outer electronic configuration of the silicon atom is of the type s2p2.
+Notice that the value of *n* for the outermost shell of the electronic configuration of the silicon atom is three. This outer shell contains four electrons, two of which are in an s sub-shell, and two in a p sub-shell. We say, therefore, that the outer electronic configuration of the silicon atom is of the type s<sup xmlns:str="http://exslt.org/strings">2</sup>p<sup xmlns:str="http://exslt.org/strings">2</sup>.
 
 
 ## 3.3 Electronic configurations and the Periodic Table
@@ -111,9 +111,9 @@ In Section 3.2, we described <a xmlns:str="http://exslt.org/strings" href="">Fig
 >Use Figure 21 to write out the electronic configuration of the lead atom.
 
 
-1s22s22p63s23p64s23d104p65s24d105p66s24f145d106p2.
+1s<sup xmlns:str="http://exslt.org/strings">2</sup>2s<sup xmlns:str="http://exslt.org/strings">2</sup>2p<sup xmlns:str="http://exslt.org/strings">6</sup>3s<sup xmlns:str="http://exslt.org/strings">2</sup>3p<sup xmlns:str="http://exslt.org/strings">6</sup>4s<sup xmlns:str="http://exslt.org/strings">2</sup>3d<sup xmlns:str="http://exslt.org/strings">10</sup>4p<sup xmlns:str="http://exslt.org/strings">6</sup>5s<sup xmlns:str="http://exslt.org/strings">2</sup>4d<sup xmlns:str="http://exslt.org/strings">10</sup>5p<sup xmlns:str="http://exslt.org/strings">6</sup>6s<sup xmlns:str="http://exslt.org/strings">2</sup>4f<sup xmlns:str="http://exslt.org/strings">14</sup>5d<sup xmlns:str="http://exslt.org/strings">10</sup>6p<sup xmlns:str="http://exslt.org/strings">2</sup>.
 <!--ENDSAQ-->
-In the lead atom, the occupied sub-shells of highest energy are 6s2 and 6p2. The four electrons in these sub-shells are the ones that most influence the chemistry of lead. They are the outermost electrons, and the most easily removed, being furthest from the nucleus. But the sub-shell sequence from Figure 21 does not give this impression. Although 6p2 appears at the end, suggesting that these are outermost electrons, 6s2 does not. A more correct order of energies *in any particular atom* is obtained by grouping the sub-shells first in order of increasing value of *n*, and then, within each *n* value, in the order s, p, d and f.
+In the lead atom, the occupied sub-shells of highest energy are 6s<sup xmlns:str="http://exslt.org/strings">2</sup> and 6p<sup xmlns:str="http://exslt.org/strings">2</sup>. The four electrons in these sub-shells are the ones that most influence the chemistry of lead. They are the outermost electrons, and the most easily removed, being furthest from the nucleus. But the sub-shell sequence from Figure 21 does not give this impression. Although 6p<sup xmlns:str="http://exslt.org/strings">2</sup> appears at the end, suggesting that these are outermost electrons, 6s<sup xmlns:str="http://exslt.org/strings">2</sup> does not. A more correct order of energies *in any particular atom* is obtained by grouping the sub-shells first in order of increasing value of *n*, and then, within each *n* value, in the order s, p, d and f.
 <!--SAQ id=saq015-->
 
 ### Question 15
@@ -124,9 +124,9 @@ In the lead atom, the occupied sub-shells of highest energy are 6s2 and 6p2. The
 >Do this for the configuration of the lead atom.
 
 
-1s2|2s22p6|3s23p63d10|4s24p64d104f14|5s25p65d10|6s26p2. For clarification, the individual shells have been separated by vertical lines.
+1s<sup xmlns:str="http://exslt.org/strings">2</sup>|2s<sup xmlns:str="http://exslt.org/strings">2</sup>2p<sup xmlns:str="http://exslt.org/strings">6</sup>|3s<sup xmlns:str="http://exslt.org/strings">2</sup>3p<sup xmlns:str="http://exslt.org/strings">6</sup>3d<sup xmlns:str="http://exslt.org/strings">10</sup>|4s<sup xmlns:str="http://exslt.org/strings">2</sup>4p<sup xmlns:str="http://exslt.org/strings">6</sup>4d<sup xmlns:str="http://exslt.org/strings">10</sup>4f<sup xmlns:str="http://exslt.org/strings">14</sup>|5s<sup xmlns:str="http://exslt.org/strings">2</sup>5p<sup xmlns:str="http://exslt.org/strings">6</sup>5d<sup xmlns:str="http://exslt.org/strings">10</sup>|6s<sup xmlns:str="http://exslt.org/strings">2</sup>6p<sup xmlns:str="http://exslt.org/strings">2</sup>. For clarification, the individual shells have been separated by vertical lines.
 <!--ENDSAQ-->
-The electronic configurations of the atoms within this course have been written in this style. One of its merits is that the outer electrons with the highest principal quantum numbers appear at the right-hand end. In this case, they show that the outer electronic configuration of lead is of the type s2p2. This is less apparent in the earlier configuration that was derived directly from <a xmlns:str="http://exslt.org/strings" href="">Figure 21</a>.
+The electronic configurations of the atoms within this course have been written in this style. One of its merits is that the outer electrons with the highest principal quantum numbers appear at the right-hand end. In this case, they show that the outer electronic configuration of lead is of the type s<sup xmlns:str="http://exslt.org/strings">2</sup>p<sup xmlns:str="http://exslt.org/strings">2</sup>. This is less apparent in the earlier configuration that was derived directly from <a xmlns:str="http://exslt.org/strings" href="">Figure 21</a>.
 3.3.1 Writing out electronic configurations
 In Section 3.2, we described <a xmlns:str="http://exslt.org/strings" href="">Figure 21</a> as an *energy-level* diagram, which represented the build-up of electronic configurations as electrons were inserted into sub-shells of progressively increasing energy. However, Figure 21 has been designed for just one purpose: to generate the correct electronic configurations in our thought experiment in which, to quote Niels Bohr, 'the neutral atom is built up by the capture and binding of electrons to the nucleus, one by one'. What Figure 21 tells us, at any stage of the thought experiment, is which of the *still unfilled* sub-shells has the lowest energy. That sub-shell then receives the next electron.
 
@@ -141,9 +141,9 @@ In Section 3.2, we described <a xmlns:str="http://exslt.org/strings" href="">Fig
 >Use Figure 21 to write out the electronic configuration of the lead atom.
 
 
-1s22s22p63s23p64s23d104p65s24d105p66s24f145d106p2.
+1s<sup xmlns:str="http://exslt.org/strings">2</sup>2s<sup xmlns:str="http://exslt.org/strings">2</sup>2p<sup xmlns:str="http://exslt.org/strings">6</sup>3s<sup xmlns:str="http://exslt.org/strings">2</sup>3p<sup xmlns:str="http://exslt.org/strings">6</sup>4s<sup xmlns:str="http://exslt.org/strings">2</sup>3d<sup xmlns:str="http://exslt.org/strings">10</sup>4p<sup xmlns:str="http://exslt.org/strings">6</sup>5s<sup xmlns:str="http://exslt.org/strings">2</sup>4d<sup xmlns:str="http://exslt.org/strings">10</sup>5p<sup xmlns:str="http://exslt.org/strings">6</sup>6s<sup xmlns:str="http://exslt.org/strings">2</sup>4f<sup xmlns:str="http://exslt.org/strings">14</sup>5d<sup xmlns:str="http://exslt.org/strings">10</sup>6p<sup xmlns:str="http://exslt.org/strings">2</sup>.
 <!--ENDSAQ-->
-In the lead atom, the occupied sub-shells of highest energy are 6s2 and 6p2. The four electrons in these sub-shells are the ones that most influence the chemistry of lead. They are the outermost electrons, and the most easily removed, being furthest from the nucleus. But the sub-shell sequence from Figure 21 does not give this impression. Although 6p2 appears at the end, suggesting that these are outermost electrons, 6s2 does not. A more correct order of energies *in any particular atom* is obtained by grouping the sub-shells first in order of increasing value of *n*, and then, within each *n* value, in the order s, p, d and f.
+In the lead atom, the occupied sub-shells of highest energy are 6s<sup xmlns:str="http://exslt.org/strings">2</sup> and 6p<sup xmlns:str="http://exslt.org/strings">2</sup>. The four electrons in these sub-shells are the ones that most influence the chemistry of lead. They are the outermost electrons, and the most easily removed, being furthest from the nucleus. But the sub-shell sequence from Figure 21 does not give this impression. Although 6p<sup xmlns:str="http://exslt.org/strings">2</sup> appears at the end, suggesting that these are outermost electrons, 6s<sup xmlns:str="http://exslt.org/strings">2</sup> does not. A more correct order of energies *in any particular atom* is obtained by grouping the sub-shells first in order of increasing value of *n*, and then, within each *n* value, in the order s, p, d and f.
 <!--SAQ id=saq015-->
 
 ### Question 15
@@ -154,15 +154,15 @@ In the lead atom, the occupied sub-shells of highest energy are 6s2 and 6p2. The
 >Do this for the configuration of the lead atom.
 
 
-1s2|2s22p6|3s23p63d10|4s24p64d104f14|5s25p65d10|6s26p2. For clarification, the individual shells have been separated by vertical lines.
+1s<sup xmlns:str="http://exslt.org/strings">2</sup>|2s<sup xmlns:str="http://exslt.org/strings">2</sup>2p<sup xmlns:str="http://exslt.org/strings">6</sup>|3s<sup xmlns:str="http://exslt.org/strings">2</sup>3p<sup xmlns:str="http://exslt.org/strings">6</sup>3d<sup xmlns:str="http://exslt.org/strings">10</sup>|4s<sup xmlns:str="http://exslt.org/strings">2</sup>4p<sup xmlns:str="http://exslt.org/strings">6</sup>4d<sup xmlns:str="http://exslt.org/strings">10</sup>4f<sup xmlns:str="http://exslt.org/strings">14</sup>|5s<sup xmlns:str="http://exslt.org/strings">2</sup>5p<sup xmlns:str="http://exslt.org/strings">6</sup>5d<sup xmlns:str="http://exslt.org/strings">10</sup>|6s<sup xmlns:str="http://exslt.org/strings">2</sup>6p<sup xmlns:str="http://exslt.org/strings">2</sup>. For clarification, the individual shells have been separated by vertical lines.
 <!--ENDSAQ-->
-The electronic configurations of the atoms within this course have been written in this style. One of its merits is that the outer electrons with the highest principal quantum numbers appear at the right-hand end. In this case, they show that the outer electronic configuration of lead is of the type s2p2. This is less apparent in the earlier configuration that was derived directly from <a xmlns:str="http://exslt.org/strings" href="">Figure 21</a>.
+The electronic configurations of the atoms within this course have been written in this style. One of its merits is that the outer electrons with the highest principal quantum numbers appear at the right-hand end. In this case, they show that the outer electronic configuration of lead is of the type s<sup xmlns:str="http://exslt.org/strings">2</sup>p<sup xmlns:str="http://exslt.org/strings">2</sup>. This is less apparent in the earlier configuration that was derived directly from <a xmlns:str="http://exslt.org/strings" href="">Figure 21</a>.
 
 
 ## 3.4 Outer electronic configurations and the Periodic Table
 
 
-The essential message of <a xmlns:str="http://exslt.org/strings" href="">Figure 22</a> is that the Groups of elements that appear in columns of the Periodic Table usually have atoms with similar outer electronic configurations. Figure 23 incorporates these configurations into our mini-Periodic Table of typical elements; they appear at the top of each Group. They imply that the typical elements have outer electronic configurations either of the type ns**x**, where **x** = 1 or 2, or of the type ns2np**x**, where *x* runs from 1 to 6. For any particular element, *n* is the principal quantum number of the outer occupied shell. This can easily be found from Figure 23, because it is equal to the number of the Period in which the element is to be found. The outer electrons are simply those in occupied sub-shells with this principal quantum number.
+The essential message of <a xmlns:str="http://exslt.org/strings" href="">Figure 22</a> is that the Groups of elements that appear in columns of the Periodic Table usually have atoms with similar outer electronic configurations. Figure 23 incorporates these configurations into our mini-Periodic Table of typical elements; they appear at the top of each Group. They imply that the typical elements have outer electronic configurations either of the type ns<sup xmlns:str="http://exslt.org/strings">**x**</sup>, where **x** = 1 or 2, or of the type ns<sup xmlns:str="http://exslt.org/strings">2</sup>np<sup xmlns:str="http://exslt.org/strings">**x**</sup>, where *x* runs from 1 to 6. For any particular element, *n* is the principal quantum number of the outer occupied shell. This can easily be found from Figure 23, because it is equal to the number of the Period in which the element is to be found. The outer electrons are simply those in occupied sub-shells with this principal quantum number.
 
 
 ![Figure 23](testimages/s205_2_022i.jpg)
@@ -185,7 +185,7 @@ The essential message of <a xmlns:str="http://exslt.org/strings" href="">Figure 
 
 Three and six, respectively: silicon appears in Period 3 and lead in Period 6.
 <!--ENDSAQ-->
-According to Figure 23 therefore, silicon and lead have outer electronic configurations of the type ns2np2, with *n* = 3 for silicon and *n* = 6 for lead. This is just what you got when you worked out the full electronic configuration of the silicon and lead atoms in <a xmlns:str="http://exslt.org/strings" href="">Sections 3.2</a> and <a xmlns:str="http://exslt.org/strings" href="">3.3.1</a>, respectively.
+According to Figure 23 therefore, silicon and lead have outer electronic configurations of the type ns<sup xmlns:str="http://exslt.org/strings">2</sup>np<sup xmlns:str="http://exslt.org/strings">2</sup>, with *n* = 3 for silicon and *n* = 6 for lead. This is just what you got when you worked out the full electronic configuration of the silicon and lead atoms in <a xmlns:str="http://exslt.org/strings" href="">Sections 3.2</a> and <a xmlns:str="http://exslt.org/strings" href="">3.3.1</a>, respectively.
 <!--SAQ id=saq017-->
 
 ### Question 17
@@ -198,7 +198,7 @@ According to Figure 23 therefore, silicon and lead have outer electronic configu
 
 In both cases, the Group number is four and there are four outer electrons: two s electrons and two p electrons.
 <!--ENDSAQ-->
-Here is confirmation of the explanation of chemical periodicity mentioned at the beginning of <a xmlns:str="http://exslt.org/strings" href="">Section 3</a>. Elements in the same Group of the Periodic Table behave similarly because they usually have similar outer electronic configurations. It also demonstrates that, for the typical elements, the total number of outer electrons is equal to the Group number. It is to preserve this generalisation that, in this course, we take the Group number of the noble gases to be VIII rather than zero. Apart from helium (1s2), they have eight outer electrons (s2p6).
+Here is confirmation of the explanation of chemical periodicity mentioned at the beginning of <a xmlns:str="http://exslt.org/strings" href="">Section 3</a>. Elements in the same Group of the Periodic Table behave similarly because they usually have similar outer electronic configurations. It also demonstrates that, for the typical elements, the total number of outer electrons is equal to the Group number. It is to preserve this generalisation that, in this course, we take the Group number of the noble gases to be VIII rather than zero. Apart from helium (1s<sup xmlns:str="http://exslt.org/strings">2</sup>), they have eight outer electrons (s<sup xmlns:str="http://exslt.org/strings">2</sup>p<sup xmlns:str="http://exslt.org/strings">6</sup>).
 
 Finally, notice that Figures 17 and 22 imply that the atoms of highest known atomic number (113-118) at the outer limit of the Periodic Table are expected to be typical elements. This is only one of the reasons that makes them of special interest (see Box 2 *The island of stability*).
 
@@ -209,7 +209,7 @@ The elements of highest atomic number are made through the collision of atoms an
 
 In 1999, scientists at Dubna in Russia made the first atoms of element 114, to which we shall give the provisional name auditorium (Ad)! Ions of the isotope
 
- ![inlinefigure](testimages/s205_2_ie005i.gif)  were accelerated to 30 000 km h−1, and directed on to a target containing the plutonium isotope  ![inlinefigure](testimages/s205_2_ie009i.gif) . Two nuclei fused, three neutrons were ejected, and an atom of the 289 isotope of element 114 was produced:
+ ![inlinefigure](testimages/s205_2_ie005i.gif)  were accelerated to 30 000 km h<sup xmlns:str="http://exslt.org/strings">−1</sup>, and directed on to a target containing the plutonium isotope  ![inlinefigure](testimages/s205_2_ie009i.gif) . Two nuclei fused, three neutrons were ejected, and an atom of the 289 isotope of element 114 was produced:
 
 
 ![figure](testimages/s205_2_ue001i.gif)
@@ -230,7 +230,7 @@ In the most recent piece of research [2007], collaboration between Californian a
 
 
 
-								Figure 24 As the number of neutrons in known isotopes of each of the elements 112-118 increases above 165, the half-lives increase (even-numbered elements only shown). This indicates the emergence of an island of stability whose summit is predicted to be at 114 protons and 184 neutrons. (1 μs = 10−6 s; 1 min = 1 minute)
+								Figure 24 As the number of neutrons in known isotopes of each of the elements 112-118 increases above 165, the half-lives increase (even-numbered elements only shown). This indicates the emergence of an island of stability whose summit is predicted to be at 114 protons and 184 neutrons. (1 μs = 10<sup xmlns:str="http://exslt.org/strings">−6</sup> s; 1 min = 1 minute)
 
 
 
@@ -264,11 +264,11 @@ It turns out that each orbital in a sub-shell can contain up to two electrons. T
 
 When an atomic orbital contains its maximum complement of two electrons, those two electrons must always have spins of opposite sense. This phenomenon of electron spin accounts for the '2' that precedes the bracket in the formula for sub-shell capacities, 2(2*l* + 1). For example, as we have seen, the factor (*l* + 1) tells us that there are three atomic orbitals in a p sub-shell. Each of the three orbitals can accommodate up to two electrons with opposed spins. So a p sub-shell can contain a maximum of 2 × 3 or 6 electrons.
 
-A full atomic orbital, therefore, contains two electrons with spins of opposite sense. This is represented by writing one electron as an upward-pointing half-headed arrow, and the other as a downward-pointing half-headed arrow. For example, the helium atom has the electronic configuration 1s2. The 1s sub-shell contains just one orbital, which can be represented by a single box containing the two electrons of opposite spin:
+A full atomic orbital, therefore, contains two electrons with spins of opposite sense. This is represented by writing one electron as an upward-pointing half-headed arrow, and the other as a downward-pointing half-headed arrow. For example, the helium atom has the electronic configuration 1s<sup xmlns:str="http://exslt.org/strings">2</sup>. The 1s sub-shell contains just one orbital, which can be represented by a single box containing the two electrons of opposite spin:
 
  ![inlinefigure](testimages/s205_2_i001i.jpg) 
 
-Two such electrons with opposed spins are said to be *paired* and the diagram that puts these electrons into boxes is referred to as a __box diagram__. Now consider the case of nitrogen, whose atom has the configuration 1﻿s﻿2﻿2﻿s﻿2﻿2﻿p﻿3. The 1s and 2s sub-shells contain one orbital each, and the 2p sub-shell contains three. The box diagram that must be filled therefore takes the form:
+Two such electrons with opposed spins are said to be *paired* and the diagram that puts these electrons into boxes is referred to as a __box diagram__. Now consider the case of nitrogen, whose atom has the configuration 1﻿s﻿<sup xmlns:str="http://exslt.org/strings">2</sup>﻿2﻿s﻿<sup xmlns:str="http://exslt.org/strings">2</sup>﻿2﻿p﻿<sup xmlns:str="http://exslt.org/strings">3</sup>. The 1s and 2s sub-shells contain one orbital each, and the 2p sub-shell contains three. The box diagram that must be filled therefore takes the form:
 
  ![inlinefigure](testimages/s205_2_i002i.jpg) 
 <!--SAQ id=saq019-->
@@ -298,7 +298,7 @@ Because electrons in the same box must have opposed spins, we must put the elect
 
 #### Question
 
-The oxygen atom, with the configuration 1s22s22p4, has one more electron than the nitrogen atom. Draw the box diagram for the oxygen atom.
+The oxygen atom, with the configuration 1s<sup xmlns:str="http://exslt.org/strings">2</sup>2s<sup xmlns:str="http://exslt.org/strings">2</sup>2p<sup xmlns:str="http://exslt.org/strings">4</sup>, has one more electron than the nitrogen atom. Draw the box diagram for the oxygen atom.
 
 As there are four 2p electrons and only three 2p boxes, the fourth 2p electron cannot have a spin parallel to the other three. It must go into a box that is already occupied by one electron with opposite spin:
 
@@ -313,7 +313,7 @@ The electronic configuration of an atom can be obtained by allocating its electr
 
 
 2. 
-The typical elements have outer electronic configurations of the type ns*x*, where *x* = 1 or 2, or of the type ns2npx, where *x* runs from 1 to 6, and *n*, the principal quantum number, is equal to the number of the Period.
+The typical elements have outer electronic configurations of the type ns<sup xmlns:str="http://exslt.org/strings">*x*</sup>, where *x* = 1 or 2, or of the type ns<sup xmlns:str="http://exslt.org/strings">2</sup>np<sup xmlns:str="http://exslt.org/strings">x</sup>, where *x* runs from 1 to 6, and *n*, the principal quantum number, is equal to the number of the Period.
 
 
 3. 
@@ -330,7 +330,7 @@ The ground (electronic) state of an atom can be represented by a box diagram in 
 
 #### Question
 
-Use <a xmlns:str="http://exslt.org/strings" href="">Figure 23</a> to identify the elements whose outer electronic configurations are (a) 3s23p5; (b) 4s24p3; (c) 6s26p1.
+Use <a xmlns:str="http://exslt.org/strings" href="">Figure 23</a> to identify the elements whose outer electronic configurations are (a) 3s<sup xmlns:str="http://exslt.org/strings">2</sup>3p<sup xmlns:str="http://exslt.org/strings">5</sup>; (b) 4s<sup xmlns:str="http://exslt.org/strings">2</sup>4p<sup xmlns:str="http://exslt.org/strings">3</sup>; (c) 6s<sup xmlns:str="http://exslt.org/strings">2</sup>6p<sup xmlns:str="http://exslt.org/strings">1</sup>.
 
 The elements are: (a) chlorine, Cl; (b) arsenic, As; and (c) thallium, Tl. The outer electronic configurations contain seven, five and three electrons, respectively, and are therefore characteristic of Groups VII, V and III, respectively. The principal quantum numbers of the outer electrons are three, four and six, respectively, and are equal to the Period numbers. These Group and Period numbers identify the elements when Figure 23 is used as a grid.
 
@@ -344,19 +344,19 @@ The elements are: (a) chlorine, Cl; (b) arsenic, As; and (c) thallium, Tl. The o
 
 Write down the electronic configurations of (a) the calcium atom (atomic number 20); (b) the bromine atom (atomic number 35); and (c) the tin atom (atomic number 50). Make sure you order the sub-shells according to their principal atomic number.
 
-(a) 1s2|2s22p6|3s23p6|4s2;
+(a) 1s<sup xmlns:str="http://exslt.org/strings">2</sup>|2s<sup xmlns:str="http://exslt.org/strings">2</sup>2p<sup xmlns:str="http://exslt.org/strings">6</sup>|3s<sup xmlns:str="http://exslt.org/strings">2</sup>3p<sup xmlns:str="http://exslt.org/strings">6</sup>|4s<sup xmlns:str="http://exslt.org/strings">2</sup>;
 
-(b) 1s2|2s22p6|3s23p63d10|4s24p5;
+(b) 1s<sup xmlns:str="http://exslt.org/strings">2</sup>|2s<sup xmlns:str="http://exslt.org/strings">2</sup>2p<sup xmlns:str="http://exslt.org/strings">6</sup>|3s<sup xmlns:str="http://exslt.org/strings">2</sup>3p<sup xmlns:str="http://exslt.org/strings">6</sup>3d<sup xmlns:str="http://exslt.org/strings">10</sup>|4s<sup xmlns:str="http://exslt.org/strings">2</sup>4p<sup xmlns:str="http://exslt.org/strings">5</sup>;
 
-(c) 1s2|2s22p6|3s23p63d10|4s24p64d10|5s25p2.
+(c) 1s<sup xmlns:str="http://exslt.org/strings">2</sup>|2s<sup xmlns:str="http://exslt.org/strings">2</sup>2p<sup xmlns:str="http://exslt.org/strings">6</sup>|3s<sup xmlns:str="http://exslt.org/strings">2</sup>3p<sup xmlns:str="http://exslt.org/strings">6</sup>3d<sup xmlns:str="http://exslt.org/strings">10</sup>|4s<sup xmlns:str="http://exslt.org/strings">2</sup>4p<sup xmlns:str="http://exslt.org/strings">6</sup>4d<sup xmlns:str="http://exslt.org/strings">10</sup>|5s<sup xmlns:str="http://exslt.org/strings">2</sup>5p<sup xmlns:str="http://exslt.org/strings">2</sup>.
 
 With atomic numbers 20, 35 and 50, the calcium, bromine and tin atoms will contain 20, 35 and 50 electrons, respectively. Putting 20, 35 and 50 electrons into the sub-shells in the order given in <a xmlns:str="http://exslt.org/strings" href="">Figure 21</a> yields:
 
-(a) 1s22s22p63s23p64s2;
+(a) 1s<sup xmlns:str="http://exslt.org/strings">2</sup>2s<sup xmlns:str="http://exslt.org/strings">2</sup>2p<sup xmlns:str="http://exslt.org/strings">6</sup>3s<sup xmlns:str="http://exslt.org/strings">2</sup>3p<sup xmlns:str="http://exslt.org/strings">6</sup>4s<sup xmlns:str="http://exslt.org/strings">2</sup>;
 
-(b) 1s22s22p63s23p64s23d104p5;
+(b) 1s<sup xmlns:str="http://exslt.org/strings">2</sup>2s<sup xmlns:str="http://exslt.org/strings">2</sup>2p<sup xmlns:str="http://exslt.org/strings">6</sup>3s<sup xmlns:str="http://exslt.org/strings">2</sup>3p<sup xmlns:str="http://exslt.org/strings">6</sup>4s<sup xmlns:str="http://exslt.org/strings">2</sup>3d<sup xmlns:str="http://exslt.org/strings">10</sup>4p<sup xmlns:str="http://exslt.org/strings">5</sup>;
 
-(c) 1s22s22p63s23p64s23d104p65s24d105p2.
+(c) 1s<sup xmlns:str="http://exslt.org/strings">2</sup>2s<sup xmlns:str="http://exslt.org/strings">2</sup>2p<sup xmlns:str="http://exslt.org/strings">6</sup>3s<sup xmlns:str="http://exslt.org/strings">2</sup>3p<sup xmlns:str="http://exslt.org/strings">6</sup>4s<sup xmlns:str="http://exslt.org/strings">2</sup>3d<sup xmlns:str="http://exslt.org/strings">10</sup>4p<sup xmlns:str="http://exslt.org/strings">6</sup>5s<sup xmlns:str="http://exslt.org/strings">2</sup>4d<sup xmlns:str="http://exslt.org/strings">10</sup>5p<sup xmlns:str="http://exslt.org/strings">2</sup>.
 
 Our answers are obtained from these sequences by regrouping the sub-shells in cases (b) and (c) so that they are arranged in order of increasing *n* value.
 
@@ -368,9 +368,9 @@ Our answers are obtained from these sequences by regrouping the sub-shells in ca
 
 #### Question
 
-Substance A is both a typical element and a metal. It forms two normal oxides, A2O3 and A2O5, and two fluorides AF3 and AF5. Identify A, and state its outer electronic configuration.
+Substance A is both a typical element and a metal. It forms two normal oxides, A<sub xmlns:str="http://exslt.org/strings">2</sub>O<sub xmlns:str="http://exslt.org/strings">3</sub> and A<sub xmlns:str="http://exslt.org/strings">2</sub>O<sub xmlns:str="http://exslt.org/strings">5</sub>, and two fluorides AF<sub xmlns:str="http://exslt.org/strings">3</sub> and AF<sub xmlns:str="http://exslt.org/strings">5</sub>. Identify A, and state its outer electronic configuration.
 
-A is bismuth, Bi, and its outer electronic configuration is 6s26p3. The existence of the compounds A2O5 and AF5 suggests that the highest valency of A is five. This implies a Group V element. According to <a xmlns:str="http://exslt.org/strings" href="">Figure 23</a>, the only Group V element that is a metal is bismuth. As it lies in the Period 6, the outer electronic configuration of the atom is 6s26p3.
+A is bismuth, Bi, and its outer electronic configuration is 6s<sup xmlns:str="http://exslt.org/strings">2</sup>6p<sup xmlns:str="http://exslt.org/strings">3</sup>. The existence of the compounds A<sub xmlns:str="http://exslt.org/strings">2</sub>O<sub xmlns:str="http://exslt.org/strings">5</sub> and AF<sub xmlns:str="http://exslt.org/strings">5</sub> suggests that the highest valency of A is five. This implies a Group V element. According to <a xmlns:str="http://exslt.org/strings" href="">Figure 23</a>, the only Group V element that is a metal is bismuth. As it lies in the Period 6, the outer electronic configuration of the atom is 6s<sup xmlns:str="http://exslt.org/strings">2</sup>6p<sup xmlns:str="http://exslt.org/strings">3</sup>.
 
 
 
@@ -382,7 +382,7 @@ A is bismuth, Bi, and its outer electronic configuration is 6s26p3. The existenc
 
 Represent the electronic ground state of the chlorine atom by a box diagram.
 
-There are 17 electrons in the chlorine atom and, from <a xmlns:str="http://exslt.org/strings" href="">Figure 21</a>, the electronic configuration is 1s22s22p63s23p5. Turning this into a box diagram, the 1s and 2s boxes are each filled with a pair of electrons with opposite spins. The three orbitals in the 2p sub-shell and the single 3s orbital each take pairs of opposite spins in a similar way. This leaves five electrons for the three orbitals of the 3p sub-shell. We start by assigning one electron to each of the three orbitals, making sure that all three have the same spin. This maximises the number of electrons with the same spin. The final two electrons must then go into different 3p boxes with spins opposed to the other three.
+There are 17 electrons in the chlorine atom and, from <a xmlns:str="http://exslt.org/strings" href="">Figure 21</a>, the electronic configuration is 1s<sup xmlns:str="http://exslt.org/strings">2</sup>2s<sup xmlns:str="http://exslt.org/strings">2</sup>2p<sup xmlns:str="http://exslt.org/strings">6</sup>3s<sup xmlns:str="http://exslt.org/strings">2</sup>3p<sup xmlns:str="http://exslt.org/strings">5</sup>. Turning this into a box diagram, the 1s and 2s boxes are each filled with a pair of electrons with opposite spins. The three orbitals in the 2p sub-shell and the single 3s orbital each take pairs of opposite spins in a similar way. This leaves five electrons for the three orbitals of the 3p sub-shell. We start by assigning one electron to each of the three orbitals, making sure that all three have the same spin. This maximises the number of electrons with the same spin. The final two electrons must then go into different 3p boxes with spins opposed to the other three.
 
  ![inlinefigure](testimages/s205_2_i022i.jpg) 
 
