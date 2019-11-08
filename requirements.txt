@@ -9,3 +9,7 @@ ipywidgets
 
 sphinxcontrib-bibtex
 sphinxcontrib-svg2pdfconverter
+
+
+pybel
+py3dmol
