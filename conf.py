@@ -201,7 +201,7 @@ nbsphinx_custom_formats = {
 }
 
 # Notebook execution directives
-nbsphinx_execute = 'never' # always | auto | never
+nbsphinx_execute = 'auto' # always | auto | never
 nbsphinx_allow_errors = True
 
 # Don't add .txt suffix to source files (available for Sphinx >= 1.5):
