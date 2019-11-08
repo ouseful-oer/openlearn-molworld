@@ -53,7 +53,7 @@ So far, we have concentrated on the electronic and spatial structures of chemica
 </table>
 
 
-![](testimages/s205_2_050i.jpg)
+![Figure 51](testimages/s205_2_050i.jpg)
 
 
 
@@ -73,17 +73,17 @@ If NO and CO reacted like this, then the nitric oxide in the exhaust would disap
 
 The first possibility is that the reaction system has been able to reach chemical equilibrium, but the equilibrium position is not favourable. How does this come about? If equilibrium has been reached, then the forward (left to right) and backward (right to left) reactions are occurring at equal rates. In such a case, we can emphasise the fact by writing the reaction with two opposed, half-headed arrows: 
 
->2NO(g) + 2CO(g)  ![](testimages/harpoon.gif)  N2(g) + 2CO2(g)                              (8.2)
+>2NO(g) + 2CO(g)  ![inlinefigure](testimages/harpoon.gif)  N2(g) + 2CO2(g)                              (8.2)
 
 
 This indicates that both the forward reaction:
 
->2NO(g) + 2CO(g)  ![](testimages/arrow_right.gif)  N2(g) + 2CO2(g)                              (8.3)
+>2NO(g) + 2CO(g)  ![inlinefigure](testimages/arrow_right.gif)  N2(g) + 2CO2(g)                              (8.3)
 
 
 and the backward reaction:
 
->N2(g) + 2CO2(g)  ![](testimages/arrow_right.gif)  2NO(g) + 2CO(g)                              (8.4)
+>N2(g) + 2CO2(g)  ![inlinefigure](testimages/arrow_right.gif)  2NO(g) + 2CO(g)                              (8.4)
 
 
 are taking place: at the microscopic, molecular level there is ceaseless change in both directions. However, at equilibrium, *the overall rates of the forward and backward reactions are equal*. The reaction system then *seems* static because, at the macroscopic level where we measure things, there is no apparent change in the amounts or concentrations of any of the four gases involved. Suppose that Reaction 8.1 appears not to occur because, although it has reached equilibrium, the equilibrium position is unfavourable. Then it must be that the rates of the forward and backward reactions become equal when the concentrations of the reactants (NO and CO) are very high, and those of the products (N2 and CO2) are very small, so small as to be undetectable. This possibility can be tested by examining the *equilibrium constant, K*, for the reaction.
@@ -120,7 +120,7 @@ The result is [NO(g)]2[CO(g)]2; in Equation 8.2, both NO(g) and CO(g) are preced
 The equilibrium constant, *K*, is obtained by dividing the result for the products by the result for the reactants:
 
 
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e019i.gif)
+![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e019i.gif)
 
 We have raised the possibility that Reaction 8.1 does not happen because the equilibrium position for equilibrium system 8.2 lies well over to the left. In other words, at equilibrium, the concentrations of NO(g) and CO(g) are very high, and those of N2 (g) and CO2(g) are so small as to be undetectable.
 
@@ -181,7 +181,7 @@ The result is [NO(g)]2[CO(g)]2; in Equation 8.2, both NO(g) and CO(g) are preced
 The equilibrium constant, *K*, is obtained by dividing the result for the products by the result for the reactants:
 
 
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e019i.gif)
+![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e019i.gif)
 
 We have raised the possibility that Reaction 8.1 does not happen because the equilibrium position for equilibrium system 8.2 lies well over to the left. In other words, at equilibrium, the concentrations of NO(g) and CO(g) are very high, and those of N2 (g) and CO2(g) are so small as to be undetectable.
 
@@ -220,7 +220,7 @@ If the equilibrium position is very favourable, then the reason why Reaction 8.1
 Let us look at the changes that take place in the internal energy as reactants change progressively into products. Figure 52 shows a simplified version. The internal energies of the reactants (2NO + 2CO) and products (N2 + 2CO2) are marked by two 'platforms'. The platform for the products lies lower than that for the reactants. This shows that the internal energy change during the reaction is negative.
 
 
-![](testimages/s205_2_051i.jpg)
+![Figure 52](testimages/s205_2_051i.jpg)
 
 
 
@@ -251,7 +251,7 @@ The solution to the high energy barrier for Reaction 8.1 is to involve a third p
 Obviously, this type of reaction pathway is very different from one that takes place entirely in the gas phase with no catalyst present. Most particularly, because the catalyst surface assists the breaking of the bond in the NO molecule, it has a lower energy barrier (see <a xmlns:str="http://exslt.org/strings" href="">Figure 52</a>) and is much faster. In a *three-way catalytic converter*, some 90 per cent of the nitric oxide in the exhaust stream is converted to nitrogen and carbon dioxide. Figure 53 shows an example. The catalyst actually contains rhodium and platinum. The platinum catalyses the reactions of both carbon monoxide and unburnt hydrocarbons (from the petrol) with oxygen, giving carbon dioxide and steam. The converter is called 'three way' because it thereby removes all three main types of pollutant: nitrogen oxides, carbon monoxide and unburnt hydrocarbons. Figure 54 provides you with further details.
 
 
-![](testimages/s205_2_052i.jpg)
+![Figure 53](testimages/s205_2_052i.jpg)
 
 
 
@@ -261,7 +261,7 @@ Figure 53
 
 
 
-![](testimages/s205_2_053i.jpg)
+![Figure 54](testimages/s205_2_053i.jpg)
 
 
 Figure 54 The core of a typical three-way catalytic converter 
@@ -303,19 +303,19 @@ The catalyst causes a change in the reaction mechanism which leads to a lowering
 The combination of sulfur dioxide with oxygen, and the decomposition of steam into hydrogen and oxygen are both reactions of great potential practical value. These reactions, and their equilibrium constants at 427 °C (700 K) are as follows:
 
 
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ue003i.gif)
+![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ue003i.gif)
 
 Write down expressions for the equilibrium constants of the two reactions. When the two reactions are attempted at 700 K, neither seems to occur. Which of the two might be persuaded to occur at this temperature, and what form might your 'persuasion' take?
 
 The equilibrium constant of the first reaction, *K*1, is given by
 
 
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ue004i.gif)
+![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ue004i.gif)
 
 That of the second,
 
 
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ue005i.gif)
+![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ue005i.gif)
 
 The data show that *K*2 is tiny: at equilibrium, the concentrations of the hydrogen and oxygen in the numerator (the top line of the fraction) are minute in comparison with the concentration of steam in the denominator (the bottom line of the fraction). So in a closed system at 700 K, significant amounts of hydrogen and oxygen will never be formed from steam.
 

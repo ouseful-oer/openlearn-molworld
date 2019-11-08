@@ -13,7 +13,7 @@ Simple theories of chemical bonding are based on the idea of the electron-pair b
 Until he was 14, Gilbert Newton Lewis (1875-1946; Figure 26) was educated at home in Nebraska by his parents. It is remarkable that he did not win a Nobel Prize, because, as J. W. Linnett, sometime Professor of Physical Chemistry at Cambridge said, his idea of the electron-pair bond is 'the most productive and important contribution that has ever been made to the subject of valency and chemical binding'. In 1912, he became Chairman of a rather lacklustre chemistry department at the University of Berkeley in California. He set about reorganising and revitalising the department, appointing staff with a broad chemical knowledge rather than specalists. Under his direction, it quickly acquired the world reputation that it still enjoys today. During the First World War, he trained gas warfare specialists and was made a Lieutenant-Colonel. A love of cigars may have contributed to his death from heart failure while doing an experiment.
 
 
-![](testimages/s205_2_025i.jpg)
+![Figure 26](testimages/s205_2_025i.jpg)
 
 
 
@@ -23,7 +23,7 @@ Figure 26
 
 
 
-![](testimages/s205_2_026i.jpg)
+![Figure 27](testimages/s205_2_026i.jpg)
 
 
 
@@ -37,7 +37,7 @@ Figure 27
 We begin by applying simple bonding theories to molecular chlorine gas (Cl2) and non-molecular sodium chloride (NaCl), whose structures were discussed in <a xmlns:str="http://exslt.org/strings" href="">Section 1</a>. Figure 28 shows the result.
 
 
-![](testimages/s205_2_027i.jpg)
+![Figure 28](testimages/s205_2_027i.jpg)
 
 
 
@@ -50,7 +50,7 @@ Figure 28
 From this contrast flows the difference in properties between the two substances. The transference of the electron to chlorine in NaCl produces ions, each of which can exist independently of any one partner. So in sodium chloride, each ion is surrounded by as many ions of opposite charge as space allows. In this case the number is six, as you saw in <a xmlns:str="http://exslt.org/strings" href="">Figure 10</a>. Figure 29 is Figure 10 adjusted to show the presence of ions. Because of the strong attractive forces existing between the closely packed ions of opposite charge, the sodium chloride structure is not easily broken down: it has a high melting temperature and does not dissolve in organic solvents like the liquid hydrocarbons found in petrol, or dry-cleaning fluid. When it does melt, or dissolve in water, the ions separate and the resulting ionic fluid conducts electricity. Compounds of this type are called *ionic*, and the type of bonding is called *ionic bonding*.
 
 
-![](testimages/s205_2_028i.jpg)
+![Figure 29](testimages/s205_2_028i.jpg)
 
 
 
@@ -88,7 +88,7 @@ In sodium chloride, the electron pair has been completely taken over by chlorine
 So chlorine, near the end of Period 3, has a greater electronegativity than sodium, at the beginning. This contrast applies generally: the electronegativities of atoms increase across a Period of the Periodic Table; electronegativities also usually increase up a Group from the bottom to the top. These trends are explained in Figure 30. 
 
 
-![](testimages/s205_2_029i.jpg)
+![Figure 30](testimages/s205_2_029i.jpg)
 
 
 
@@ -99,7 +99,7 @@ Figure 30
 						Figure 30 shows that the most electronegative elements lie towards the top right-hand corner of the Periodic Table. Electronegativities refer to an attraction for outer electrons when an element is forming compounds. The noble gases have been omitted from Figure 30 because at normal temperatures helium, neon and argon form no compounds; hence electronegativities are not assigned to them. Consequently, fluorine is the most electronegative element, followed by oxygen and chlorine.
 
 
-						Figure 30 confirms that chlorine is much more electronegative than sodium. Because of this large difference in electronegativity, the electron pair  ![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie010i.jpg)  of <a xmlns:str="http://exslt.org/strings" href="">Figure 28b</a> spends all its time on chlorine, the charges on sodium and chlorine are +1 and −1, respectively, and NaCl is ionic. So the electronegativity trends in Figure 30 explain why ionic compounds arise when a metallic element of low electronegativity from the left of the Periodic Table combines with a non-metallic element of high electronegativity from the right. In Cl2, by contrast, the electronegativity difference between the bound elements is zero; the shared electrons spend equal times on each chlorine atom, both chlorines are uncharged, the substance is molecular, and is held together by covalent bonding. Covalently bound molecular substances such as Cl2, I2 and CO2 (<a xmlns:str="http://exslt.org/strings" href="">Section 1.4</a>) are combinations from the right of Figure 30, because, although for these elements the individual electronegativities are large, the electronegativity *differences* between them are small.
+						Figure 30 confirms that chlorine is much more electronegative than sodium. Because of this large difference in electronegativity, the electron pair  ![inlinefigure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ie010i.jpg)  of <a xmlns:str="http://exslt.org/strings" href="">Figure 28b</a> spends all its time on chlorine, the charges on sodium and chlorine are +1 and −1, respectively, and NaCl is ionic. So the electronegativity trends in Figure 30 explain why ionic compounds arise when a metallic element of low electronegativity from the left of the Periodic Table combines with a non-metallic element of high electronegativity from the right. In Cl2, by contrast, the electronegativity difference between the bound elements is zero; the shared electrons spend equal times on each chlorine atom, both chlorines are uncharged, the substance is molecular, and is held together by covalent bonding. Covalently bound molecular substances such as Cl2, I2 and CO2 (<a xmlns:str="http://exslt.org/strings" href="">Section 1.4</a>) are combinations from the right of Figure 30, because, although for these elements the individual electronegativities are large, the electronegativity *differences* between them are small.
 
 These two cases deal with combinations of elements with very different electronegativities from the left and right of Figure 30 (ionic bonding), and with combinations of elements of high but similar electronegativity from the right (covalent bonding). But what is the result of combining elements of low but similar electronegativity from the left? The reasoning that we have pursued until now suggests that, in this case, electronegativity differences between atoms will be small, so again we would expect shared electron-pair bonds and covalent substances, possibly of the molecular type typified by Cl2.
 
@@ -127,7 +127,7 @@ Two familiar properties of metals point to a simple model of metallic bonding. F
 						Figure 31 exploits these two observations to produce a model of the bonding in a metal like sodium. The sodium sites in the metallic crystal are assumed to be occupied by Na+ ions with the shell structure of neon. The Na+ ions are formed by removing the single outer electrons from each sodium atom. The electrons so removed are no longer tied to individual sodium sites, and are allowed to move freely throughout the entire volume of the metallic substance. These free electrons, sometimes described as an '__electron gas__', are responsible for a metal's ability to conduct electricity. At the same time, they occupy the space between the positive sodium ions, so their negative charge acts like a binding glue pulling the sodium sites together.
 
 
-![](testimages/s205_2_030i.jpg)
+![Figure 31](testimages/s205_2_030i.jpg)
 
 
 
@@ -143,7 +143,7 @@ So electron-sharing has taken place as predicted at the end of <a xmlns:str="htt
 We now have a provisional but useful classification of chemical substances. First they are divided into molecular and non-molecular types, largely on the basis of their structures. Then a further division is made according to the major source of the chemical bonding holding their atoms together. In molecular substances, the bonding is covalent, but in the non-molecular class, it may be covalent, ionic or metallic. This classification is shown in Figure 32. For a recent and interesting example of a substance changing categories within this classification, see Box 4.
 
 
-![](testimages/s205_2_031i.jpg)
+![Figure 32](testimages/s205_2_031i.jpg)
 
 
 
@@ -160,7 +160,7 @@ Even the differences are not unalterable. In solid carbon dioxide (<a xmlns:str=
 In 1999, scientists at the Lawrence Livermore laboratory in California subjected solid carbon dioxide to 400 kilobars pressure. This is 400 times the pressure at the bottom of the Mariana Trench, the deepest point in the world's oceans. At these pressures, the CO2 stayed solid even when the temperature was raised to 2000 °C. The Livermore scientists then used the following technique: they determined the Raman spectrum of the solid, a type of *vibrational spectrum*. It showed (Figure 33) that under these conditions the carbon dioxide had assumed a silica-like structure. Dry ice had taken on the structure of sand!
 
 
-![](testimages/s205_2_032i.jpg)
+![Figure 33](testimages/s205_2_032i.jpg)
 
 
 
@@ -175,7 +175,7 @@ Figure 33
 
 So far, the valencies in <a xmlns:str="http://exslt.org/strings" href="">Table 1</a> have just been numbers that we use to predict the formulae of compounds. But in the case of covalent substances they can tell us more. In particular, they can tell us how the atoms are linked together in the molecule. This information is obtained from a two-dimensional drawing of the __structural formula__ of the molecule. (Note that structural formulae cannot be assumed to carry any implications about molecular shape.) Consider, for example, the molecules H2, Cl2, NCl3 and CH4. Their structural formulae are shown here as Structures __5.1-5.4__. They can be drawn correctly by ensuring that the number of lines or bonds emerging from any atom is equal to its valency. Thus, in Structure __5.3__, three bonds emerge from the nitrogen atom and one from each chlorine atom. The single lines of Structures __5.1-5.4__ represent single bonds, but bonds may also be double or triple.
 
- ![](testimages/s205_2_i005i.jpg) 
+ ![inlinefigure](testimages/s205_2_i005i.jpg) 
 
 
 ### Question 10
@@ -187,7 +187,7 @@ Check that you are comfortable with the bonding ideas discussed above by using t
 
 Structures __Q.1-Q.9__ show the structural formulae. In each case, the number of lines issuing from each atom is equal to the element's quoted valency in <a xmlns:str="http://exslt.org/strings" href="">Table 1</a>.
 
- ![](testimages/s205_2_i023i.jpg) 
+ ![inlinefigure](testimages/s205_2_i023i.jpg) 
 
 
 ---
@@ -204,7 +204,7 @@ G.N. Lewis used the shared electron-pair bond to re-express structural formulae 
 
 See Structures __5.5-5.8;__ single, double and triple bonds are represented by one, two and three shared pairs of electrons, respectively. Hydrogen attains the shell structure of helium, with 2 outer electrons; carbon, nitrogen and oxygen attain that of neon, with 8 outer electrons.
 
- ![](testimages/s205_2_i005ai.jpg) 
+ ![inlinefigure](testimages/s205_2_i005ai.jpg) 
 
          ##-- ENDSAQ
     
@@ -238,7 +238,7 @@ So far, we have only written Lewis structures for neutral molecules, but they ca
     
 By allowing the ions O− and N+ to form single bonds to hydrogen atoms, we can generate Lewis structures for OH− (Structure __5.9__) and NH4+ (Structure __5.10__) in which each atom has a noble gas electronic structure:
 
- ![](testimages/s205_2_i006i.jpg) 
+ ![inlinefigure](testimages/s205_2_i006i.jpg) 
 4.5.1 Lewis structures
 G.N. Lewis used the shared electron-pair bond to re-express structural formulae in an electronic form. Examples appeared in <a xmlns:str="http://exslt.org/strings" href="">Figure 28</a>, where the sharing leads to Lewis structures in which each atom has the shell structure of a noble gas.
 
@@ -252,7 +252,7 @@ G.N. Lewis used the shared electron-pair bond to re-express structural formulae 
 
 See Structures __5.5-5.8;__ single, double and triple bonds are represented by one, two and three shared pairs of electrons, respectively. Hydrogen attains the shell structure of helium, with 2 outer electrons; carbon, nitrogen and oxygen attain that of neon, with 8 outer electrons.
 
- ![](testimages/s205_2_i005ai.jpg) 
+ ![inlinefigure](testimages/s205_2_i005ai.jpg) 
 
          ##-- ENDSAQ
     
@@ -286,12 +286,12 @@ So far, we have only written Lewis structures for neutral molecules, but they ca
     
 By allowing the ions O− and N+ to form single bonds to hydrogen atoms, we can generate Lewis structures for OH− (Structure __5.9__) and NH4+ (Structure __5.10__) in which each atom has a noble gas electronic structure:
 
- ![](testimages/s205_2_i006i.jpg) 
+ ![inlinefigure](testimages/s205_2_i006i.jpg) 
 ---
 4.5.2 Noble gas configurations under stress
 It is remarkable how many molecules and ions of the typical elements can be represented by Lewis structures in which each atom has a noble gas shell structure. Nevertheless, many exceptions exist. According to the periodic trends summarised in <a xmlns:str="http://exslt.org/strings" href="">Section 2</a>, the highest fluorides of boron and phosphorus are BF3 and PF5. However, phosphorus, in accordance with <a xmlns:str="http://exslt.org/strings" href="">Table 1</a>, also forms the lower fluoride PF3. All three compounds are colourless gases at room temperature and contain the molecules BF3, PF3 and PF5. As the valency of fluorine is one (Table 1), each bond in these molecules is a shared electron pair, and we may write the Lewis structures as follows:
 
- ![](testimages/s205_2_i007i.jpg) 
+ ![inlinefigure](testimages/s205_2_i007i.jpg) 
 
          ##-- SAQ
         <h1 xmlns:str="http://exslt.org/strings">Question 26</h1>
@@ -309,7 +309,7 @@ You will meet more exceptions of this sort in <a xmlns:str="http://exslt.org/str
 4.5.2 Noble gas configurations under stress
 It is remarkable how many molecules and ions of the typical elements can be represented by Lewis structures in which each atom has a noble gas shell structure. Nevertheless, many exceptions exist. According to the periodic trends summarised in <a xmlns:str="http://exslt.org/strings" href="">Section 2</a>, the highest fluorides of boron and phosphorus are BF3 and PF5. However, phosphorus, in accordance with <a xmlns:str="http://exslt.org/strings" href="">Table 1</a>, also forms the lower fluoride PF3. All three compounds are colourless gases at room temperature and contain the molecules BF3, PF3 and PF5. As the valency of fluorine is one (Table 1), each bond in these molecules is a shared electron pair, and we may write the Lewis structures as follows:
 
- ![](testimages/s205_2_i007i.jpg) 
+ ![inlinefigure](testimages/s205_2_i007i.jpg) 
 
          ##-- SAQ
         <h1 xmlns:str="http://exslt.org/strings">Question 26</h1>
@@ -345,31 +345,31 @@ Equation 5.1 also has bracketed state symbols after each of the chemical formula
 
 How are we to understand Reaction 5.1? In Section 4.5.1, we saw that the Lewis structure of ammonia (Structure __5.5__) provided each atom with a noble gas shell structure, one non-bonded pair being allocated to nitrogen. In Section 4.5.2 we saw that the Lewis structure of boron trifluoride (Structure __5.11__) left the boron atom two electrons short of a noble gas configuration. If we create an electron-pair bond by allowing the non-bonded electron pair on nitrogen in the ammonia molecule to be shared between the nitrogen and boron atoms, we can write a Lewis structure (Structure __5.14__) in which all atoms, including boron, have a noble gas shell structure. (Note that, in order to focus attention on the bonding electrons, the non-bonded electron pairs on the fluorine atoms have been omitted from Structure __5.14__.)
 
- ![](testimages/s205_2_i008i.jpg) 
+ ![inlinefigure](testimages/s205_2_i008i.jpg) 
 
 A bond in which the electron pair is provided by just one of the bonded atoms is called a __dative bond__. We need to differentiate such bonds from the more familiar bonds in which *each* bound atom contributes an electron to the electron pair. To do this, we write the dative bonds as arrows running from the 'donor' atom (in this case nitrogen) to the 'receptor' atom (in this case boron). Then Equation 5.1 becomes:
 
 
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e002i.jpg)
+![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e002i.jpg)
 
 Another puzzle solved by the use of dative bonds is the electronic structure of carbon monoxide, CO. If we write the compound C=O, then we get Lewis structure __5.15__, in which oxygen, with two non-bonded pairs, has an octet, but carbon is two electrons short of this noble gas state. Suppose, however, that, in addition, a dative bond is formed by allowing one of the oxygen non-bonded pairs to become shared between oxygen and carbon.
 
- ![](testimages/s205_2_i009ai.jpg) 
+ ![inlinefigure](testimages/s205_2_i009ai.jpg) 
 
- ![](testimages/s205_2_i009i.jpg) 
+ ![inlinefigure](testimages/s205_2_i009i.jpg) 
 
 Dative bonds are also useful when writing Lewis structures for oxoions such as carbonate, CO32−. We begin in the usual way (<a xmlns:str="http://exslt.org/strings" href="">Section 4.5.1</a>) by adding the overall charge to the central atom with highest valency, namely carbon. This means adding two electrons to carbon, which gives the shell structure (2,6). Formation of one C=O double bond and two C→O dative bonds then gives Lewis structure __5.18__, which is equivalent to structural formula __5.19__.
 
- ![](testimages/s205_2_i010i.jpg) 
+ ![inlinefigure](testimages/s205_2_i010i.jpg) 
 
 Before leaving dative bonds, we shall introduce an alternative way of writing them that proves especially useful in organic chemistry. Suppose that atom A forms a dative bond with atom B by donating a non-bonded electron pair to it:
 
 >A __:__ + B = A __:__ B                    (5.3)
 
 
-So far, we have written the dative bond as A→B. But consider atom A before the bond is formed. If we remove one of its lone pair electrons, and put that electron on atom B, we end up with the separate ions [A•] +  and [B•]−. Suppose we now form a conventional shared electron-pair bond from the odd electrons on the two ions. The electrons are shared between the A and B sites in just the way that they are on the right-hand side of Equation 5.3, but the bond would now be written as  ![](testimages/s205_2_ie011i.gif) .
+So far, we have written the dative bond as A→B. But consider atom A before the bond is formed. If we remove one of its lone pair electrons, and put that electron on atom B, we end up with the separate ions [A•] +  and [B•]−. Suppose we now form a conventional shared electron-pair bond from the odd electrons on the two ions. The electrons are shared between the A and B sites in just the way that they are on the right-hand side of Equation 5.3, but the bond would now be written as  ![inlinefigure](testimages/s205_2_ie011i.gif) .
 
-Thus, A→B and  ![](testimages/s205_2_ie011i.gif)  are equivalent ways of writing the dative bond between A and B, and both are equally valid. The structures H3N→BF3 and C ![](testimages/s205_2_ie013i.jpg) O can therefore also be written as H3 ![](testimages/plus_over_n.gif) − ![](testimages/_over_b.gif) F3 and  ![](testimages/s205_2_ie015i.gif) .
+Thus, A→B and  ![inlinefigure](testimages/s205_2_ie011i.gif)  are equivalent ways of writing the dative bond between A and B, and both are equally valid. The structures H3N→BF3 and C ![inlinefigure](testimages/s205_2_ie013i.jpg) O can therefore also be written as H3 ![inlinefigure](testimages/plus_over_n.gif) − ![inlinefigure](testimages/_over_b.gif) F3 and  ![inlinefigure](testimages/s205_2_ie015i.gif) .
 
          ##-- SAQ
         <h1 xmlns:str="http://exslt.org/strings">Question 28</h1>
@@ -379,9 +379,9 @@ Thus, A→B and  ![](testimages/s205_2_ie011i.gif)  are equivalent ways of writi
 >Transform Structure __5.19__ for the carbonate ion into this new dative bond representation.
 
 
-See Structure __5.20__; each C→O bond is replaced by  ![](testimages/plus_over_c.gif) − ![](testimages/minusover_o.gif) , and as the carbon atom forms two dative bonds, a charge of +2 must be added to the double negative charge on carbon in Structure __5.19__. This gives zero charge on carbon in the new version, but as there is now a single negative charge on each of the two singly bonded oxygens, the total charge on the ion is −2 as before.
+See Structure __5.20__; each C→O bond is replaced by  ![inlinefigure](testimages/plus_over_c.gif) − ![inlinefigure](testimages/minusover_o.gif) , and as the carbon atom forms two dative bonds, a charge of +2 must be added to the double negative charge on carbon in Structure __5.19__. This gives zero charge on carbon in the new version, but as there is now a single negative charge on each of the two singly bonded oxygens, the total charge on the ion is −2 as before.
 
- ![](testimages/s205_2_structure20.jpg) 
+ ![inlinefigure](testimages/s205_2_structure20.jpg) 
 
          ##-- ENDSAQ
     4.5.3 Dative bonds
@@ -404,31 +404,31 @@ Equation 5.1 also has bracketed state symbols after each of the chemical formula
 
 How are we to understand Reaction 5.1? In Section 4.5.1, we saw that the Lewis structure of ammonia (Structure __5.5__) provided each atom with a noble gas shell structure, one non-bonded pair being allocated to nitrogen. In Section 4.5.2 we saw that the Lewis structure of boron trifluoride (Structure __5.11__) left the boron atom two electrons short of a noble gas configuration. If we create an electron-pair bond by allowing the non-bonded electron pair on nitrogen in the ammonia molecule to be shared between the nitrogen and boron atoms, we can write a Lewis structure (Structure __5.14__) in which all atoms, including boron, have a noble gas shell structure. (Note that, in order to focus attention on the bonding electrons, the non-bonded electron pairs on the fluorine atoms have been omitted from Structure __5.14__.)
 
- ![](testimages/s205_2_i008i.jpg) 
+ ![inlinefigure](testimages/s205_2_i008i.jpg) 
 
 A bond in which the electron pair is provided by just one of the bonded atoms is called a __dative bond__. We need to differentiate such bonds from the more familiar bonds in which *each* bound atom contributes an electron to the electron pair. To do this, we write the dative bonds as arrows running from the 'donor' atom (in this case nitrogen) to the 'receptor' atom (in this case boron). Then Equation 5.1 becomes:
 
 
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e002i.jpg)
+![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e002i.jpg)
 
 Another puzzle solved by the use of dative bonds is the electronic structure of carbon monoxide, CO. If we write the compound C=O, then we get Lewis structure __5.15__, in which oxygen, with two non-bonded pairs, has an octet, but carbon is two electrons short of this noble gas state. Suppose, however, that, in addition, a dative bond is formed by allowing one of the oxygen non-bonded pairs to become shared between oxygen and carbon.
 
- ![](testimages/s205_2_i009ai.jpg) 
+ ![inlinefigure](testimages/s205_2_i009ai.jpg) 
 
- ![](testimages/s205_2_i009i.jpg) 
+ ![inlinefigure](testimages/s205_2_i009i.jpg) 
 
 Dative bonds are also useful when writing Lewis structures for oxoions such as carbonate, CO32−. We begin in the usual way (<a xmlns:str="http://exslt.org/strings" href="">Section 4.5.1</a>) by adding the overall charge to the central atom with highest valency, namely carbon. This means adding two electrons to carbon, which gives the shell structure (2,6). Formation of one C=O double bond and two C→O dative bonds then gives Lewis structure __5.18__, which is equivalent to structural formula __5.19__.
 
- ![](testimages/s205_2_i010i.jpg) 
+ ![inlinefigure](testimages/s205_2_i010i.jpg) 
 
 Before leaving dative bonds, we shall introduce an alternative way of writing them that proves especially useful in organic chemistry. Suppose that atom A forms a dative bond with atom B by donating a non-bonded electron pair to it:
 
 >A __:__ + B = A __:__ B                    (5.3)
 
 
-So far, we have written the dative bond as A→B. But consider atom A before the bond is formed. If we remove one of its lone pair electrons, and put that electron on atom B, we end up with the separate ions [A•] +  and [B•]−. Suppose we now form a conventional shared electron-pair bond from the odd electrons on the two ions. The electrons are shared between the A and B sites in just the way that they are on the right-hand side of Equation 5.3, but the bond would now be written as  ![](testimages/s205_2_ie011i.gif) .
+So far, we have written the dative bond as A→B. But consider atom A before the bond is formed. If we remove one of its lone pair electrons, and put that electron on atom B, we end up with the separate ions [A•] +  and [B•]−. Suppose we now form a conventional shared electron-pair bond from the odd electrons on the two ions. The electrons are shared between the A and B sites in just the way that they are on the right-hand side of Equation 5.3, but the bond would now be written as  ![inlinefigure](testimages/s205_2_ie011i.gif) .
 
-Thus, A→B and  ![](testimages/s205_2_ie011i.gif)  are equivalent ways of writing the dative bond between A and B, and both are equally valid. The structures H3N→BF3 and C ![](testimages/s205_2_ie013i.jpg) O can therefore also be written as H3 ![](testimages/plus_over_n.gif) − ![](testimages/_over_b.gif) F3 and  ![](testimages/s205_2_ie015i.gif) .
+Thus, A→B and  ![inlinefigure](testimages/s205_2_ie011i.gif)  are equivalent ways of writing the dative bond between A and B, and both are equally valid. The structures H3N→BF3 and C ![inlinefigure](testimages/s205_2_ie013i.jpg) O can therefore also be written as H3 ![inlinefigure](testimages/plus_over_n.gif) − ![inlinefigure](testimages/_over_b.gif) F3 and  ![inlinefigure](testimages/s205_2_ie015i.gif) .
 
          ##-- SAQ
         <h1 xmlns:str="http://exslt.org/strings">Question 28</h1>
@@ -438,9 +438,9 @@ Thus, A→B and  ![](testimages/s205_2_ie011i.gif)  are equivalent ways of writi
 >Transform Structure __5.19__ for the carbonate ion into this new dative bond representation.
 
 
-See Structure __5.20__; each C→O bond is replaced by  ![](testimages/plus_over_c.gif) − ![](testimages/minusover_o.gif) , and as the carbon atom forms two dative bonds, a charge of +2 must be added to the double negative charge on carbon in Structure __5.19__. This gives zero charge on carbon in the new version, but as there is now a single negative charge on each of the two singly bonded oxygens, the total charge on the ion is −2 as before.
+See Structure __5.20__; each C→O bond is replaced by  ![inlinefigure](testimages/plus_over_c.gif) − ![inlinefigure](testimages/minusover_o.gif) , and as the carbon atom forms two dative bonds, a charge of +2 must be added to the double negative charge on carbon in Structure __5.19__. This gives zero charge on carbon in the new version, but as there is now a single negative charge on each of the two singly bonded oxygens, the total charge on the ion is −2 as before.
 
- ![](testimages/s205_2_structure20.jpg) 
+ ![inlinefigure](testimages/s205_2_structure20.jpg) 
 
          ##-- ENDSAQ
     ---
@@ -460,7 +460,7 @@ Continued pumping on the lower layer eventually leaves pure liquid ozone, with a
 However, clean procedures that exclude dust and organic matter allow slow uninterrupted evaporation. The product is a deep blue gas, which is almost 100% ozone.
 
 
-![](testimages/s205_2_034i.jpg)
+![figure](testimages/s205_2_034i.jpg)
 
 
 __Figure 34:__ The very dark indigo colour of liquid ozone viewed through a cooling bath and the glass of a surrounding vacuum flask
@@ -471,7 +471,7 @@ __Figure 34:__ The very dark indigo colour of liquid ozone viewed through a cool
 A Lewis structure for the O2 molecule is shown in Figure 35a. For ozone too, a Lewis structure can be written which gives each atom a noble gas shell structure (Figure 35b); Figures 35c and 35d give the corresponding structural formulae with alternative representations of the dative bond.
 
 
-![](testimages/s205_2_033i.jpg)
+![figure](testimages/s205_2_033i.jpg)
 
 
 __Figure 35: (a)__ Lewis structure for O2, each oxygen having the shell structure of neon; (b) Lewis structure for ozone, O3; (c) and (d) show structural formulae for ozone containing alternative representations of the dative bond
@@ -494,7 +494,7 @@ But experimental measurement shows that both bonds have the same length (127.8 p
 The two structures are called __resonance structures__, and the real structure of ozone is said to be a __resonance hybrid__ of the two. The significance of the representations in Figure 36 is that in ozone, each bond is a mixture of one-half of a double bond and one-half of a single dative bond. Note that Figure 36 is not meant to imply that the molecule is constantly changing from one resonance structure to the other. It is a hybrid in the same sense that a mule is a hybrid: it does not oscillate between a horse and a donkey.
 
 
-![](testimages/s205_2_035i.jpg)
+![Figure 36](testimages/s205_2_035i.jpg)
 
 
 
@@ -504,7 +504,7 @@ Figure 36
 To clarify this, we turn to benzene, C6H6. Like ozone, it can be represented as a resonance hybrid of two resonance structures in which all atoms have noble gas configurations (Figure 37).
 
 
-![](testimages/s205_2_036i.jpg)
+![Figure 37](testimages/s205_2_036i.jpg)
 
 
 Figure 37 The two resonance structures of benzene
@@ -512,7 +512,7 @@ Figure 37 The two resonance structures of benzene
 Figure 37
 A typical C—C single bond length in an alkane hydrocarbon such as ethane, C2H6 (Structure __5.21__), is 154 pm; in contrast, a typical C—C bond length in an alkene hydrocarbon such as ethene, C2H4 (Structure __5.22__), is 134 pm. The *individual* resonance structures in Figure 37 therefore suggest that the carbon-carbon bond lengths in benzene should alternate between about 134 pm and 154 pm around the ring.
 
- ![](testimages/s205_2_i011i.jpg) 
+ ![inlinefigure](testimages/s205_2_i011i.jpg) 
 
          ##-- SAQ
         <h1 xmlns:str="http://exslt.org/strings">Question 30</h1>
@@ -530,12 +530,12 @@ This is precisely the case: all carbon—carbon bond lengths in benzene are 140 
 
 Number the carbon—carbon bonds in a benzene ring of Figure 37 clockwise from 1-6. All bonds contain at least one pair of electrons. However, in one of the resonance structures, bonds 1, 3 and 5 are double bonds, each containing a second electron pair; in the other resonance structure, the double bonds and extra pair of electrons are found at bonds 2, 4 and 6. The implication of Figure 37 is that in the resonance hybrid these three extra pairs of electrons are not confined to, or *localised* within, just half of the bonds in the ring. Instead, they are __delocalised__ around the ring and equally shared within all six bonds. Although, in this course, we shall draw benzene and its derivatives as a single resonance hybrid (Structure __5.23__), remember that this delocalization makes the bond lengths in the ring equal, contrary to the implications of Structure __5.23__.
 
- ![](testimages/s205_2_i012i.jpg) 
+ ![inlinefigure](testimages/s205_2_i012i.jpg) 
 
 We conclude with a resonance hybrid which is an ion. Structure __5.20__ suggests unequal bond lengths in the carbonate ion. In fact, X-ray crystallography of carbonates suggests that all three bond lengths are equal, at about 129 pm; standard values for C—O and C=O bond lengths are around 143 pm and 120 pm, respectively. Three resonance structures, all equivalent to Structure __5.20__ contribute to a resonance hybrid that accounts for the bond length (Figure 38).
 
 
-![](testimages/s205_2_037i.jpg)
+![Figure 38](testimages/s205_2_037i.jpg)
 
 
 
@@ -557,7 +557,7 @@ Continued pumping on the lower layer eventually leaves pure liquid ozone, with a
 However, clean procedures that exclude dust and organic matter allow slow uninterrupted evaporation. The product is a deep blue gas, which is almost 100% ozone.
 
 
-![](testimages/s205_2_034i.jpg)
+![figure](testimages/s205_2_034i.jpg)
 
 
 __Figure 34:__ The very dark indigo colour of liquid ozone viewed through a cooling bath and the glass of a surrounding vacuum flask
@@ -568,7 +568,7 @@ __Figure 34:__ The very dark indigo colour of liquid ozone viewed through a cool
 A Lewis structure for the O2 molecule is shown in Figure 35a. For ozone too, a Lewis structure can be written which gives each atom a noble gas shell structure (Figure 35b); Figures 35c and 35d give the corresponding structural formulae with alternative representations of the dative bond.
 
 
-![](testimages/s205_2_033i.jpg)
+![figure](testimages/s205_2_033i.jpg)
 
 
 __Figure 35: (a)__ Lewis structure for O2, each oxygen having the shell structure of neon; (b) Lewis structure for ozone, O3; (c) and (d) show structural formulae for ozone containing alternative representations of the dative bond
@@ -591,7 +591,7 @@ But experimental measurement shows that both bonds have the same length (127.8 p
 The two structures are called __resonance structures__, and the real structure of ozone is said to be a __resonance hybrid__ of the two. The significance of the representations in Figure 36 is that in ozone, each bond is a mixture of one-half of a double bond and one-half of a single dative bond. Note that Figure 36 is not meant to imply that the molecule is constantly changing from one resonance structure to the other. It is a hybrid in the same sense that a mule is a hybrid: it does not oscillate between a horse and a donkey.
 
 
-![](testimages/s205_2_035i.jpg)
+![Figure 36](testimages/s205_2_035i.jpg)
 
 
 
@@ -601,7 +601,7 @@ Figure 36
 To clarify this, we turn to benzene, C6H6. Like ozone, it can be represented as a resonance hybrid of two resonance structures in which all atoms have noble gas configurations (Figure 37).
 
 
-![](testimages/s205_2_036i.jpg)
+![Figure 37](testimages/s205_2_036i.jpg)
 
 
 Figure 37 The two resonance structures of benzene
@@ -609,7 +609,7 @@ Figure 37 The two resonance structures of benzene
 Figure 37
 A typical C—C single bond length in an alkane hydrocarbon such as ethane, C2H6 (Structure __5.21__), is 154 pm; in contrast, a typical C—C bond length in an alkene hydrocarbon such as ethene, C2H4 (Structure __5.22__), is 134 pm. The *individual* resonance structures in Figure 37 therefore suggest that the carbon-carbon bond lengths in benzene should alternate between about 134 pm and 154 pm around the ring.
 
- ![](testimages/s205_2_i011i.jpg) 
+ ![inlinefigure](testimages/s205_2_i011i.jpg) 
 
          ##-- SAQ
         <h1 xmlns:str="http://exslt.org/strings">Question 30</h1>
@@ -627,12 +627,12 @@ This is precisely the case: all carbon—carbon bond lengths in benzene are 140 
 
 Number the carbon—carbon bonds in a benzene ring of Figure 37 clockwise from 1-6. All bonds contain at least one pair of electrons. However, in one of the resonance structures, bonds 1, 3 and 5 are double bonds, each containing a second electron pair; in the other resonance structure, the double bonds and extra pair of electrons are found at bonds 2, 4 and 6. The implication of Figure 37 is that in the resonance hybrid these three extra pairs of electrons are not confined to, or *localised* within, just half of the bonds in the ring. Instead, they are __delocalised__ around the ring and equally shared within all six bonds. Although, in this course, we shall draw benzene and its derivatives as a single resonance hybrid (Structure __5.23__), remember that this delocalization makes the bond lengths in the ring equal, contrary to the implications of Structure __5.23__.
 
- ![](testimages/s205_2_i012i.jpg) 
+ ![inlinefigure](testimages/s205_2_i012i.jpg) 
 
 We conclude with a resonance hybrid which is an ion. Structure __5.20__ suggests unequal bond lengths in the carbonate ion. In fact, X-ray crystallography of carbonates suggests that all three bond lengths are equal, at about 129 pm; standard values for C—O and C=O bond lengths are around 143 pm and 120 pm, respectively. Three resonance structures, all equivalent to Structure __5.20__ contribute to a resonance hybrid that accounts for the bond length (Figure 38).
 
 
-![](testimages/s205_2_037i.jpg)
+![Figure 38](testimages/s205_2_037i.jpg)
 
 
 
@@ -715,25 +715,25 @@ Write single Lewis structures, and the corresponding structural formulae, for th
 (a) For hypochlorous acid, see Structures __Q.10__ and __Q.11__. The oxygen has two non-bonded pairs and two bonding pairs.
 
 
- ![](testimages/s205_2_i024i.jpg) 
+ ![inlinefigure](testimages/s205_2_i024i.jpg) 
 
 * 
 (b) For SF6, see Structures __Q.12__ and __Q.13__. The sulfur atom has six bonding pairs and no non-bonded pairs.
 
 
- ![](testimages/s205_2_i025i.jpg) 
+ ![inlinefigure](testimages/s205_2_i025i.jpg) 
 
 * 
 (c) For ONCl, see Structures __Q.14__ and __Q.15__. The nitrogen has one non-bonded pair and three bonding pairs.
 
 
- ![](testimages/s205_2_i026i.jpg) 
+ ![inlinefigure](testimages/s205_2_i026i.jpg) 
 
 * 
 (d) For NH2−, the amide ion, see Structures __Q.16__ and __Q.17__ . The nitrogen has two bonding pairs and two non-bonded pairs.
 
 
- ![](testimages/s205_2_i027i.jpg) 
+ ![inlinefigure](testimages/s205_2_i027i.jpg) 
 
 All the atoms in Lewis structures __Q.10, Q.12, Q.14__ and __Q16__ have noble gas shell structures, except for sulfur in SF6, which is assigned twelve outer electrons.
 
@@ -749,7 +749,7 @@ In the nitrate ion, NO3−, the nitrogen atom is central and surrounded by three
 
 The Lewis structure of NO3− is shown as Structure __Q.18__. The atom of highest valency is nitrogen, so the single negative charge on the NO3− ion is assigned to nitrogen, giving the shell structure (2,6). All atoms gain the shell structure of neon if nitrogen forms one double bond and two single dative bonds to oxygen. Structure __Q.19__ shows the two dative bonds as arrows. In the alternative representation, one of the two positive charges at the nitrogen end of the two dative bonds is cancelled by the single negative charge of the central nitrogen. This gives Structure __Q.20__.
 
- ![](testimages/s205_2_i028i.jpg) 
+ ![inlinefigure](testimages/s205_2_i028i.jpg) 
 
 
 
@@ -763,11 +763,11 @@ For the Al2Br6 molecule (<a xmlns:str="http://exslt.org/strings" href="">Figure 
 
 See Structures __Q.21-Q.23__.
 
- ![](testimages/s205_2_i029i.jpg) 
+ ![inlinefigure](testimages/s205_2_i029i.jpg) 
 
 In the Lewis structure __Q.21__, each bridging bromine atom forms one shared electron pair bond with one aluminium and one dative bond to the other aluminium. All atoms gain a noble gas shell structure with eight outer electrons. Structural formula __Q.22__ shows the dative bonds as arrows, and suggests that the two bonds formed by each bridging bromine are different. The alternative __Q.23__ makes these two bonds identical. It is therefore a better representation of the experimental data. Nevertheless, although the single formula __Q.22__ is not compatible with the equal Al—Br bond lengths, this way of representing the dative bonds can be made consistent with them by using the two resonance hybrids shown in Structure __Q.24__.
 
- ![](testimages/s205_2_i030i.jpg) 
+ ![inlinefigure](testimages/s205_2_i030i.jpg) 
 
 
 
@@ -781,7 +781,7 @@ In the nitrate ion, NO3−, all three nitrogen-oxygen bonds are of equal length.
 
 In the answer to Question 12, both Structure __Q.19__ and Structure __Q.20__ contain one double bond and two single dative bonds. Neither is therefore consistent with three equal bond lengths. To explain the discrepancy we represent the nitrate ion as the resonance hybrid shown as Structure __Q.25__.
 
- ![](testimages/s205_2_i031i.jpg) 
+ ![inlinefigure](testimages/s205_2_i031i.jpg) 
 
 
 

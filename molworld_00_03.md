@@ -46,7 +46,7 @@ The values are: 2﻿[﻿(2 × 0) + 1] = 2; 2﻿[﻿(﻿2 × 1﻿) + 1] = 6; 2﻿
 So in s, p, d and f sub-shells, there can be no more than 2, 6, 10 and 14 electrons, respectively. These limits, and other quantum rules from this Section are summarised in Figure 20.
 
 
-![](testimages/s205_2_019i.jpg)
+![Figure 20](testimages/s205_2_019i.jpg)
 
 
 
@@ -58,7 +58,7 @@ Figure 20
 To assign electronic configurations to atoms, you need only one more piece of information. This is an energy-level diagram displaying the order in which the sub-shells are filled. Surprisingly, electronic configurations can be correctly assigned to *nearly all* atoms using just one such diagram, Figure 21.
 
 
-![](testimages/s205_2_020i.jpg)
+![Figure 21](testimages/s205_2_020i.jpg)
 
 
 
@@ -90,7 +90,7 @@ Notice that the value of *n* for the outermost shell of the electronic configura
 <a xmlns:str="http://exslt.org/strings" href="">Figure 21</a> has been designed for use in a particular *thought experiment*. The purpose of the thought experiment is to see how the electronic configuration of the atoms *changes* as one moves through the Periodic Table from beginning to end. We start with the hydrogen atom, which has one proton and one electron. Then we proceed through a series of stages in each of which we add one new proton to the nucleus, and one new electron to the clutch of surrounding electrons. At each stage, the filling order of <a xmlns:str="http://exslt.org/strings" href="">Figure 21</a> tells us what sub-shells are occupied, and how many electrons those occupied sub-shells contain. In addition, the filling of successive sub-shells in this thought experiment generates the form of the Periodic Table shown in Figure 22, in which the winding arrowed pathway follows the filling order of <a xmlns:str="http://exslt.org/strings" href="">Figure 21</a>. The different blocks of elements span regions in which particular types of sub-shells are being filled up. With the typical elements, the sub-shell type is either s or p; in the case of the transition elements, with rows of ten, it is d; for the lanthanides and actinides, with rows of fourteen, it is f. Indeed, because of this connection, one can think of Figure 22 as a demonstration of how the filling order of <a xmlns:str="http://exslt.org/strings" href="">Figure 21</a> can be deduced from the form of the Periodic Table.
 
 
-![](testimages/s205_2_021i.jpg)
+![Figure 22](testimages/s205_2_021i.jpg)
 
 
 Figure 22 The winding pathway shows how the order of sub-shell filling (Figure 21) generates the full Periodic Table. Elements in the same column *usually* have similar outer electronic configurations. Hydrogen has been juxtaposed with helium to indicate the filling of the 1s sub-shell
@@ -172,7 +172,7 @@ The electronic configurations of the atoms within this course have been written 
 The essential message of <a xmlns:str="http://exslt.org/strings" href="">Figure 22</a> is that the Groups of elements that appear in columns of the Periodic Table usually have atoms with similar outer electronic configurations. Figure 23 incorporates these configurations into our mini-Periodic Table of typical elements; they appear at the top of each Group. They imply that the typical elements have outer electronic configurations either of the type ns**x**, where **x** = 1 or 2, or of the type ns2np**x**, where *x* runs from 1 to 6. For any particular element, *n* is the principal quantum number of the outer occupied shell. This can easily be found from Figure 23, because it is equal to the number of the Period in which the element is to be found. The outer electrons are simply those in occupied sub-shells with this principal quantum number.
 
 
-![](testimages/s205_2_022i.jpg)
+![Figure 23](testimages/s205_2_022i.jpg)
 
 
 
@@ -218,15 +218,15 @@ The elements of highest atomic number are made through the collision of atoms an
 
 In 1999, scientists at Dubna in Russia made the first atoms of element 114, to which we shall give the provisional name auditorium (Ad)! Ions of the isotope
 
- ![](testimages/s205_2_ie005i.gif)  were accelerated to 30 000 km h−1, and directed on to a target containing the plutonium isotope  ![](testimages/s205_2_ie009i.gif) . Two nuclei fused, three neutrons were ejected, and an atom of the 289 isotope of element 114 was produced:
+ ![inlinefigure](testimages/s205_2_ie005i.gif)  were accelerated to 30 000 km h−1, and directed on to a target containing the plutonium isotope  ![inlinefigure](testimages/s205_2_ie009i.gif) . Two nuclei fused, three neutrons were ejected, and an atom of the 289 isotope of element 114 was produced:
 
 
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ue001i.gif)
+![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_ue001i.gif)
 
-The half-life of  ![](testimages/s205_2_ie007i.gif)  proved to be 30 seconds. It underwent α-decay to the 285 isotope of element 112, whose half-life is 15.4 minutes. These half-lives may seem short, but you must go back to element 103 to find known isotopes which are as long lived.
+The half-life of  ![inlinefigure](testimages/s205_2_ie007i.gif)  proved to be 30 seconds. It underwent α-decay to the 285 isotope of element 112, whose half-life is 15.4 minutes. These half-lives may seem short, but you must go back to element 103 to find known isotopes which are as long lived.
 
 
-							Figure 24 shows the half-lives of the known isotopes of elements 112-118.  ![](testimages/s205_2_ie007i.gif)  and the two other isotopes of element 114 support the emergence of an island of stability, but we are still a long way (9 neutrons) from the predicted summit at 184 neutrons. There is a reason for this. The proportion of neutrons in the most stable isotope of an element increases with atomic number. So the lighter isotopes such as  ![](testimages/s205_2_ie005i.gif)  and  ![](testimages/s205_2_ie009i.gif) , from which the new heavy elements are made, lack the neutrons needed to produce the *most stable* isotope of the heavier element that they create.
+							Figure 24 shows the half-lives of the known isotopes of elements 112-118.  ![inlinefigure](testimages/s205_2_ie007i.gif)  and the two other isotopes of element 114 support the emergence of an island of stability, but we are still a long way (9 neutrons) from the predicted summit at 184 neutrons. There is a reason for this. The proportion of neutrons in the most stable isotope of an element increases with atomic number. So the lighter isotopes such as  ![inlinefigure](testimages/s205_2_ie005i.gif)  and  ![inlinefigure](testimages/s205_2_ie009i.gif) , from which the new heavy elements are made, lack the neutrons needed to produce the *most stable* isotope of the heavier element that they create.
 
 This is simultaneously encouraging and discouraging. It means that the expected summit of the island of stability will be hard to reach. But if we do get there, we may find very stable elements. It may even be possible to study their chemistry. 
 
@@ -235,7 +235,7 @@ In the most recent piece of research [2007], collaboration between Californian a
 
 
 
-![](testimages/s205_2_024i.jpg)
+![Figure 24](testimages/s205_2_024i.jpg)
 
 
 
@@ -265,7 +265,7 @@ One and three, respectively; for s and p sub-shells, *l* = 0 and 1, so (2*l* + 1
 It turns out that each orbital in a sub-shell can contain up to two electrons. This is connected to a property of the electron called __spin__. This spin occurs in one of two senses, which are physically pictured as clockwise and anticlockwise (Figure 25).
 
 
-![](testimages/s205_2_023i.jpg)
+![Figure 25](testimages/s205_2_023i.jpg)
 
 
 
@@ -276,11 +276,11 @@ When an atomic orbital contains its maximum complement of two electrons, those t
 
 A full atomic orbital, therefore, contains two electrons with spins of opposite sense. This is represented by writing one electron as an upward-pointing half-headed arrow, and the other as a downward-pointing half-headed arrow. For example, the helium atom has the electronic configuration 1s2. The 1s sub-shell contains just one orbital, which can be represented by a single box containing the two electrons of opposite spin:
 
- ![](testimages/s205_2_i001i.jpg) 
+ ![inlinefigure](testimages/s205_2_i001i.jpg) 
 
 Two such electrons with opposed spins are said to be *paired* and the diagram that puts these electrons into boxes is referred to as a __box diagram__. Now consider the case of nitrogen, whose atom has the configuration 1﻿s﻿2﻿2﻿s﻿2﻿2﻿p﻿3. The 1s and 2s sub-shells contain one orbital each, and the 2p sub-shell contains three. The box diagram that must be filled therefore takes the form:
 
- ![](testimages/s205_2_i002i.jpg) 
+ ![inlinefigure](testimages/s205_2_i002i.jpg) 
 
          ##-- SAQ
         <h1 xmlns:str="http://exslt.org/strings">Question 19</h1>
@@ -301,7 +301,7 @@ The final step is the assignment of the three 2p electrons to the three 2p boxes
 
 Because electrons in the same box must have opposed spins, we must put the electrons, as far as possible, in different boxes with spins of the same sense, or, as it is usually termed, with __parallel spins__. In this case there are three 2p electrons and three boxes, so each box can take one electron with the same spin, and this is the preferred arrangement according to Hund's rule. The final result for the nitrogen atom is therefore:
 
- ![](testimages/s205_2_i003i.jpg) 
+ ![inlinefigure](testimages/s205_2_i003i.jpg) 
 
          ##-- SAQ
         <h1 xmlns:str="http://exslt.org/strings">Question 19a</h1>
@@ -312,7 +312,7 @@ The oxygen atom, with the configuration 1s22s22p4, has one more electron than th
 
 As there are four 2p electrons and only three 2p boxes, the fourth 2p electron cannot have a spin parallel to the other three. It must go into a box that is already occupied by one electron with opposite spin:
 
- ![](testimages/s205_2_i004i.jpg) 
+ ![inlinefigure](testimages/s205_2_i004i.jpg) 
 
          ##-- ENDSAQ
     
@@ -396,7 +396,7 @@ Represent the electronic ground state of the chlorine atom by a box diagram.
 
 There are 17 electrons in the chlorine atom and, from <a xmlns:str="http://exslt.org/strings" href="">Figure 21</a>, the electronic configuration is 1s22s22p63s23p5. Turning this into a box diagram, the 1s and 2s boxes are each filled with a pair of electrons with opposite spins. The three orbitals in the 2p sub-shell and the single 3s orbital each take pairs of opposite spins in a similar way. This leaves five electrons for the three orbitals of the 3p sub-shell. We start by assigning one electron to each of the three orbitals, making sure that all three have the same spin. This maximises the number of electrons with the same spin. The final two electrons must then go into different 3p boxes with spins opposed to the other three.
 
- ![](testimages/s205_2_i022i.jpg) 
+ ![inlinefigure](testimages/s205_2_i022i.jpg) 
 
 
 

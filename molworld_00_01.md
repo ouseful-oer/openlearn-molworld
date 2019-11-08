@@ -8,7 +8,7 @@
 The idea that everything that we can see is an assembly of tiny particles called atoms is chemistry's greatest contribution to science. There are about 120 known kinds of atom, and each one is distinguished by a name, by a chemical symbol, and by a number called the __atomic number__. The meaning of atomic number is best understood from the Rutherford model of the atom (<a xmlns:str="http://exslt.org/strings" href="">Figure 1</a>). Each atom has a tiny positively charged *nucleus*, where nearly all of its mass resides. Around this nucleus move negatively charged particles called *electrons*. Any atom is electrically neutral, but each electron carries a negative charge, to which we give the symbol −*e*.
 
 
-![](testimages/s205_2_001i.jpg)
+![Figure 1](testimages/s205_2_001i.jpg)
 
 
 
@@ -52,7 +52,7 @@ Atoms of the same atomic number behave virtually identically in chemical reactio
 One of the implications of this Section, and of <a xmlns:str="http://exslt.org/strings" href="">Figure 2</a>, is that chemical symbols have two meanings: they can represent either a chemical element or a type of atom. Thus, the symbol S can represent either the yellow solid in <a xmlns:str="http://exslt.org/strings" href="">Figure 2c</a>, or the type of atom of which that solid is composed. With experience, you will find that when you meet chemical symbols, the context will reveal which meaning is appropriate.
 
 
-![](testimages/s205_2_002i.jpg)
+![Figure 2](testimages/s205_2_002i.jpg)
 
 
 
@@ -79,7 +79,7 @@ Atoms became a part of modern science when John Dalton (1766-1844) suggested tha
 In scanning tunnelling microscopy (STM), a small voltage is applied between a 'probe' and a surface that the probe moves across. The observed current is sensitive to the surface contours at an atomic level, and its variation can be stored, computer enhanced and plotted out as a map of the surface (<a xmlns:str="http://exslt.org/strings" href="">Figure 3</a>). This technique earned Gerd Binning and Heinrich Rohrer of IBM's Zurich Laboratory the 1986 Nobel Prize for Physics. It is the nearest one can get to 'seeing atoms'. But how do we know that it is atoms that are displayed on the computer screen rather than, say, some microscopic set of dentures? The answer is that their size agrees with the values obtained by the classical methods mentioned above. Both classical and modern methods give similar values for atomic size. Pictures like Figure 3 have only enhanced a convergence that already existed in the results of other methods.
 
 
-![](testimages/s205_2_003i.jpg)
+![Figure 3](testimages/s205_2_003i.jpg)
 
 
 
@@ -92,7 +92,7 @@ Figure 3
 All atoms of the same element have identical atomic numbers, and are chemically similar, but they may not be identical in other ways. <a xmlns:str="http://exslt.org/strings" href="">Figure 2f</a> shows copper. All copper atoms have atomic number 29: all their nuclei contain 29 protons. But they also contain *uncharged* particles called *neutrons*. In natural copper, the atoms are of two kinds. One has 29 protons and 34 neutrons in the nucleus; the other has 29 protons and 36 neutrons (Figure 4).
 
 
-![](testimages/s205_2_004i.jpg)
+![Figure 4](testimages/s205_2_004i.jpg)
 
 
 
@@ -113,12 +113,12 @@ The two different kinds of atom are called *isotopes* of copper. The neutron has
 
          ##-- ENDSAQ
     
-The two isotopes are written,  ![](testimages/s205_2_ie001i.gif)  and  ![](testimages/s205_2_ie002i.gif)  where the mass number and atomic number precede the chemical symbol as a superscript and subscript, respectively (<a xmlns:str="http://exslt.org/strings" href="">Figure 5</a>).
+The two isotopes are written,  ![inlinefigure](testimages/s205_2_ie001i.gif)  and  ![inlinefigure](testimages/s205_2_ie002i.gif)  where the mass number and atomic number precede the chemical symbol as a superscript and subscript, respectively (<a xmlns:str="http://exslt.org/strings" href="">Figure 5</a>).
 
-The mass number of any isotope is equal to the relative atomic mass of its atom, rounded to the nearest whole number. The atoms of natural copper are about 70%  ![](testimages/s205_2_ie001i.gif)  and 30%  ![](testimages/s205_2_ie002i.gif) . Thus, the relative atomic mass of natural copper (63.5) lies between 63 and 65, but closer to 63 because that is the relative atomic mass of the more abundant isotope. But although copper contains two different isotopes, each isotope has the same atomic number, and therefore a virtually identical chemistry.
+The mass number of any isotope is equal to the relative atomic mass of its atom, rounded to the nearest whole number. The atoms of natural copper are about 70%  ![inlinefigure](testimages/s205_2_ie001i.gif)  and 30%  ![inlinefigure](testimages/s205_2_ie002i.gif) . Thus, the relative atomic mass of natural copper (63.5) lies between 63 and 65, but closer to 63 because that is the relative atomic mass of the more abundant isotope. But although copper contains two different isotopes, each isotope has the same atomic number, and therefore a virtually identical chemistry.
 
 
-![](testimages/s205_2_005i.jpg)
+![Figure 5](testimages/s205_2_005i.jpg)
 
 
 
@@ -128,7 +128,7 @@ Figure 51.2.1 Isotopes
 All atoms of the same element have identical atomic numbers, and are chemically similar, but they may not be identical in other ways. <a xmlns:str="http://exslt.org/strings" href="">Figure 2f</a> shows copper. All copper atoms have atomic number 29: all their nuclei contain 29 protons. But they also contain *uncharged* particles called *neutrons*. In natural copper, the atoms are of two kinds. One has 29 protons and 34 neutrons in the nucleus; the other has 29 protons and 36 neutrons (Figure 4).
 
 
-![](testimages/s205_2_004i.jpg)
+![Figure 4](testimages/s205_2_004i.jpg)
 
 
 
@@ -149,12 +149,12 @@ The two different kinds of atom are called *isotopes* of copper. The neutron has
 
          ##-- ENDSAQ
     
-The two isotopes are written,  ![](testimages/s205_2_ie001i.gif)  and  ![](testimages/s205_2_ie002i.gif)  where the mass number and atomic number precede the chemical symbol as a superscript and subscript, respectively (<a xmlns:str="http://exslt.org/strings" href="">Figure 5</a>).
+The two isotopes are written,  ![inlinefigure](testimages/s205_2_ie001i.gif)  and  ![inlinefigure](testimages/s205_2_ie002i.gif)  where the mass number and atomic number precede the chemical symbol as a superscript and subscript, respectively (<a xmlns:str="http://exslt.org/strings" href="">Figure 5</a>).
 
-The mass number of any isotope is equal to the relative atomic mass of its atom, rounded to the nearest whole number. The atoms of natural copper are about 70%  ![](testimages/s205_2_ie001i.gif)  and 30%  ![](testimages/s205_2_ie002i.gif) . Thus, the relative atomic mass of natural copper (63.5) lies between 63 and 65, but closer to 63 because that is the relative atomic mass of the more abundant isotope. But although copper contains two different isotopes, each isotope has the same atomic number, and therefore a virtually identical chemistry.
+The mass number of any isotope is equal to the relative atomic mass of its atom, rounded to the nearest whole number. The atoms of natural copper are about 70%  ![inlinefigure](testimages/s205_2_ie001i.gif)  and 30%  ![inlinefigure](testimages/s205_2_ie002i.gif) . Thus, the relative atomic mass of natural copper (63.5) lies between 63 and 65, but closer to 63 because that is the relative atomic mass of the more abundant isotope. But although copper contains two different isotopes, each isotope has the same atomic number, and therefore a virtually identical chemistry.
 
 
-![](testimages/s205_2_005i.jpg)
+![Figure 5](testimages/s205_2_005i.jpg)
 
 
 
@@ -204,7 +204,7 @@ No; the tiny particles or *molecules* consist of pairs of chlorine atoms, Cl2.
 A gas, like chlorine, occupies much more space than a solid or liquid, so the distance between the molecules is comparatively large. At normal temperatures and pressures, it averages about 3 500 pm (1 pm ≡ 10−12m), compared with a distance of only 198 pm separating the chlorine atoms in gaseous Cl2 molecules (<a xmlns:str="http://exslt.org/strings" href="">Figure 6a</a>). This disparity is less extreme, but still evident in liquid bromine and solid iodine. The positions of atoms in solids can be determined by X-ray crystallography. In solid iodine (<a xmlns:str="http://exslt.org/strings" href="">Figure 6b</a>), each iodine atom has a second iodine atom at a distance of only 271 pm. By contrast, in other directions, the shortest distance to another iodine atom is considerably greater (350 pm). So the iodine atoms can be grouped into pairs; hence we conclude that solid iodine contains I2 molecules.
 
 
-![](testimages/s205_2_006i.jpg)
+![Figure 6](testimages/s205_2_006i.jpg)
 
 
 
@@ -214,7 +214,7 @@ Figure 6
 Similar reasoning can be used to identify molecules in compounds. At room temperature, carbon dioxide is a gas containing CO2 molecules. On cooling, it becomes a solid ('dry ice'). In dry ice (Figure 7), each carbon atom, A, has two oxygen atom neighbours, B and C, at a distance of 116 pm. These three atoms are colinear. The next nearest atom is another oxygen, D, at 311 pm. Here is evidence that solid carbon dioxide contains linear CO2 molecules, with the atom sequence O—C—O.
 
 
-![](testimages/s205_2_007i.jpg)
+![Figure 7](testimages/s205_2_007i.jpg)
 
 
 
@@ -224,7 +224,7 @@ Figure 7
 The formulae Cl2, Br2, I2 and CO2 that we have identified for the three halogens and carbon dioxide are called __molecular formulae__. They tell us how the atoms are grouped together in the molecules from which the substance is built up. Likewise, the four substances are called *molecular substances* because they have structures that allow discrete molecules to be picked out. So far, we have examined just one molecular compound (CO2) and its molecular formula is identical with its empirical formula, but often this is not so. In <a xmlns:str="http://exslt.org/strings" href="">Section 1.2</a>, we discussed solid aluminium bromide with empirical formula AlBr3. Here, the molecular and empirical formulae are not identical: the crystal structure contains Al2Br6 molecules (Figure 8).
 
 
-![](testimages/s205_2_008i.jpg)
+![Figure 8](testimages/s205_2_008i.jpg)
 
 
 
@@ -246,7 +246,7 @@ Yes; the molecular formula is Al2Br6, but in both the molecules and the solid, t
  The so-called organic compounds formed by the element carbon are almost entirely molecular. To mark this point, we show, in Figure 9, the grouping of the atoms in the molecules of two important solid organic compounds. Figure 9a shows the structure of aspirin, the best-known painkiller, which is also used in the precautionary treatment of heart conditions. The molecule in Figure 9b is RDX, the most common military high explosive. Here, you need not worry about the names used for organic compounds. In this course, relatively few such compounds are discussed, and we shall be concerned only with differences in the *structure* of their molecules; the names are just labels. 
 
 
-![](testimages/s205_2_009i.jpg)
+![Figure 9](testimages/s205_2_009i.jpg)
 
 
 
@@ -272,7 +272,7 @@ The sodium is surrounded by six chlorines at the centres of the cube faces.
          ##-- ENDSAQ
     
 
-![](testimages/s205_2_010i.jpg)
+![Figure 10](testimages/s205_2_010i.jpg)
 
 
 
@@ -284,7 +284,7 @@ The six chlorines lie at the corners of a three-dimensional figure called a regu
 Similar considerations apply to silicon dioxide or silica, SiO2. This is the main component of sand, and it has the same type of empirical formula as carbon dioxide. In solid carbon dioxide, two of the oxygen atoms around each carbon were much closer than the others, so we could identify a CO2 molecule. However, in silica (Figure 11), each silicon atom sits at the centre of a tetrahedron of oxygen atoms: the silicon is surrounded by four oxygen atoms, all at the same distance of 162 pm. There is no evidence of discrete SiO2 molecules.
 
 
-![](testimages/s205_2_011i.jpg)
+![Figure 11](testimages/s205_2_011i.jpg)
 
 
 
@@ -294,7 +294,7 @@ Figure 11
 Most of the chemical elements are non-molecular substances. Figure 12 shows the environment of each atom in diamond and metallic aluminium. In diamond (Figure 12a), there are four surrounding carbon atoms at the corners of a regular tetrahedron, and the C—C distance is 154 pm. In aluminium (Figure 12b), there are twelve surrounding aluminium atoms, and the Al—Al distance is 286 pm. There is no justification for dividing the structure up into molecules containing two or more atoms. Any such 'molecule' extends throughout a crystal of the substance, and its formula will vary with the crystal size. For this reason, the phrase __extended structure__ is sometimes used to describe non-molecular substances.
 
 
-![](testimages/s205_2_012i.jpg)
+![Figure 12](testimages/s205_2_012i.jpg)
 
 
 
@@ -304,7 +304,7 @@ Figure 12
 In Figures 12a and 12b, the extension occurs in three dimensions, but it may sometimes reveal itself in only one or two. Figure 13 shows the structure of graphite, the form of carbon used in pencil 'leads'. There are regular hexagons of carbon atoms arranged in parallel sheets. Within the sheets, the C—C distance is only 142 pm, but the shortest distances between the sheets is 340 pm.
 
 
-![](testimages/s205_2_013i.jpg)
+![Figure 13](testimages/s205_2_013i.jpg)
 
 
 
@@ -350,7 +350,7 @@ In solid iodine, different I2 molecules are held together by weak forces, so onl
 This also explains another property of iodine: it dissolves fairly easily in an organic solvent like petrol. The solid crystal falls apart and individual I2 molecules drift off into solution. As organic compounds are molecular, they too, often dissolve in petrol. The organic polymers you meet in everyday life have unusually large molecules, but being molecular they may also be vulnerable (Figure 14).
 
 
-![](testimages/s205_2_014i.jpg)
+![Figure 14](testimages/s205_2_014i.jpg)
 
 
 
@@ -427,7 +427,7 @@ The element aluminium (symbol Al; atomic number 13) has a relative atomic mass o
 
 (d) 14;
 
-(e)  ![](testimages/s205_2_ie017i.gif) . Because the atomic number of aluminium is 13, there are 13 protons in the nucleus, 13 orbiting electrons in the atom, and the total charge on the nucleus is + 13*e*. As the relative atomic mass is 27.0, and there is just one isotope, the mass number is 27. Therefore, the number of neutrons is (27 − 13) = 14. The mass number is the preceding superscript, and the atomic number is the preceding subscript in the symbol  ![](testimages/s205_2_ie017i.gif) .
+(e)  ![inlinefigure](testimages/s205_2_ie017i.gif) . Because the atomic number of aluminium is 13, there are 13 protons in the nucleus, 13 orbiting electrons in the atom, and the total charge on the nucleus is + 13*e*. As the relative atomic mass is 27.0, and there is just one isotope, the mass number is 27. Therefore, the number of neutrons is (27 − 13) = 14. The mass number is the preceding superscript, and the atomic number is the preceding subscript in the symbol  ![inlinefigure](testimages/s205_2_ie017i.gif) .
 
 
 
@@ -471,7 +471,7 @@ The molecular formula of an oxide of phosphorus is P4O10.
 
 
 
-![](testimages/s205_2_015i.jpg)
+![Figure 15](testimages/s205_2_015i.jpg)
 
 
 

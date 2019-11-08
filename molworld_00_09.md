@@ -2,7 +2,7 @@
 
 
 
-![](testimages/ol_skeleton_keeponlearning_image.jpg)
+![figure](testimages/ol_skeleton_keeponlearning_image.jpg)
 
 ---
 

@@ -25,41 +25,41 @@ It is the fragment —OH, which is known as the *alcohol* functional group.
 Because reactivity is concentrated at the —OH site, we can, through an informed choice of other chemical reactants, change that site (and sometimes the atoms immediately adjacent to it) into something else *while leaving the rest of the molecule unchanged*. For example, the liquid thionyl chloride, SOCl2, will convert hexan-1-ol into 1-chlorohexane:
 
 
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e005i.jpg)
+![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e005i.jpg)
 
 (Note that in the formulae in this equation we have omitted all the bonds apart from the ones connecting the functional groups to the rest of the molecule; these are known as *condensed structural formulae.*) In this reaction the —OH group has been replaced by —Cl. An example of a change in both the functional group and its adjacent atoms is the reaction of hexan-1-ol with chromic acid, H2CrO4, which yields hexanoic acid:
 
 
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e006i.jpg)
+![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e006i.jpg)
 
 Here, the terminal —CH2OH fragment has been converted into the carboxylic acid functional group, —COOH. (Note that an arrow has been used in Equation 6.2. An equals sign - see Box 5 - would be inappropriate because the equation is not balanced. This type of equation allows us to concentrate attention on the way in which one molecular fragment, —CH2OH, is transformed into another, —COOH. Organic chemists often write equations of this sort, the reagent that brings about the change appearing above the arrow.)
 
 We can divide organic molecules into three parts: the functional groups, their immediate environment, and the rest of the molecule. To a first approximation, we expect a functional group and its immediate environment to respond to a reactant in exactly the same way whatever the rest of the molecule is like. Thus, if we write the many molecules containing an alcohol functional group as R—OH, the general form of Reaction 6.1 becomes
 
 
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e007i.jpg)
+![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e007i.jpg)
 
 Likewise, if we write the many molecules that terminate in the unit —CH2OH as R—CH2OH, then the general form of Reaction 6.2 becomes:
 
 
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e008i.jpg)
+![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e008i.jpg)
 
 In principle therefore, Reactions 6.3 and 6.4 allow us to predict the response of many very different molecules to thionyl chloride and chromic acid.
 
 To a first approximation, the behaviour of organic functional groups is therefore unaffected by the larger environment of the molecules in which those groups are set. A good example is the reaction of some alcohols with nitric acid, HNO3 (or HONO2), to give nitrate esters:
 
 
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e009i.jpg)
+![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e009i.jpg)
 
 Thus, hexan-1-ol (Structure __6.1__) yields hexyl nitrate, CH3CH2CH2CH2CH2CH2—O—NO2.
 
  Two organic molecules that contain more than one alcohol functional group are glycerol (Reaction 6.6), made by heating natural fats or oils with sodium hydroxide, and pentaerythritol (Reaction 6.7). Reactions 6.6 and 6.7 show how a mixture of concentrated nitric and sulfuric acid replaces all of the —OH groups with —O—NO2 groups, leaving the rest of the molecules unchanged.
 
 
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e010i.jpg)
+![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e010i.jpg)
 
 
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e011i.jpg)
+![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e011i.jpg)
 
 Finally, we consider cotton, whose fibres consist of the polymer cellulose. A typical fibre has the formula [C6H7O2(OH)3]n, where *n* varies, but may be as large as 2 000. Each C6H7O2(OH)3 unit contains three —OH groups, and at the left of Figure 39 two of the units are shown linked together. Figure 39 also shows that despite this polymeric situation, all of the —OH groups can still be replaced by —O—NO2 groups through a reaction with mixed nitric and sulfuric acids.
 
@@ -68,7 +68,7 @@ The products of Reactions 6.6, 6.7 and Figure 39 are called nitroglycerine, pent
 What makes functional groups such as —OH so much more reactive than the carbon-hydrogen skeleton to which they are attached?  Look again at Structure __6.1__ (hexan-1-ol).
 
 
-![](testimages/s205_2_038i.jpg)
+![Figure 39](testimages/s205_2_038i.jpg)
 
 
 
@@ -108,7 +108,7 @@ Another arises from the fact that functional groups often introduce electronegat
 Finally, we remind you of a reservation that we made about functional groups: the idea that their reactions are unaffected by the rest of the molecule is only an approximation. We illustrate the point with another powerful explosive. In phenol, on the left of Reaction 6.8, an —OH group is attached to the benzene ring of Structure __5.23__. Through Reactions 6.5-6.7 and <a xmlns:str="http://exslt.org/strings" href="">Figure 39</a>, we know that the combination HNO3/H2SO4 usually converts an —OH group to a nitrate, —﻿ONO2, group. But Reaction 6.8 is an exception. The —OH group is untouched, and hydrogen atoms at three points on the benzene ring are replaced by the nitro group, —NO2. The product is a yellow crystalline solid known as 2,4,6-trinitrophenol or picric acid, whose explosive power exceeds that of TNT (see Box 7). Our expectations about the nitration of —OH functional groups were worked up from cases where the hydrocarbon skeleton is __saturated__; that is, all carbon valencies in the skeleton are used to form *single* bonds to either hydrogen or other carbon atoms. Evidently, the benzene ring, which is not saturated, enhances the reactivity of the hydrogen atoms attached to it, and simultaneously diminishes that of the attached —OH group. The behaviour of a functional group can therefore be affected by its immediate environment. 
 
 
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e012i.jpg)
+![figure](https://www.open.edu/openlearn/ocw/pluginfile.php/65316/mod_oucontent/oucontent/437/s205_2_e012i.jpg)
 
 
 ### Box 7: High explosives and propellants
@@ -116,7 +116,7 @@ Finally, we remind you of a reservation that we made about functional groups: th
 High explosives generate shock waves moving with a velocity of 7 000-9 000 ms−1. Their commercial production began in 1863 when Immanuel Nobel and his son Alfred began manufacturing nitroglycerine at Helenborg near Stockholm (Figure 40). Nitroglycerine is a yellow oil prone to accidental explosion, and in 1864, the factory blew up, killing Alfred Nobel's brother Emil. Nevertheless, nitroglycerine proved invaluable in nineteenth-century mining engineering projects which required extensive blasting. It was used, for example, to make a way for the Central Pacific railway over the Sierra Nevada, and thus enabled the United States to create the first transcontinental railroad (Figure 41). The availability of so dangerous a material in frontier conditions caused many accidents. There are tales of nitroglycerine being mistakenly used in spirit lamps and as a lubricant, things which, as Nobel's biographer laconically remarks, 'were seldom done more than once by the same person'.
 
 
-![](testimages/s205_2_039i.jpg)
+![Figure 40](testimages/s205_2_039i.jpg)
 
 
 
@@ -124,7 +124,7 @@ High explosives generate shock waves moving with a velocity of 7 000-9 000 ms−
 
 Figure 40
 
-![](testimages/s205_2_040i.jpg)
+![Figure 41](testimages/s205_2_040i.jpg)
 
 
 
@@ -133,7 +133,7 @@ Figure 40
 Figure 41
 Subsequently, Alfred developed the safer dynamites, first by absorbing nitroglycerine with the clay, kieselguhr (guhr dynamite), and then by mixing it with nitrocellulose to form a gel (gelatin dynamite). A mixture of nitrocellulose and nitroglycerine called cordite was the propellant that launched shells from the guns of Royal Navy battleships in both World Wars.
 
- ![](testimages/s205_2_i013i.jpg) 
+ ![inlinefigure](testimages/s205_2_i013i.jpg) 
 
 When the hydrocarbons in petrol burn, they acquire the necessary oxygen from the air. High explosives carry their own oxygen, usually in the form of —NO2 groups, which are bound either to oxygen in nitrate esters, or to nitrogen as in RDX (<a xmlns:str="http://exslt.org/strings" href="">Figure 9b</a>), or to carbon as in TNT (Structure __6.2__). In a typical explosion, this oxygen converts the carbon-hydrogen skeleton to steam and oxides of carbon, leaving nitrogen as N2 molecules. The heat liberated raises the temperature of the products to about 4000 °﻿C. Thus, for PETN (Reaction 6.7):
 
@@ -166,7 +166,7 @@ The compound ethene glycol (ethane-1,2-diol), HO—CH2—CH2−OH, is used as an
 
 The ethene glycol molecule contains two alcohol functional groups, —OH. These should both be replaceable by ONO2 groups when ethene glycol is treated with a mixture of concentrated nitric and sulfuric acids. The expected product has the structural formula __Q.26__. These expectations are correct. The product is a colourless liquid, ethene glycol dinitrate (EGDN), and it is indeed a powerful explosive.
 
- ![](testimages/s205_2_i032i.jpg) 
+ ![inlinefigure](testimages/s205_2_i032i.jpg) 
 
 
 
