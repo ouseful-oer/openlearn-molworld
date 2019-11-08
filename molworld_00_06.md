@@ -1,3 +1,4 @@
+$$\require{mhchem}$$
 # 6 Molecular shape affects molecular reactivity
 
 
@@ -7,7 +8,7 @@
 
 Structural formulae of, for example, hexan-1-ol (Structure __6.1__) and PF5 (Structure __5.13__) merely tell us the immediate neighbours of any particular atom. They are two-dimensional drawings, which ignore the three-dimensional shapes of the molecules. But in studying the structures obtained by X-ray crystallography in <a xmlns:str="http://exslt.org/strings" href="">Section 1</a>, we recognised that the atoms in a substance have a definite three-dimensional arrangement in space. In other words, molecules have a definite shape and size. Those shapes and sizes are often a key to the understanding of chemical reactions.
 
-Let us start with methane, CH4, and bromomethane, CH3Br. In both molecules, the carbon atoms form four single bonds. It turns out that the four bonds are directed towards the corners of a tetrahedron. The resulting molecular shapes are shown in Figure 42 as ball-and-stick representations.
+Let us start with methane, $\ce{CH4}$, and bromomethane, CH3Br. In both molecules, the carbon atoms form four single bonds. It turns out that the four bonds are directed towards the corners of a tetrahedron. The resulting molecular shapes are shown in Figure 42 as ball-and-stick representations.
 
 
 ![Figure 42](testimages/s205_2_041i.jpg)
