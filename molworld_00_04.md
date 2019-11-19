@@ -338,6 +338,19 @@ How are we to understand Reaction 5.1? In Section 4.5.1, we saw that the Lewis s
 
 A bond in which the electron pair is provided by just one of the bonded atoms is called a __dative bond__. We need to differentiate such bonds from the more familiar bonds in which *each* bound atom contributes an electron to the electron pair. To do this, we write the dative bonds as arrows running from the 'donor' atom (in this case nitrogen) to the 'receptor' atom (in this case boron). Then Equation 5.1 becomes:
 
+```python
+from rdkit.Chem import AllChem, Draw
+
+def smilesH(m):
+    return AllChem.AddHs(Chem.MolFromSmiles(m))
+
+ammonia = smilesH('N')
+boron_trifluoride = smilesH('B(F)(F)F')
+
+my_molecules = [ammonia, boron_trifluoride]
+
+Draw.MolsToGridImage(my_molecules, useSVG=False)
+```
 
 ![figure](testimages/s205_2_e002i.jpg)
 
