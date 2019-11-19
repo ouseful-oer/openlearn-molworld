@@ -5,6 +5,8 @@ ghp-import
 ipykernel
 jupytext
 
+Pygments
+
 ipywidgets
 
 sphinxcontrib-bibtex
@@ -14,5 +16,3 @@ sphinxcontrib-svg2pdfconverter
 pubchempy
 py3dmol
 
-#need this so we can try to get rdkit working...
-conda
