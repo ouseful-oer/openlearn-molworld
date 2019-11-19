@@ -16,6 +16,7 @@ Let us start with methane, $\ce{CH4}$, and bromomethane, $\ce{CH3Br}$. In both m
 ```python
 import py3Dmol
 import pubchempy as pcp
+
 bromomethane=pcp.get_compounds('bromomethane', 'name')[0]
 x=py3Dmol.view(query='cid:{}'.format(bromomethane.cid), width=300,height=300).setStyle({'stick': {'radius': .1}, 'sphere': {'scale': 0.25}})
 x
@@ -31,7 +32,37 @@ We now take bromomethane (Figure 42b) and successively replace each hydrogen ato
 
 
 
-						Figure 43 The molecules (a) bromomethane, CH<sub xmlns:str="http://exslt.org/strings">3</sub>Br; (b) bromoethane, CH<sub xmlns:str="http://exslt.org/strings">3</sub>CH<sub xmlns:str="http://exslt.org/strings">2</sub>Br; (c) 2-bromopropane, (CH<sub xmlns:str="http://exslt.org/strings">3</sub>)<sub xmlns:str="http://exslt.org/strings">2</sub>CHBr; (d) 2-bromo-2-methylpropane, (CH<sub xmlns:str="http://exslt.org/strings">3</sub>)<sub xmlns:str="http://exslt.org/strings">3</sub>CBr, shown in both ball-and-stick (top) and space-filling representations (bottom). Also shown are the relative rates of reaction of the four compounds when they are treated with lithium iodide in acetone (propanone) solution
+						Figure 43 The molecules (a) bromomethane, $\ce{CH3}Br$; (b) bromoethane, $\ce{CH3CH2Br}$; (c) 2-bromopropane, $\ce{(CH3)2CHBr}$; (d) 2-bromo-2-methylpropane, $\ce{(CH3)3CBr}$, shown in both ball-and-stick (top) and space-filling representations (bottom). Also shown are the relative rates of reaction of the four compounds when they are treated with lithium iodide in acetone (propanone) solution
+
+```python
+# The code is a little cluttered at the moment, but we can create a similar grid based interactive display
+
+# It would be more convenient to build something to handle eg:
+#gridmolview( ['CBr', 'CCBr', 'CC(C)Br', 'CC(C)(C)Br'] )
+
+sticky={'stick': {'radius': 0.1}, 'sphere': {'scale': 0.25}}
+blobby={'stick': {'radius': 1}, 'sphere': {'scale': 1}}
+
+cbr=pcp.get_compounds('CBr', 'smiles')[0]
+
+view = py3Dmol.view(query='cid:{}'.format(cbr.cid),linked=False, viewergrid=(2,4))
+view.setStyle(sticky,viewer=(0,0))
+view.setStyle(blobby,viewer=(1,0))
+
+def _addModelView(compound, i, j):
+    _compound=pcp.get_compounds(compound, 'smiles')[0]
+    view.removeAllModels(viewer=(j,i))
+    view.addModel(pcp.get_sdf(_compound.cid),'sdf',viewer=(j,i))
+    sty = sticky if j % 2 == 0 else blobby
+    view.setStyle(sty,viewer=(j,i))
+
+def _addModel(compound, i):
+    _addModelView(compound, i, 0)
+    _addModelView(compound, i, 1)
+    
+for i,compound in enumerate(['CCBr','CC(C)Br','CC(C)(C)Br'], start=1):
+    _addModel(compound, i)
+```
 
 
 Ball-and-stick representations are a natural three-dimensional development of structural formulae, and they show the disposition of the atoms in space. But by emphasising the bonds, they fail to reveal the subtleties of the molecular shape created by the different sizes of atoms. In this respect, space-filling models are better. These appear at the bottom of Figure 43. In each case, the viewing direction is the same as the ball-and-stick model above. 
@@ -100,13 +131,30 @@ Here we shall look at the shapes of some simple molecules of the typical element
 							Figure 45 A ball-and-stick model of methane, CH<sub xmlns:str="http://exslt.org/strings">4</sub>
 
 
+```python
+#Start to show how we can simplify creating and embedding the 3D molecule view
+
+def molview(mol, w=300, h=300, style={'stick': {'radius': .1}, 'sphere': {'scale': 0.25}}):
+	""" Look up molecule by name, get its cid, and render it. 
+	Changes applied to style will persist in future calls. """
+	_mol = pcp.get_compounds(mol, 'name')[0]
+	return py3Dmol.view(query='cid:{}'.format(_mol.cid), width=w,height=h).setStyle(style)
+
+```
+
+
+```python
+#Using the function, it's much easier to call and embed the 3D view; for example:
+
+molview("methane")
+```
+
 
 ![Figure 46](testimages/s205_2_045i.jpg)
 
 
 
 							Figure 46 A flying-wedge representation of methane
-
 
 Having established this convention, we shall now examine the shapes of some simple fluorides. In <a xmlns:str="http://exslt.org/strings" href="">Section 2</a>, we reminded you how to use the Periodic Table to predict the highest fluoride of a typical element.
 <!--SAQ id=saq036-->
