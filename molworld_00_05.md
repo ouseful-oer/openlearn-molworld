@@ -7,7 +7,7 @@
 
 Reactivity is not spread evenly over a molecule; it tends to be concentrated at particular sites. The consequences of this idea are apparent in the chemistry of many elements. However, in organic chemistry, the idea has proved so valuable that it receives specific recognition through the concept of the __functional group__. Structure __6.1__ shows the abbreviated structural formula of hexan-1-ol, an alcohol.
 <!--Quote id=ueqn000_001-->
->__CH<sub xmlns:str="http://exslt.org/strings">3</sub>—CH<sub xmlns:str="http://exslt.org/strings">2</sub>—CH<sub xmlns:str="http://exslt.org/strings">2</sub>—CH<sub xmlns:str="http://exslt.org/strings">2</sub>—CH<sub xmlns:str="http://exslt.org/strings">2</sub>CH<sub xmlns:str="http://exslt.org/strings">2</sub>—OH__                               (__6.1__)
+$\ce{CH3-CH2-CH2-CH2-CH2CH2-OH}$ (__6.1__)
 
 <!--SAQ id=saq031-->
 
@@ -19,21 +19,22 @@ Reactivity is not spread evenly over a molecule; it tends to be concentrated at 
 >Identify the functional group in this molecule.
 
 
-It is the fragment —OH, which is known as the *alcohol* functional group.
+It is the fragment $\ce{-OH}$, which is known as the *alcohol* functional group.
 <!--ENDSAQ-->
-Because reactivity is concentrated at the —OH site, we can, through an informed choice of other chemical reactants, change that site (and sometimes the atoms immediately adjacent to it) into something else *while leaving the rest of the molecule unchanged*. For example, the liquid thionyl chloride, SOCl<sub xmlns:str="http://exslt.org/strings">2</sub>, will convert hexan-1-ol into 1-chlorohexane:
+Because reactivity is concentrated at the —OH site, we can, through an informed choice of other chemical reactants, change that site (and sometimes the atoms immediately adjacent to it) into something else *while leaving the rest of the molecule unchanged*. For example, the liquid thionyl chloride,$\ce{SOCl2}$, will convert hexan-1-ol into 1-chlorohexane:
 
+$\ce{CH3CH2CH2CH2CH2CH2-OH + SOCl2 = CH3CH2CH2CH2CH2CH2-Cl + SO2 + HCl}$
 
 ![figure](testimages/s205_2_e005i.jpg)
 
-(Note that in the formulae in this equation we have omitted all the bonds apart from the ones connecting the functional groups to the rest of the molecule; these are known as *condensed structural formulae.*) In this reaction the —OH group has been replaced by —Cl. An example of a change in both the functional group and its adjacent atoms is the reaction of hexan-1-ol with chromic acid, H<sub xmlns:str="http://exslt.org/strings">2</sub>CrO<sub xmlns:str="http://exslt.org/strings">4</sub>, which yields hexanoic acid:
+(Note that in the formulae in this equation we have omitted all the bonds apart from the ones connecting the functional groups to the rest of the molecule; these are known as *condensed structural formulae.*) In this reaction the $\ce{-OH}$ group has been replaced by $\ce{-Cl}$. An example of a change in both the functional group and its adjacent atoms is the reaction of hexan-1-ol with chromic acid, $\ce{H2CrO4}$ , which yields hexanoic acid:
 
-
+$\ce{CH3CH2CH2CH2CH2CH2->[\ce{H2CrO4}] CH3CH2CH2CH2CH2C(=O)-OH}$
 ![figure](testimages/s205_2_e006i.jpg)
 
-Here, the terminal —CH<sub xmlns:str="http://exslt.org/strings">2</sub>OH fragment has been converted into the carboxylic acid functional group, —COOH. (Note that an arrow has been used in Equation 6.2. An equals sign - see Box 5 - would be inappropriate because the equation is not balanced. This type of equation allows us to concentrate attention on the way in which one molecular fragment, —CH<sub xmlns:str="http://exslt.org/strings">2</sub>OH, is transformed into another, —COOH. Organic chemists often write equations of this sort, the reagent that brings about the change appearing above the arrow.)
+Here, the terminal $\ce{-CH2OH}$ fragment has been converted into the carboxylic acid functional group, $\ce{-COOH}$. (Note that an arrow has been used in Equation 6.2. An equals sign - see Box 5 - would be inappropriate because the equation is not balanced. This type of equation allows us to concentrate attention on the way in which one molecular fragment, $\ce{-CH2OH}$, is transformed into another, $\ce{-COOH}$. Organic chemists often write equations of this sort, the reagent that brings about the change appearing above the arrow.)
 
-We can divide organic molecules into three parts: the functional groups, their immediate environment, and the rest of the molecule. To a first approximation, we expect a functional group and its immediate environment to respond to a reactant in exactly the same way whatever the rest of the molecule is like. Thus, if we write the many molecules containing an alcohol functional group as R—OH, the general form of Reaction 6.1 becomes
+We can divide organic molecules into three parts: the functional groups, their immediate environment, and the rest of the molecule. To a first approximation, we expect a functional group and its immediate environment to respond to a reactant in exactly the same way whatever the rest of the molecule is like. Thus, if we write the many molecules containing an alcohol functional group as $\ce{R-OH}$, the general form of Reaction 6.1 becomes
 
 
 ![figure](testimages/s205_2_e007i.jpg)

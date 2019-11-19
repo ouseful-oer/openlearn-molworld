@@ -84,17 +84,17 @@ It is the bromo group, —Br.
 <!--ENDSAQ-->
  ![inlinefigure](testimages/s205_2_i014i.jpg) 
 
-So the molecules are of the general type, $\ce{RBr}$, where R is the framework to which the functional group is attached. When such bromo compounds are treated with a solution of lithium iodide in 
+So the molecules are of the general type, $\ce{RBr}$, where $\ce{R}$ is the framework to which the functional group is attached. When such bromo compounds are treated with a solution of lithium iodide in 
 the solvent propanone (acetone, Structure __7.1__), they often undergo a reaction in which the bromo group is replaced by an iodo group:
 <!--Quote id=eqn007_001-->
 $\ce{RBr + I- = RI + Br-}$              (7.1)
 
 
-What happens in this reaction at the molecular level? As Figure 43 shows, the reactant R—Br contains a carbon-bromine bond, C—Br. Bromine is more electronegative than carbon, so the carbon atom in this bond carries a partial positive charge, written δ+, and the bromine atom a partial negative charge, written δ− (Structure __7.2__). The negatively charged iodide ion will then tend to approach, and become attached to, the positive carbon. As a carbon-iodine bond is formed, the carbon-bromine bond breaks and a bromide ion is ejected. The reaction is therefore a good illustration of an important point made at the end of Section 5: electronegativity differences often contribute to the reactivity of functional groups.
+What happens in this reaction at the molecular level? As Figure 43 shows, the reactant $\ce{(R-Br}$ contains a carbon-bromine bond, $\ce{(C-Br}$. Bromine is more electronegative than carbon, so the carbon atom in this bond carries a partial positive charge, written δ+, and the bromine atom a partial negative charge, written δ− (Structure __7.2__). The negatively charged iodide ion will then tend to approach, and become attached to, the positive carbon. As a carbon-iodine bond is formed, the carbon-bromine bond breaks and a bromide ion is ejected. The reaction is therefore a good illustration of an important point made at the end of Section 5: electronegativity differences often contribute to the reactivity of functional groups.
 
  ![inlinefigure](testimages/s205_2_i014bi.jpg) 
 
-What is interesting, however, is that in this case, the four bromo compounds respond at very different speeds; <a xmlns:str="http://exslt.org/strings" href="">Figure 43</a> contains their relative rates of reaction with iodide. They decrease from left to right. For example, CH<sub xmlns:str="http://exslt.org/strings">3</sub>Br reacts 221 000 times as quickly as (CH<sub xmlns:str="http://exslt.org/strings">3</sub>)<sub xmlns:str="http://exslt.org/strings">2</sub>CHBr, and the reaction of (CH<sub xmlns:str="http://exslt.org/strings">3</sub> )<sub xmlns:str="http://exslt.org/strings">3</sub>CBr is so slow that it appears not to take place at all.
+What is interesting, however, is that in this case, the four bromo compounds respond at very different speeds; <a xmlns:str="http://exslt.org/strings" href="">Figure 43</a> contains their relative rates of reaction with iodide. They decrease from left to right. For example, $\ce{CH3Br}$ reacts 221 000 times as quickly as $\ce{(CH3)2CHBr}$, and the reaction of $\ce{(CH3)3CBr}$ is so slow that it appears not to take place at all.
 
 The space-filling molecules explain this. The reaction is one in which an iodide ion must approach and become attached to the carbon atom that is bound to the bromine atom. There is most room for such an approach on the side of the carbon atom that is opposite to the bulky bromine atom - in other words, according to the direction of view depicted in Figure 43. Now look at the space-filling models at the bottom of Figure 43.
 <!--SAQ id=saq035-->
@@ -104,10 +104,10 @@ The space-filling molecules explain this. The reaction is one in which an iodide
 
 #### Question
 <!--Quote id=quo037-->
->Why do you think the reaction with iodide should be easier for CH<sub xmlns:str="http://exslt.org/strings">3</sub>Br than for (CH<sub xmlns:str="http://exslt.org/strings">3</sub>)<sub xmlns:str="http://exslt.org/strings">3</sub>CBr?
+>Why do you think the reaction with iodide should be easier for $\ce{CH3Br}$ than for $\ce{(CH3)3CBr}$?
 
 
-In CH<sub xmlns:str="http://exslt.org/strings">3</sub>Br, the carbon atom is very exposed to the incoming iodide. But if hydrogen atoms are replaced by the more bulky methyl groups, this exposure diminishes, until at (CH<sub xmlns:str="http://exslt.org/strings">3</sub>)<sub xmlns:str="http://exslt.org/strings">3</sub>CBr the carbon atom attached to bromine lies at the bottom of a small cavity created by the three surrounding methyl groups. The iodide cannot reach this carbon atom, so no reaction occurs.
+In $\ce{CH3Br}$, the carbon atom is very exposed to the incoming iodide. But if hydrogen atoms are replaced by the more bulky methyl groups, this exposure diminishes, until at $\ce{(CH3)3CBr}$ the carbon atom attached to bromine lies at the bottom of a small cavity created by the three surrounding methyl groups. The iodide cannot reach this carbon atom, so no reaction occurs.
 <!--ENDSAQ-->
 The effect that an organic group produces by virtue of its bulk is described as __steric__. Our chosen example is a crude one, but it illustrates an important idea. Whether the reaction occurs or not depends on the ease with which the iodide ion can gain access to the crucial site on the surface of the molecule. Such ideas can be applied to enzymes. Enzymes are protein molecules that facilitate vital biological reactions. They can do this because their molecular surfaces contain *active sites* to which the molecules participating in the reaction (known as *substrates*) can become temporarily bound. The active sites are crevices in the enzyme surface, often of a complicated shape. The substrate has the precise shape required to fit the crevice, but potential competitors that lack this shape are excluded (Figure 44). The need for the substrate to bind to the enzyme surface will often weaken other bonds within the substrate itself, encouraging the changes that the enzyme facilitates. So molecular shape has a fundamental role in the chemistry of life. Let us take a more careful look at it.
 
