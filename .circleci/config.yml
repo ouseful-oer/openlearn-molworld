@@ -14,14 +14,14 @@ jobs:
     working_directory: ~/checkout
 
     environment:
-      PIP_INSTALL: pip install --progress-bar off --upgrade
+      MINICONDA: $HOME/miniconda
 
     steps:
       - checkout
 
       - restore_cache:
           keys:
-            - v1-deps-{{ .Branch }}-{{ checksum "requirements.txt" }}
+            - v1-deps-{{ .Branch }}-{{ checksum "environment.yml" }}
             # fallbacks
             - v1-deps-{{ .Branch }}-
             - v1-deps-
@@ -30,24 +30,20 @@ jobs:
           command: |
             apt-get update
             apt-get install -y librsvg2-bin #python-rdkit librdkit1 rdkit-data
+            echo "export PATH=$MINICONDA/bin:$PATH" >> $BASH_ENV
+            source $BASH_ENV
             wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda.sh
-            bash ~/miniconda.sh -b -p ~/miniconda
+            bash ~/miniconda.sh -b -p $MINICONDA
+            conda env create -n sphinxenv -f environment.yml
+            source activate sphinxenv
             rm ~/miniconda.sh
-      - run:
-          name: Installing py and conda dependencies
-          command: |
-            export PATH=~/miniconda/bin/:$PATH
-            conda env create -f environment.yml
       - save_cache:
           paths:
-            - ~/.cache/pip
-          key: v1-deps-{{ .Branch }}-{{ checksum "requirements.txt" }}
+            - $MINICONDA
+          key: v1-deps-{{ .Branch }}-{{ checksum "environment.yml" }}
       - run:
           name: Building HTML - there is no cache atm?
           command: |
-            #this needs to be the conda python FFS
-            export PATH=~/miniconda/bin/:$PATH
-            conda activate sphinxenv
             python3 -m sphinx . build
             #Hacky way of giving the gh-pages branch a possibly README
             # and masking any HTML rendered README...
@@ -57,8 +53,6 @@ jobs:
           name: Pushing to gh-pages
           command: |
             # CircleCI ignore gh-pages https://discuss.circleci.com/t/cant-ignore-the-gh-pages-branch/2002
-            export PATH=~/miniconda/bin/:$PATH
-            conda activate sphinxenv
             ghp-import -p -n -f -m 'auto commit gh-pages [ci skip]' -r https://${GITHUB_PERSONAL_TOKEN}@github.com/${CIRCLE_PROJECT_USERNAME}/${CIRCLE_PROJECT_REPONAME}.git build
 workflows:
   version: 2
