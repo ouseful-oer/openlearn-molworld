@@ -31,12 +31,13 @@ jobs:
             apt-get update
             apt-get install -y librsvg2-bin #python-rdkit librdkit1 rdkit-data
             wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda.sh
-            bash ~/miniconda.sh -b -p ~/miniconda 
+            bash ~/miniconda.sh -b -p ~/miniconda
+            #export PATH=~/miniconda/bin:$PATH
             rm ~/miniconda.sh
       - run:
           name: Installing py and conda dependencies
           command: |
-            conda install -c conda-forge rdkit
+            ~/miniconda/bin/conda install -c conda-forge rdkit
             $PIP_INSTALL -r requirements.txt
       - save_cache:
           paths:
