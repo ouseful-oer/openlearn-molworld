@@ -18,7 +18,11 @@ jobs:
 
     steps:
       - checkout
-
+      - run:
+          name: Installing apt Packages
+          command: |
+            apt-get update
+            apt-get install -y librsvg2-bin python-rdkit librdkit1 rdkit-data
       - restore_cache:
           keys:
             - v1-deps-{{ .Branch }}-{{ checksum "requirements.txt" }}
@@ -33,12 +37,6 @@ jobs:
           paths:
             - ~/.cache/pip
           key: v1-deps-{{ .Branch }}-{{ checksum "requirements.txt" }}
-
-      - run:
-          name: Installing apt Packages
-          command: |
-            apt-get update
-            apt-get install -y librsvg2-bin python-rdkit librdkit1 rdkit-data
       - run:
           name: Building HTML - there is no cache atm?
           command: |
