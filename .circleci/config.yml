@@ -29,11 +29,15 @@ jobs:
           name: Installing apt Packages
           command: |
             apt-get update
-            apt-get install -y librsvg2-bin python-rdkit librdkit1 rdkit-data
+            apt-get install -y librsvg2-bin #python-rdkit librdkit1 rdkit-data
       - run:
           name: Installing py dependencies
           command: |
             $PIP_INSTALL -r requirements.txt
+      - run:
+          name: Try and install RDK via conda
+          command: |
+            conda install -c conda-forge rdkit
       - save_cache:
           paths:
             - ~/.cache/pip
