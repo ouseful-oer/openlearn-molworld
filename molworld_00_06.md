@@ -22,10 +22,10 @@ x=py3Dmol.view(query='cid:{}'.format(bromomethane.cid), width=300,height=300).se
 x
 ```
 
-						Figure 42 The structures of (a) methane, CH<sub xmlns:str="http://exslt.org/strings">4</sub>; (b) bromomethane, CH<sub xmlns:str="http://exslt.org/strings">3</sub>Br
+						Figure 42 The structures of (a) methane, $\ce{CH4}$; (b) bromomethane, $\ce{CH3Br}$
 
 
-We now take bromomethane (Figure 42b) and successively replace each hydrogen atom by a methyl group, CH<sub xmlns:str="http://exslt.org/strings">3</sub>, to give the molecules C﻿H﻿<sub xmlns:str="http://exslt.org/strings">3</sub>﻿C﻿H﻿<sub xmlns:str="http://exslt.org/strings">2</sub>﻿B﻿r, (﻿C﻿H﻿<sub xmlns:str="http://exslt.org/strings">3</sub>﻿)﻿<sub xmlns:str="http://exslt.org/strings">2</sub>CHBr and (﻿C﻿H﻿<sub xmlns:str="http://exslt.org/strings">3</sub>﻿)﻿<sub xmlns:str="http://exslt.org/strings">3</sub>﻿CBr. Ball-and-stick representations of each of these molecules are shown at the top of Figure 43. At each carbon atom, there are four bonds directed towards the corners of a tetrahedron, and the complexity of the molecular shape therefore increases from left to right, as the number of carbon atoms increases from one to four.
+We now take bromomethane (Figure 42b) and successively replace each hydrogen atom by a methyl group, $\ce{CH3}$, to give the molecules $\ce{CH3CH2Br}$, $\ce{(CH3)2CHBr}$ and $\ce{(CH3)3CBr}$. Ball-and-stick representations of each of these molecules are shown at the top of Figure 43. At each carbon atom, there are four bonds directed towards the corners of a tetrahedron, and the complexity of the molecular shape therefore increases from left to right, as the number of carbon atoms increases from one to four.
 
 
 ![Figure 43](testimages/s205_2_042i.jpg)
@@ -82,10 +82,10 @@ It is the bromo group, —Br.
 <!--ENDSAQ-->
  ![inlinefigure](testimages/s205_2_i014i.jpg) 
 
-So the molecules are of the general type, RBr, where R is the framework to which the functional group is attached. When such bromo compounds are treated with a solution of lithium iodide in 
+So the molecules are of the general type, $\ce{RBr}$, where R is the framework to which the functional group is attached. When such bromo compounds are treated with a solution of lithium iodide in 
 the solvent propanone (acetone, Structure __7.1__), they often undergo a reaction in which the bromo group is replaced by an iodo group:
 <!--Quote id=eqn007_001-->
->RBr + I<sup xmlns:str="http://exslt.org/strings">−</sup> = RI + Br<sup xmlns:str="http://exslt.org/strings">−</sup>              (7.1)
+$\ce{RBr + I- = RI + Br-}$              (7.1)
 
 
 What happens in this reaction at the molecular level? As Figure 43 shows, the reactant R—Br contains a carbon-bromine bond, C—Br. Bromine is more electronegative than carbon, so the carbon atom in this bond carries a partial positive charge, written δ+, and the bromine atom a partial negative charge, written δ− (Structure __7.2__). The negatively charged iodide ion will then tend to approach, and become attached to, the positive carbon. As a carbon-iodine bond is formed, the carbon-bromine bond breaks and a bromide ion is ejected. The reaction is therefore a good illustration of an important point made at the end of Section 5: electronegativity differences often contribute to the reactivity of functional groups.
