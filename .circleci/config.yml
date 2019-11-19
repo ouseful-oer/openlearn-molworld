@@ -37,11 +37,7 @@ jobs:
           name: Installing py and conda dependencies
           command: |
             export PATH=~/miniconda/bin/:$PATH
-            conda create -y --name sphinxenv
-            conda activate sphinxenv
-            conda install -c conda-forge rdkit
-            conda install pip
-            pip install -r requirements.txt
+            conda env create -f environment.yml
       - save_cache:
           paths:
             - ~/.cache/pip

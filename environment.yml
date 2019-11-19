@@ -1,0 +1,19 @@
+name: chemspinx
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - rdkit
+  - sphinx
+  - ipykernel
+  - ipywidgets
+  - pubchempy
+  - py3dmol
+  - pip:
+    - nbsphinx
+    - ghp-import
+    - jupytext
+    - Pygments
+    - sphinxcontrib-bibtex
+    - sphinxcontrib-svg2pdfconverter
+
