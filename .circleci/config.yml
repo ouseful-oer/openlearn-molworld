@@ -36,10 +36,12 @@ jobs:
       - run:
           name: Installing py and conda dependencies
           command: |
-            export PATH=~/miniconda/bin:$PATH
+            export PATH=~/miniconda/bin/:$PATH
+            conda create -y --name sphinxenv
+            conda activate sphinxenv
             conda install -c conda-forge rdkit
             conda install pip
-            pip install --upgrade -r requirements.txt
+            pip install -r requirements.txt
       - save_cache:
           paths:
             - ~/.cache/pip
@@ -47,6 +49,9 @@ jobs:
       - run:
           name: Building HTML - there is no cache atm?
           command: |
+            #this needs to be the conda python FFS
+            export PATH=~/miniconda/bin/:$PATH
+            conda activate sphinxenv
             python3 -m sphinx . build
             #Hacky way of giving the gh-pages branch a possibly README
             # and masking any HTML rendered README...
@@ -56,6 +61,8 @@ jobs:
           name: Pushing to gh-pages
           command: |
             # CircleCI ignore gh-pages https://discuss.circleci.com/t/cant-ignore-the-gh-pages-branch/2002
+            export PATH=~/miniconda/bin/:$PATH
+            conda activate sphinxenv
             ghp-import -p -n -f -m 'auto commit gh-pages [ci skip]' -r https://${GITHUB_PERSONAL_TOKEN}@github.com/${CIRCLE_PROJECT_USERNAME}/${CIRCLE_PROJECT_REPONAME}.git build
 workflows:
   version: 2
