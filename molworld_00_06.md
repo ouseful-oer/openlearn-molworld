@@ -62,6 +62,8 @@ def _addModel(compound, i):
     
 for i,compound in enumerate(['CCBr','CC(C)Br','CC(C)(C)Br'], start=1):
     _addModel(compound, i)
+    
+view
 ```
 
 
