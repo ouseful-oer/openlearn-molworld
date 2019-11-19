@@ -341,7 +341,6 @@ A bond in which the electron pair is provided by just one of the bonded atoms is
 ```python
 from rdkit import Chem
 from rdkit.Chem import AllChem, Draw
-from rdkit.Chem.Draw import IPythonConsole
 
 def smilesH(m):
     return AllChem.AddHs(Chem.MolFromSmiles(m))

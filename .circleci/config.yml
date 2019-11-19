@@ -28,18 +28,17 @@ jobs:
       - run:
           name: Installing apt Packages
           command: |
-            apt-get update
-            apt-get install -y librsvg2-bin #python-rdkit librdkit1 rdkit-data
             echo "export PATH=$MINICONDA/bin:$PATH" >> $BASH_ENV
             source $BASH_ENV
             wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda.sh
             bash ~/miniconda.sh -b -p $MINICONDA
             conda env create -n sphinxenv -f environment.yml
             source activate sphinxenv
+            apt-get update && apt-get install -y librsvg2-bin pandoc #python-rdkit librdkit1 rdkit-data
             rm ~/miniconda.sh
       - save_cache:
           paths:
-            - $MINICONDA
+            - $MINICONDA/
           key: v1-deps-{{ .Branch }}-{{ checksum "environment.yml" }}
       - run:
           name: Building HTML - there is no cache atm?
