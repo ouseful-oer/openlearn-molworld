@@ -98,7 +98,8 @@ html_theme_options = {
     # "github_user": "",
     # "github_repo": "",
     # "github_button": True,
-    "show_relbar_bottom": True
+    "show_relbar_bottom": True,
+    "fixed_sidebar": True
     }
 
 # Add any paths that contain custom static files (such as style sheets) here,
